@@ -208,7 +208,14 @@ const milestones = [
   { threshold: 3000, message: "👑 Perfect 3000! You're a Word Wizard Supreme!" }
 ];
 
- 
+  { threshold: 50, message: "🎯 You're on fire! Keep it up!" },
+  { threshold: 100, message: "🌟 Incredible work! Over 100 points!" },
+  { threshold: 200, message: "🏅 You're a language champion!" },
+  { threshold: 400, message: "🚀 Outstanding! You're flying through!" },
+  { threshold: 600, message: "🧠 Big brain mode activated!" },
+  { threshold: 800, message: "🎓 Word master! Nearly there!" },
+  { threshold: 1000, message: "👑 You did it! A perfect 1000! You're a word wizard!" }
+];
 
     let messagesShown = JSON.parse(localStorage.getItem("messagesShown")) || [];
 
@@ -333,19 +340,9 @@ if (availableIndexes.length === 0) {
   }, 8000);
   return;
 }
-
-  sentenceBox.innerHTML = "🎉 You've completed all prompts!";
-  document.querySelector(".button-container").style.display = "none";
-  clue.style.display = "none";
-  questionText.style.display = "none";
-  nextButton.classList.remove("show");
-  message.style.display = "none";
-  return;
-}
 currentIndex = availableIndexes[0];
 
-        currentIndex = parseInt(localStorage.getItem("lastIndex")) || 0;
-        if (currentIndex >= prompts.length) currentIndex = 0;
+        
         updateScoreboard();
         loadQuestion();
       })
