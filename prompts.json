@@ -1,27 +1,9 @@
 [
   {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every day.",
-    "answer": "verb",
-    "clue": "It's an action."
-  },
-  {
-    "word": "happy",
-    "sentence": "She was <span class='highlight'>happy</span> with the gift.",
+    "word": "smart",
+    "sentence": "The student is <span class='highlight'>smart</span> and curious.",
     "answer": "adjective",
-    "clue": "It describes how she felt."
-  },
-  {
-    "word": "blue",
-    "sentence": "He wore a <span class='highlight'>blue</span> jacket.",
-    "answer": "adjective",
-    "clue": "It describes a color."
-  },
-  {
-    "word": "loudly",
-    "sentence": "The baby cried <span class='highlight'>loudly</span> all night.",
-    "answer": "adverb",
-    "clue": "It tells how."
+    "clue": "It describes intelligence."
   },
   {
     "word": "eat",
@@ -30,50 +12,8 @@
     "clue": "It's something you do."
   },
   {
-    "word": "book",
-    "sentence": "The <span class='highlight'>book</span> is on the table.",
-    "answer": "noun",
-    "clue": "It is an object."
-  },
-  {
-    "word": "quick",
-    "sentence": "He gave a <span class='highlight'>quick</span> answer.",
-    "answer": "adjective",
-    "clue": "It describes speed."
-  },
-  {
-    "word": "slowly",
-    "sentence": "She walked <span class='highlight'>slowly</span> to class.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "think",
-    "sentence": "They <span class='highlight'>think</span> about it often.",
-    "answer": "verb",
-    "clue": "It happens in your head."
-  },
-  {
-    "word": "table",
-    "sentence": "The <span class='highlight'>table</span> is made of wood.",
-    "answer": "noun",
-    "clue": "You put things on it."
-  },
-  {
-    "word": "write",
-    "sentence": "I <span class='highlight'>write</span> letters every week.",
-    "answer": "verb",
-    "clue": "You use a pen or keyboard."
-  },
-  {
-    "word": "soft",
-    "sentence": "The pillow is <span class='highlight'>soft</span> and fluffy.",
-    "answer": "adjective",
-    "clue": "It describes touch."
-  },
-  {
-    "word": "fast",
-    "sentence": "He runs <span class='highlight'>fast</span> in races.",
+    "word": "loudly",
+    "sentence": "The baby cried <span class='highlight'>loudly</span> all night.",
     "answer": "adverb",
     "clue": "It tells how."
   },
@@ -84,88 +24,10 @@
     "clue": "You sit on it."
   },
   {
-    "word": "clean",
-    "sentence": "We <span class='highlight'>clean</span> our house on Sundays.",
-    "answer": "verb",
-    "clue": "It's a chore."
-  },
-  {
-    "word": "smart",
-    "sentence": "The student is <span class='highlight'>smart</span> and curious.",
-    "answer": "adjective",
-    "clue": "It describes intelligence."
-  },
-  {
-    "word": "quietly",
-    "sentence": "She speaks <span class='highlight'>quietly</span> in class.",
+    "word": "fast",
+    "sentence": "He runs <span class='highlight'>fast</span> in races.",
     "answer": "adverb",
     "clue": "It tells how."
-  },
-  {
-    "word": "shoe",
-    "sentence": "His <span class='highlight'>shoe</span> is untied.",
-    "answer": "noun",
-    "clue": "You wear it."
-  },
-  {
-    "word": "laugh",
-    "sentence": "They <span class='highlight'>laugh</span> at the joke.",
-    "answer": "verb",
-    "clue": "It's a reaction."
-  },
-  {
-    "word": "tall",
-    "sentence": "The building is <span class='highlight'>tall</span> and gray.",
-    "answer": "adjective",
-    "clue": "It describes height."
-  },
-  {
-    "word": "neatly",
-    "sentence": "He <span class='highlight'>neatly</span> arranged the books.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "dog",
-    "sentence": "The <span class='highlight'>dog</span> barked loudly.",
-    "answer": "noun",
-    "clue": "It\u2019s an animal."
-  },
-  {
-    "word": "cook",
-    "sentence": "She likes to <span class='highlight'>cook</span> new dishes.",
-    "answer": "verb",
-    "clue": "You do it in a kitchen."
-  },
-  {
-    "word": "bright",
-    "sentence": "It was a <span class='highlight'>bright</span> day.",
-    "answer": "adjective",
-    "clue": "It describes light."
-  },
-  {
-    "word": "happily",
-    "sentence": "The kids played <span class='highlight'>happily</span> outside.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "cup",
-    "sentence": "The <span class='highlight'>cup</span> is full of water.",
-    "answer": "noun",
-    "clue": "You drink from it."
-  },
-  {
-    "word": "climb",
-    "sentence": "They <span class='highlight'>climb</span> trees in summer.",
-    "answer": "verb",
-    "clue": "It\u2019s an outdoor activity."
-  },
-  {
-    "word": "cold",
-    "sentence": "The water was <span class='highlight'>cold</span> and refreshing.",
-    "answer": "adjective",
-    "clue": "It describes temperature."
   },
   {
     "word": "nicely",
@@ -180,10 +42,16 @@
     "clue": "It's an action."
   },
   {
-    "word": "happy",
-    "sentence": "She was <span class='highlight'>happy</span> with the gift.",
-    "answer": "adjective",
-    "clue": "It describes how she felt."
+    "word": "table",
+    "sentence": "The <span class='highlight'>table</span> is made of wood.",
+    "answer": "noun",
+    "clue": "You put things on it."
+  },
+  {
+    "word": "fast",
+    "sentence": "He runs <span class='highlight'>fast</span> in races.",
+    "answer": "adverb",
+    "clue": "It tells how."
   },
   {
     "word": "blue",
@@ -192,34 +60,34 @@
     "clue": "It describes a color."
   },
   {
-    "word": "loudly",
-    "sentence": "The baby cried <span class='highlight'>loudly</span> all night.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "eat",
-    "sentence": "I <span class='highlight'>eat</span> lunch at noon.",
-    "answer": "verb",
-    "clue": "It's something you do."
-  },
-  {
-    "word": "book",
-    "sentence": "The <span class='highlight'>book</span> is on the table.",
+    "word": "cup",
+    "sentence": "The <span class='highlight'>cup</span> is full of water.",
     "answer": "noun",
-    "clue": "It is an object."
+    "clue": "You drink from it."
   },
   {
-    "word": "quick",
-    "sentence": "He gave a <span class='highlight'>quick</span> answer.",
+    "word": "blue",
+    "sentence": "He wore a <span class='highlight'>blue</span> jacket.",
     "answer": "adjective",
-    "clue": "It describes speed."
+    "clue": "It describes a color."
   },
   {
-    "word": "slowly",
-    "sentence": "She walked <span class='highlight'>slowly</span> to class.",
+    "word": "clean",
+    "sentence": "We <span class='highlight'>clean</span> our house on Sundays.",
+    "answer": "verb",
+    "clue": "It's a chore."
+  },
+  {
+    "word": "fast",
+    "sentence": "He runs <span class='highlight'>fast</span> in races.",
     "answer": "adverb",
     "clue": "It tells how."
+  },
+  {
+    "word": "cup",
+    "sentence": "The <span class='highlight'>cup</span> is full of water.",
+    "answer": "noun",
+    "clue": "You drink from it."
   },
   {
     "word": "think",
@@ -228,16 +96,166 @@
     "clue": "It happens in your head."
   },
   {
+    "word": "clean",
+    "sentence": "We <span class='highlight'>clean</span> our house on Sundays.",
+    "answer": "verb",
+    "clue": "It's a chore."
+  },
+  {
+    "word": "think",
+    "sentence": "They <span class='highlight'>think</span> about it often.",
+    "answer": "verb",
+    "clue": "It happens in your head."
+  },
+  {
+    "word": "quietly",
+    "sentence": "She speaks <span class='highlight'>quietly</span> in class.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "loudly",
+    "sentence": "The baby cried <span class='highlight'>loudly</span> all night.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
     "word": "table",
     "sentence": "The <span class='highlight'>table</span> is made of wood.",
     "answer": "noun",
     "clue": "You put things on it."
   },
   {
-    "word": "write",
-    "sentence": "I <span class='highlight'>write</span> letters every week.",
+    "word": "cook",
+    "sentence": "She likes to <span class='highlight'>cook</span> new dishes.",
     "answer": "verb",
-    "clue": "You use a pen or keyboard."
+    "clue": "You do it in a kitchen."
+  },
+  {
+    "word": "eat",
+    "sentence": "I <span class='highlight'>eat</span> lunch at noon.",
+    "answer": "verb",
+    "clue": "It's something you do."
+  },
+  {
+    "word": "smart",
+    "sentence": "The student is <span class='highlight'>smart</span> and curious.",
+    "answer": "adjective",
+    "clue": "It describes intelligence."
+  },
+  {
+    "word": "bright",
+    "sentence": "It was a <span class='highlight'>bright</span> day.",
+    "answer": "adjective",
+    "clue": "It describes light."
+  },
+  {
+    "word": "shoe",
+    "sentence": "His <span class='highlight'>shoe</span> is untied.",
+    "answer": "noun",
+    "clue": "You wear it."
+  },
+  {
+    "word": "chair",
+    "sentence": "That <span class='highlight'>chair</span> is broken.",
+    "answer": "noun",
+    "clue": "You sit on it."
+  },
+  {
+    "word": "neatly",
+    "sentence": "He <span class='highlight'>neatly</span> arranged the books.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "fast",
+    "sentence": "He runs <span class='highlight'>fast</span> in races.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "shoe",
+    "sentence": "His <span class='highlight'>shoe</span> is untied.",
+    "answer": "noun",
+    "clue": "You wear it."
+  },
+  {
+    "word": "loudly",
+    "sentence": "The baby cried <span class='highlight'>loudly</span> all night.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "chair",
+    "sentence": "That <span class='highlight'>chair</span> is broken.",
+    "answer": "noun",
+    "clue": "You sit on it."
+  },
+  {
+    "word": "eat",
+    "sentence": "I <span class='highlight'>eat</span> lunch at noon.",
+    "answer": "verb",
+    "clue": "It's something you do."
+  },
+  {
+    "word": "cook",
+    "sentence": "She likes to <span class='highlight'>cook</span> new dishes.",
+    "answer": "verb",
+    "clue": "You do it in a kitchen."
+  },
+  {
+    "word": "dog",
+    "sentence": "The <span class='highlight'>dog</span> barked loudly.",
+    "answer": "noun",
+    "clue": "It\u2019s an animal."
+  },
+  {
+    "word": "book",
+    "sentence": "The <span class='highlight'>book</span> is on the table.",
+    "answer": "noun",
+    "clue": "It is an object."
+  },
+  {
+    "word": "fast",
+    "sentence": "He runs <span class='highlight'>fast</span> in races.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "tall",
+    "sentence": "The building is <span class='highlight'>tall</span> and gray.",
+    "answer": "adjective",
+    "clue": "It describes height."
+  },
+  {
+    "word": "chair",
+    "sentence": "That <span class='highlight'>chair</span> is broken.",
+    "answer": "noun",
+    "clue": "You sit on it."
+  },
+  {
+    "word": "soft",
+    "sentence": "The pillow is <span class='highlight'>soft</span> and fluffy.",
+    "answer": "adjective",
+    "clue": "It describes touch."
+  },
+  {
+    "word": "quietly",
+    "sentence": "She speaks <span class='highlight'>quietly</span> in class.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "cup",
+    "sentence": "The <span class='highlight'>cup</span> is full of water.",
+    "answer": "noun",
+    "clue": "You drink from it."
+  },
+  {
+    "word": "happily",
+    "sentence": "The kids played <span class='highlight'>happily</span> outside.",
+    "answer": "adverb",
+    "clue": "It tells how."
   },
   {
     "word": "soft",
@@ -252,22 +270,16 @@
     "clue": "It tells how."
   },
   {
-    "word": "chair",
-    "sentence": "That <span class='highlight'>chair</span> is broken.",
+    "word": "slowly",
+    "sentence": "She walked <span class='highlight'>slowly</span> to class.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "book",
+    "sentence": "The <span class='highlight'>book</span> is on the table.",
     "answer": "noun",
-    "clue": "You sit on it."
-  },
-  {
-    "word": "clean",
-    "sentence": "We <span class='highlight'>clean</span> our house on Sundays.",
-    "answer": "verb",
-    "clue": "It's a chore."
-  },
-  {
-    "word": "smart",
-    "sentence": "The student is <span class='highlight'>smart</span> and curious.",
-    "answer": "adjective",
-    "clue": "It describes intelligence."
+    "clue": "It is an object."
   },
   {
     "word": "quietly",
@@ -276,34 +288,28 @@
     "clue": "It tells how."
   },
   {
-    "word": "shoe",
-    "sentence": "His <span class='highlight'>shoe</span> is untied.",
-    "answer": "noun",
-    "clue": "You wear it."
-  },
-  {
-    "word": "laugh",
-    "sentence": "They <span class='highlight'>laugh</span> at the joke.",
+    "word": "cook",
+    "sentence": "She likes to <span class='highlight'>cook</span> new dishes.",
     "answer": "verb",
-    "clue": "It's a reaction."
+    "clue": "You do it in a kitchen."
   },
   {
-    "word": "tall",
-    "sentence": "The building is <span class='highlight'>tall</span> and gray.",
+    "word": "smart",
+    "sentence": "The student is <span class='highlight'>smart</span> and curious.",
     "answer": "adjective",
-    "clue": "It describes height."
+    "clue": "It describes intelligence."
   },
   {
-    "word": "neatly",
-    "sentence": "He <span class='highlight'>neatly</span> arranged the books.",
+    "word": "blue",
+    "sentence": "He wore a <span class='highlight'>blue</span> jacket.",
+    "answer": "adjective",
+    "clue": "It describes a color."
+  },
+  {
+    "word": "happily",
+    "sentence": "The kids played <span class='highlight'>happily</span> outside.",
     "answer": "adverb",
     "clue": "It tells how."
-  },
-  {
-    "word": "dog",
-    "sentence": "The <span class='highlight'>dog</span> barked loudly.",
-    "answer": "noun",
-    "clue": "It\u2019s an animal."
   },
   {
     "word": "cook",
@@ -312,10 +318,100 @@
     "clue": "You do it in a kitchen."
   },
   {
+    "word": "loudly",
+    "sentence": "The baby cried <span class='highlight'>loudly</span> all night.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "cup",
+    "sentence": "The <span class='highlight'>cup</span> is full of water.",
+    "answer": "noun",
+    "clue": "You drink from it."
+  },
+  {
+    "word": "smart",
+    "sentence": "The student is <span class='highlight'>smart</span> and curious.",
+    "answer": "adjective",
+    "clue": "It describes intelligence."
+  },
+  {
     "word": "bright",
     "sentence": "It was a <span class='highlight'>bright</span> day.",
     "answer": "adjective",
     "clue": "It describes light."
+  },
+  {
+    "word": "cook",
+    "sentence": "She likes to <span class='highlight'>cook</span> new dishes.",
+    "answer": "verb",
+    "clue": "You do it in a kitchen."
+  },
+  {
+    "word": "eat",
+    "sentence": "I <span class='highlight'>eat</span> lunch at noon.",
+    "answer": "verb",
+    "clue": "It's something you do."
+  },
+  {
+    "word": "nicely",
+    "sentence": "He wrapped the gift <span class='highlight'>nicely</span>.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "book",
+    "sentence": "The <span class='highlight'>book</span> is on the table.",
+    "answer": "noun",
+    "clue": "It is an object."
+  },
+  {
+    "word": "shoe",
+    "sentence": "His <span class='highlight'>shoe</span> is untied.",
+    "answer": "noun",
+    "clue": "You wear it."
+  },
+  {
+    "word": "dog",
+    "sentence": "The <span class='highlight'>dog</span> barked loudly.",
+    "answer": "noun",
+    "clue": "It\u2019s an animal."
+  },
+  {
+    "word": "quick",
+    "sentence": "He gave a <span class='highlight'>quick</span> answer.",
+    "answer": "adjective",
+    "clue": "It describes speed."
+  },
+  {
+    "word": "cold",
+    "sentence": "The water was <span class='highlight'>cold</span> and refreshing.",
+    "answer": "adjective",
+    "clue": "It describes temperature."
+  },
+  {
+    "word": "run",
+    "sentence": "They <span class='highlight'>run</span> every day.",
+    "answer": "verb",
+    "clue": "It's an action."
+  },
+  {
+    "word": "think",
+    "sentence": "They <span class='highlight'>think</span> about it often.",
+    "answer": "verb",
+    "clue": "It happens in your head."
+  },
+  {
+    "word": "write",
+    "sentence": "I <span class='highlight'>write</span> letters every week.",
+    "answer": "verb",
+    "clue": "You use a pen or keyboard."
+  },
+  {
+    "word": "table",
+    "sentence": "The <span class='highlight'>table</span> is made of wood.",
+    "answer": "noun",
+    "clue": "You put things on it."
   },
   {
     "word": "happily",
@@ -330,10 +426,40 @@
     "clue": "You drink from it."
   },
   {
-    "word": "climb",
-    "sentence": "They <span class='highlight'>climb</span> trees in summer.",
+    "word": "slowly",
+    "sentence": "She walked <span class='highlight'>slowly</span> to class.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "write",
+    "sentence": "I <span class='highlight'>write</span> letters every week.",
     "answer": "verb",
-    "clue": "It\u2019s an outdoor activity."
+    "clue": "You use a pen or keyboard."
+  },
+  {
+    "word": "neatly",
+    "sentence": "He <span class='highlight'>neatly</span> arranged the books.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "smart",
+    "sentence": "The student is <span class='highlight'>smart</span> and curious.",
+    "answer": "adjective",
+    "clue": "It describes intelligence."
+  },
+  {
+    "word": "soft",
+    "sentence": "The pillow is <span class='highlight'>soft</span> and fluffy.",
+    "answer": "adjective",
+    "clue": "It describes touch."
+  },
+  {
+    "word": "chair",
+    "sentence": "That <span class='highlight'>chair</span> is broken.",
+    "answer": "noun",
+    "clue": "You sit on it."
   },
   {
     "word": "cold",
@@ -342,10 +468,82 @@
     "clue": "It describes temperature."
   },
   {
-    "word": "nicely",
-    "sentence": "He wrapped the gift <span class='highlight'>nicely</span>.",
+    "word": "blue",
+    "sentence": "He wore a <span class='highlight'>blue</span> jacket.",
+    "answer": "adjective",
+    "clue": "It describes a color."
+  },
+  {
+    "word": "slowly",
+    "sentence": "She walked <span class='highlight'>slowly</span> to class.",
     "answer": "adverb",
     "clue": "It tells how."
+  },
+  {
+    "word": "smart",
+    "sentence": "The student is <span class='highlight'>smart</span> and curious.",
+    "answer": "adjective",
+    "clue": "It describes intelligence."
+  },
+  {
+    "word": "write",
+    "sentence": "I <span class='highlight'>write</span> letters every week.",
+    "answer": "verb",
+    "clue": "You use a pen or keyboard."
+  },
+  {
+    "word": "chair",
+    "sentence": "That <span class='highlight'>chair</span> is broken.",
+    "answer": "noun",
+    "clue": "You sit on it."
+  },
+  {
+    "word": "run",
+    "sentence": "They <span class='highlight'>run</span> every day.",
+    "answer": "verb",
+    "clue": "It's an action."
+  },
+  {
+    "word": "bright",
+    "sentence": "It was a <span class='highlight'>bright</span> day.",
+    "answer": "adjective",
+    "clue": "It describes light."
+  },
+  {
+    "word": "quietly",
+    "sentence": "She speaks <span class='highlight'>quietly</span> in class.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "cup",
+    "sentence": "The <span class='highlight'>cup</span> is full of water.",
+    "answer": "noun",
+    "clue": "You drink from it."
+  },
+  {
+    "word": "quick",
+    "sentence": "He gave a <span class='highlight'>quick</span> answer.",
+    "answer": "adjective",
+    "clue": "It describes speed."
+  },
+  {
+    "word": "quick",
+    "sentence": "He gave a <span class='highlight'>quick</span> answer.",
+    "answer": "adjective",
+    "clue": "It describes speed."
+  },
+  {
+    "word": "shoe",
+    "sentence": "His <span class='highlight'>shoe</span> is untied.",
+    "answer": "noun",
+    "clue": "You wear it."
+  },
+  {
+    "word": "climb",
+    "sentence": "They <span class='highlight'>climb</span> trees in summer.",
+    "answer": "verb",
+    "clue": "It\u2019s an outdoor activity."
   },
   {
     "word": "run",
@@ -360,28 +558,22 @@
     "clue": "It describes how she felt."
   },
   {
-    "word": "blue",
-    "sentence": "He wore a <span class='highlight'>blue</span> jacket.",
-    "answer": "adjective",
-    "clue": "It describes a color."
-  },
-  {
-    "word": "loudly",
-    "sentence": "The baby cried <span class='highlight'>loudly</span> all night.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "eat",
-    "sentence": "I <span class='highlight'>eat</span> lunch at noon.",
+    "word": "run",
+    "sentence": "They <span class='highlight'>run</span> every day.",
     "answer": "verb",
-    "clue": "It's something you do."
+    "clue": "It's an action."
   },
   {
-    "word": "book",
-    "sentence": "The <span class='highlight'>book</span> is on the table.",
-    "answer": "noun",
-    "clue": "It is an object."
+    "word": "climb",
+    "sentence": "They <span class='highlight'>climb</span> trees in summer.",
+    "answer": "verb",
+    "clue": "It\u2019s an outdoor activity."
+  },
+  {
+    "word": "climb",
+    "sentence": "They <span class='highlight'>climb</span> trees in summer.",
+    "answer": "verb",
+    "clue": "It\u2019s an outdoor activity."
   },
   {
     "word": "quick",
@@ -390,10 +582,28 @@
     "clue": "It describes speed."
   },
   {
-    "word": "slowly",
-    "sentence": "She walked <span class='highlight'>slowly</span> to class.",
-    "answer": "adverb",
-    "clue": "It tells how."
+    "word": "eat",
+    "sentence": "I <span class='highlight'>eat</span> lunch at noon.",
+    "answer": "verb",
+    "clue": "It's something you do."
+  },
+  {
+    "word": "chair",
+    "sentence": "That <span class='highlight'>chair</span> is broken.",
+    "answer": "noun",
+    "clue": "You sit on it."
+  },
+  {
+    "word": "bright",
+    "sentence": "It was a <span class='highlight'>bright</span> day.",
+    "answer": "adjective",
+    "clue": "It describes light."
+  },
+  {
+    "word": "run",
+    "sentence": "They <span class='highlight'>run</span> every day.",
+    "answer": "verb",
+    "clue": "It's an action."
   },
   {
     "word": "think",
@@ -402,22 +612,40 @@
     "clue": "It happens in your head."
   },
   {
-    "word": "table",
-    "sentence": "The <span class='highlight'>table</span> is made of wood.",
-    "answer": "noun",
-    "clue": "You put things on it."
-  },
-  {
-    "word": "write",
-    "sentence": "I <span class='highlight'>write</span> letters every week.",
-    "answer": "verb",
-    "clue": "You use a pen or keyboard."
-  },
-  {
-    "word": "soft",
-    "sentence": "The pillow is <span class='highlight'>soft</span> and fluffy.",
+    "word": "happy",
+    "sentence": "She was <span class='highlight'>happy</span> with the gift.",
     "answer": "adjective",
-    "clue": "It describes touch."
+    "clue": "It describes how she felt."
+  },
+  {
+    "word": "climb",
+    "sentence": "They <span class='highlight'>climb</span> trees in summer.",
+    "answer": "verb",
+    "clue": "It\u2019s an outdoor activity."
+  },
+  {
+    "word": "cold",
+    "sentence": "The water was <span class='highlight'>cold</span> and refreshing.",
+    "answer": "adjective",
+    "clue": "It describes temperature."
+  },
+  {
+    "word": "laugh",
+    "sentence": "They <span class='highlight'>laugh</span> at the joke.",
+    "answer": "verb",
+    "clue": "It's a reaction."
+  },
+  {
+    "word": "nicely",
+    "sentence": "He wrapped the gift <span class='highlight'>nicely</span>.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "blue",
+    "sentence": "He wore a <span class='highlight'>blue</span> jacket.",
+    "answer": "adjective",
+    "clue": "It describes a color."
   },
   {
     "word": "fast",
@@ -432,172 +660,10 @@
     "clue": "You sit on it."
   },
   {
-    "word": "clean",
-    "sentence": "We <span class='highlight'>clean</span> our house on Sundays.",
-    "answer": "verb",
-    "clue": "It's a chore."
-  },
-  {
-    "word": "smart",
-    "sentence": "The student is <span class='highlight'>smart</span> and curious.",
-    "answer": "adjective",
-    "clue": "It describes intelligence."
-  },
-  {
-    "word": "quietly",
-    "sentence": "She speaks <span class='highlight'>quietly</span> in class.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "shoe",
-    "sentence": "His <span class='highlight'>shoe</span> is untied.",
-    "answer": "noun",
-    "clue": "You wear it."
-  },
-  {
-    "word": "laugh",
-    "sentence": "They <span class='highlight'>laugh</span> at the joke.",
-    "answer": "verb",
-    "clue": "It's a reaction."
-  },
-  {
     "word": "tall",
     "sentence": "The building is <span class='highlight'>tall</span> and gray.",
     "answer": "adjective",
     "clue": "It describes height."
-  },
-  {
-    "word": "neatly",
-    "sentence": "He <span class='highlight'>neatly</span> arranged the books.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "dog",
-    "sentence": "The <span class='highlight'>dog</span> barked loudly.",
-    "answer": "noun",
-    "clue": "It\u2019s an animal."
-  },
-  {
-    "word": "cook",
-    "sentence": "She likes to <span class='highlight'>cook</span> new dishes.",
-    "answer": "verb",
-    "clue": "You do it in a kitchen."
-  },
-  {
-    "word": "bright",
-    "sentence": "It was a <span class='highlight'>bright</span> day.",
-    "answer": "adjective",
-    "clue": "It describes light."
-  },
-  {
-    "word": "happily",
-    "sentence": "The kids played <span class='highlight'>happily</span> outside.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "cup",
-    "sentence": "The <span class='highlight'>cup</span> is full of water.",
-    "answer": "noun",
-    "clue": "You drink from it."
-  },
-  {
-    "word": "climb",
-    "sentence": "They <span class='highlight'>climb</span> trees in summer.",
-    "answer": "verb",
-    "clue": "It\u2019s an outdoor activity."
-  },
-  {
-    "word": "cold",
-    "sentence": "The water was <span class='highlight'>cold</span> and refreshing.",
-    "answer": "adjective",
-    "clue": "It describes temperature."
-  },
-  {
-    "word": "nicely",
-    "sentence": "He wrapped the gift <span class='highlight'>nicely</span>.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every day.",
-    "answer": "verb",
-    "clue": "It's an action."
-  },
-  {
-    "word": "happy",
-    "sentence": "She was <span class='highlight'>happy</span> with the gift.",
-    "answer": "adjective",
-    "clue": "It describes how she felt."
-  },
-  {
-    "word": "blue",
-    "sentence": "He wore a <span class='highlight'>blue</span> jacket.",
-    "answer": "adjective",
-    "clue": "It describes a color."
-  },
-  {
-    "word": "loudly",
-    "sentence": "The baby cried <span class='highlight'>loudly</span> all night.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "eat",
-    "sentence": "I <span class='highlight'>eat</span> lunch at noon.",
-    "answer": "verb",
-    "clue": "It's something you do."
-  },
-  {
-    "word": "book",
-    "sentence": "The <span class='highlight'>book</span> is on the table.",
-    "answer": "noun",
-    "clue": "It is an object."
-  },
-  {
-    "word": "quick",
-    "sentence": "He gave a <span class='highlight'>quick</span> answer.",
-    "answer": "adjective",
-    "clue": "It describes speed."
-  },
-  {
-    "word": "slowly",
-    "sentence": "She walked <span class='highlight'>slowly</span> to class.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "think",
-    "sentence": "They <span class='highlight'>think</span> about it often.",
-    "answer": "verb",
-    "clue": "It happens in your head."
-  },
-  {
-    "word": "table",
-    "sentence": "The <span class='highlight'>table</span> is made of wood.",
-    "answer": "noun",
-    "clue": "You put things on it."
-  },
-  {
-    "word": "write",
-    "sentence": "I <span class='highlight'>write</span> letters every week.",
-    "answer": "verb",
-    "clue": "You use a pen or keyboard."
-  },
-  {
-    "word": "soft",
-    "sentence": "The pillow is <span class='highlight'>soft</span> and fluffy.",
-    "answer": "adjective",
-    "clue": "It describes touch."
-  },
-  {
-    "word": "fast",
-    "sentence": "He runs <span class='highlight'>fast</span> in races.",
-    "answer": "adverb",
-    "clue": "It tells how."
   },
   {
     "word": "chair",
@@ -606,70 +672,10 @@
     "clue": "You sit on it."
   },
   {
-    "word": "clean",
-    "sentence": "We <span class='highlight'>clean</span> our house on Sundays.",
-    "answer": "verb",
-    "clue": "It's a chore."
-  },
-  {
-    "word": "smart",
-    "sentence": "The student is <span class='highlight'>smart</span> and curious.",
+    "word": "quick",
+    "sentence": "He gave a <span class='highlight'>quick</span> answer.",
     "answer": "adjective",
-    "clue": "It describes intelligence."
-  },
-  {
-    "word": "quietly",
-    "sentence": "She speaks <span class='highlight'>quietly</span> in class.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "shoe",
-    "sentence": "His <span class='highlight'>shoe</span> is untied.",
-    "answer": "noun",
-    "clue": "You wear it."
-  },
-  {
-    "word": "laugh",
-    "sentence": "They <span class='highlight'>laugh</span> at the joke.",
-    "answer": "verb",
-    "clue": "It's a reaction."
-  },
-  {
-    "word": "tall",
-    "sentence": "The building is <span class='highlight'>tall</span> and gray.",
-    "answer": "adjective",
-    "clue": "It describes height."
-  },
-  {
-    "word": "neatly",
-    "sentence": "He <span class='highlight'>neatly</span> arranged the books.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "dog",
-    "sentence": "The <span class='highlight'>dog</span> barked loudly.",
-    "answer": "noun",
-    "clue": "It\u2019s an animal."
-  },
-  {
-    "word": "cook",
-    "sentence": "She likes to <span class='highlight'>cook</span> new dishes.",
-    "answer": "verb",
-    "clue": "You do it in a kitchen."
-  },
-  {
-    "word": "bright",
-    "sentence": "It was a <span class='highlight'>bright</span> day.",
-    "answer": "adjective",
-    "clue": "It describes light."
-  },
-  {
-    "word": "happily",
-    "sentence": "The kids played <span class='highlight'>happily</span> outside.",
-    "answer": "adverb",
-    "clue": "It tells how."
+    "clue": "It describes speed."
   },
   {
     "word": "cup",
@@ -678,20 +684,20 @@
     "clue": "You drink from it."
   },
   {
-    "word": "climb",
-    "sentence": "They <span class='highlight'>climb</span> trees in summer.",
-    "answer": "verb",
-    "clue": "It\u2019s an outdoor activity."
+    "word": "quietly",
+    "sentence": "She speaks <span class='highlight'>quietly</span> in class.",
+    "answer": "adverb",
+    "clue": "It tells how."
   },
   {
-    "word": "cold",
-    "sentence": "The water was <span class='highlight'>cold</span> and refreshing.",
-    "answer": "adjective",
-    "clue": "It describes temperature."
+    "word": "neatly",
+    "sentence": "He <span class='highlight'>neatly</span> arranged the books.",
+    "answer": "adverb",
+    "clue": "It tells how."
   },
   {
-    "word": "nicely",
-    "sentence": "He wrapped the gift <span class='highlight'>nicely</span>.",
+    "word": "neatly",
+    "sentence": "He <span class='highlight'>neatly</span> arranged the books.",
     "answer": "adverb",
     "clue": "It tells how."
   },
@@ -702,40 +708,10 @@
     "clue": "It's an action."
   },
   {
-    "word": "happy",
-    "sentence": "She was <span class='highlight'>happy</span> with the gift.",
-    "answer": "adjective",
-    "clue": "It describes how she felt."
-  },
-  {
-    "word": "blue",
-    "sentence": "He wore a <span class='highlight'>blue</span> jacket.",
-    "answer": "adjective",
-    "clue": "It describes a color."
-  },
-  {
-    "word": "loudly",
-    "sentence": "The baby cried <span class='highlight'>loudly</span> all night.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "eat",
-    "sentence": "I <span class='highlight'>eat</span> lunch at noon.",
+    "word": "laugh",
+    "sentence": "They <span class='highlight'>laugh</span> at the joke.",
     "answer": "verb",
-    "clue": "It's something you do."
-  },
-  {
-    "word": "book",
-    "sentence": "The <span class='highlight'>book</span> is on the table.",
-    "answer": "noun",
-    "clue": "It is an object."
-  },
-  {
-    "word": "quick",
-    "sentence": "He gave a <span class='highlight'>quick</span> answer.",
-    "answer": "adjective",
-    "clue": "It describes speed."
+    "clue": "It's a reaction."
   },
   {
     "word": "slowly",
@@ -744,28 +720,16 @@
     "clue": "It tells how."
   },
   {
-    "word": "think",
-    "sentence": "They <span class='highlight'>think</span> about it often.",
+    "word": "laugh",
+    "sentence": "They <span class='highlight'>laugh</span> at the joke.",
     "answer": "verb",
-    "clue": "It happens in your head."
+    "clue": "It's a reaction."
   },
   {
-    "word": "table",
-    "sentence": "The <span class='highlight'>table</span> is made of wood.",
-    "answer": "noun",
-    "clue": "You put things on it."
-  },
-  {
-    "word": "write",
-    "sentence": "I <span class='highlight'>write</span> letters every week.",
-    "answer": "verb",
-    "clue": "You use a pen or keyboard."
-  },
-  {
-    "word": "soft",
-    "sentence": "The pillow is <span class='highlight'>soft</span> and fluffy.",
-    "answer": "adjective",
-    "clue": "It describes touch."
+    "word": "quietly",
+    "sentence": "She speaks <span class='highlight'>quietly</span> in class.",
+    "answer": "adverb",
+    "clue": "It tells how."
   },
   {
     "word": "fast",
@@ -774,52 +738,10 @@
     "clue": "It tells how."
   },
   {
-    "word": "chair",
-    "sentence": "That <span class='highlight'>chair</span> is broken.",
-    "answer": "noun",
-    "clue": "You sit on it."
-  },
-  {
-    "word": "clean",
-    "sentence": "We <span class='highlight'>clean</span> our house on Sundays.",
-    "answer": "verb",
-    "clue": "It's a chore."
-  },
-  {
-    "word": "smart",
-    "sentence": "The student is <span class='highlight'>smart</span> and curious.",
+    "word": "happy",
+    "sentence": "She was <span class='highlight'>happy</span> with the gift.",
     "answer": "adjective",
-    "clue": "It describes intelligence."
-  },
-  {
-    "word": "quietly",
-    "sentence": "She speaks <span class='highlight'>quietly</span> in class.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "shoe",
-    "sentence": "His <span class='highlight'>shoe</span> is untied.",
-    "answer": "noun",
-    "clue": "You wear it."
-  },
-  {
-    "word": "laugh",
-    "sentence": "They <span class='highlight'>laugh</span> at the joke.",
-    "answer": "verb",
-    "clue": "It's a reaction."
-  },
-  {
-    "word": "tall",
-    "sentence": "The building is <span class='highlight'>tall</span> and gray.",
-    "answer": "adjective",
-    "clue": "It describes height."
-  },
-  {
-    "word": "neatly",
-    "sentence": "He <span class='highlight'>neatly</span> arranged the books.",
-    "answer": "adverb",
-    "clue": "It tells how."
+    "clue": "It describes how she felt."
   },
   {
     "word": "dog",
@@ -828,40 +750,10 @@
     "clue": "It\u2019s an animal."
   },
   {
-    "word": "cook",
-    "sentence": "She likes to <span class='highlight'>cook</span> new dishes.",
-    "answer": "verb",
-    "clue": "You do it in a kitchen."
-  },
-  {
-    "word": "bright",
-    "sentence": "It was a <span class='highlight'>bright</span> day.",
+    "word": "blue",
+    "sentence": "He wore a <span class='highlight'>blue</span> jacket.",
     "answer": "adjective",
-    "clue": "It describes light."
-  },
-  {
-    "word": "happily",
-    "sentence": "The kids played <span class='highlight'>happily</span> outside.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "cup",
-    "sentence": "The <span class='highlight'>cup</span> is full of water.",
-    "answer": "noun",
-    "clue": "You drink from it."
-  },
-  {
-    "word": "climb",
-    "sentence": "They <span class='highlight'>climb</span> trees in summer.",
-    "answer": "verb",
-    "clue": "It\u2019s an outdoor activity."
-  },
-  {
-    "word": "cold",
-    "sentence": "The water was <span class='highlight'>cold</span> and refreshing.",
-    "answer": "adjective",
-    "clue": "It describes temperature."
+    "clue": "It describes a color."
   },
   {
     "word": "nicely",
@@ -870,10 +762,10 @@
     "clue": "It tells how."
   },
   {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every day.",
-    "answer": "verb",
-    "clue": "It's an action."
+    "word": "tall",
+    "sentence": "The building is <span class='highlight'>tall</span> and gray.",
+    "answer": "adjective",
+    "clue": "It describes height."
   },
   {
     "word": "happy",
@@ -882,14 +774,8 @@
     "clue": "It describes how she felt."
   },
   {
-    "word": "blue",
-    "sentence": "He wore a <span class='highlight'>blue</span> jacket.",
-    "answer": "adjective",
-    "clue": "It describes a color."
-  },
-  {
-    "word": "loudly",
-    "sentence": "The baby cried <span class='highlight'>loudly</span> all night.",
+    "word": "nicely",
+    "sentence": "He wrapped the gift <span class='highlight'>nicely</span>.",
     "answer": "adverb",
     "clue": "It tells how."
   },
@@ -900,34 +786,10 @@
     "clue": "It's something you do."
   },
   {
-    "word": "book",
-    "sentence": "The <span class='highlight'>book</span> is on the table.",
-    "answer": "noun",
-    "clue": "It is an object."
-  },
-  {
-    "word": "quick",
-    "sentence": "He gave a <span class='highlight'>quick</span> answer.",
+    "word": "tall",
+    "sentence": "The building is <span class='highlight'>tall</span> and gray.",
     "answer": "adjective",
-    "clue": "It describes speed."
-  },
-  {
-    "word": "slowly",
-    "sentence": "She walked <span class='highlight'>slowly</span> to class.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "think",
-    "sentence": "They <span class='highlight'>think</span> about it often.",
-    "answer": "verb",
-    "clue": "It happens in your head."
-  },
-  {
-    "word": "table",
-    "sentence": "The <span class='highlight'>table</span> is made of wood.",
-    "answer": "noun",
-    "clue": "You put things on it."
+    "clue": "It describes height."
   },
   {
     "word": "write",
@@ -936,52 +798,10 @@
     "clue": "You use a pen or keyboard."
   },
   {
-    "word": "soft",
-    "sentence": "The pillow is <span class='highlight'>soft</span> and fluffy.",
-    "answer": "adjective",
-    "clue": "It describes touch."
-  },
-  {
-    "word": "fast",
-    "sentence": "He runs <span class='highlight'>fast</span> in races.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "chair",
-    "sentence": "That <span class='highlight'>chair</span> is broken.",
-    "answer": "noun",
-    "clue": "You sit on it."
-  },
-  {
     "word": "clean",
     "sentence": "We <span class='highlight'>clean</span> our house on Sundays.",
     "answer": "verb",
     "clue": "It's a chore."
-  },
-  {
-    "word": "smart",
-    "sentence": "The student is <span class='highlight'>smart</span> and curious.",
-    "answer": "adjective",
-    "clue": "It describes intelligence."
-  },
-  {
-    "word": "quietly",
-    "sentence": "She speaks <span class='highlight'>quietly</span> in class.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "shoe",
-    "sentence": "His <span class='highlight'>shoe</span> is untied.",
-    "answer": "noun",
-    "clue": "You wear it."
-  },
-  {
-    "word": "laugh",
-    "sentence": "They <span class='highlight'>laugh</span> at the joke.",
-    "answer": "verb",
-    "clue": "It's a reaction."
   },
   {
     "word": "tall",
@@ -990,64 +810,10 @@
     "clue": "It describes height."
   },
   {
-    "word": "neatly",
-    "sentence": "He <span class='highlight'>neatly</span> arranged the books.",
+    "word": "loudly",
+    "sentence": "The baby cried <span class='highlight'>loudly</span> all night.",
     "answer": "adverb",
     "clue": "It tells how."
-  },
-  {
-    "word": "dog",
-    "sentence": "The <span class='highlight'>dog</span> barked loudly.",
-    "answer": "noun",
-    "clue": "It\u2019s an animal."
-  },
-  {
-    "word": "cook",
-    "sentence": "She likes to <span class='highlight'>cook</span> new dishes.",
-    "answer": "verb",
-    "clue": "You do it in a kitchen."
-  },
-  {
-    "word": "bright",
-    "sentence": "It was a <span class='highlight'>bright</span> day.",
-    "answer": "adjective",
-    "clue": "It describes light."
-  },
-  {
-    "word": "happily",
-    "sentence": "The kids played <span class='highlight'>happily</span> outside.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "cup",
-    "sentence": "The <span class='highlight'>cup</span> is full of water.",
-    "answer": "noun",
-    "clue": "You drink from it."
-  },
-  {
-    "word": "climb",
-    "sentence": "They <span class='highlight'>climb</span> trees in summer.",
-    "answer": "verb",
-    "clue": "It\u2019s an outdoor activity."
-  },
-  {
-    "word": "cold",
-    "sentence": "The water was <span class='highlight'>cold</span> and refreshing.",
-    "answer": "adjective",
-    "clue": "It describes temperature."
-  },
-  {
-    "word": "nicely",
-    "sentence": "He wrapped the gift <span class='highlight'>nicely</span>.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every day.",
-    "answer": "verb",
-    "clue": "It's an action."
   },
   {
     "word": "happy",
@@ -1056,52 +822,46 @@
     "clue": "It describes how she felt."
   },
   {
-    "word": "blue",
-    "sentence": "He wore a <span class='highlight'>blue</span> jacket.",
-    "answer": "adjective",
-    "clue": "It describes a color."
+    "word": "cup",
+    "sentence": "The <span class='highlight'>cup</span> is full of water.",
+    "answer": "noun",
+    "clue": "You drink from it."
   },
   {
-    "word": "loudly",
-    "sentence": "The baby cried <span class='highlight'>loudly</span> all night.",
+    "word": "shoe",
+    "sentence": "His <span class='highlight'>shoe</span> is untied.",
+    "answer": "noun",
+    "clue": "You wear it."
+  },
+  {
+    "word": "happily",
+    "sentence": "The kids played <span class='highlight'>happily</span> outside.",
     "answer": "adverb",
     "clue": "It tells how."
   },
   {
-    "word": "eat",
-    "sentence": "I <span class='highlight'>eat</span> lunch at noon.",
-    "answer": "verb",
-    "clue": "It's something you do."
-  },
-  {
-    "word": "book",
-    "sentence": "The <span class='highlight'>book</span> is on the table.",
-    "answer": "noun",
-    "clue": "It is an object."
-  },
-  {
-    "word": "quick",
-    "sentence": "He gave a <span class='highlight'>quick</span> answer.",
-    "answer": "adjective",
-    "clue": "It describes speed."
-  },
-  {
-    "word": "slowly",
-    "sentence": "She walked <span class='highlight'>slowly</span> to class.",
+    "word": "fast",
+    "sentence": "He runs <span class='highlight'>fast</span> in races.",
     "answer": "adverb",
     "clue": "It tells how."
   },
   {
-    "word": "think",
-    "sentence": "They <span class='highlight'>think</span> about it often.",
-    "answer": "verb",
-    "clue": "It happens in your head."
+    "word": "cold",
+    "sentence": "The water was <span class='highlight'>cold</span> and refreshing.",
+    "answer": "adjective",
+    "clue": "It describes temperature."
   },
   {
-    "word": "table",
-    "sentence": "The <span class='highlight'>table</span> is made of wood.",
-    "answer": "noun",
-    "clue": "You put things on it."
+    "word": "laugh",
+    "sentence": "They <span class='highlight'>laugh</span> at the joke.",
+    "answer": "verb",
+    "clue": "It's a reaction."
+  },
+  {
+    "word": "clean",
+    "sentence": "We <span class='highlight'>clean</span> our house on Sundays.",
+    "answer": "verb",
+    "clue": "It's a chore."
   },
   {
     "word": "write",
@@ -1110,22 +870,40 @@
     "clue": "You use a pen or keyboard."
   },
   {
-    "word": "soft",
-    "sentence": "The pillow is <span class='highlight'>soft</span> and fluffy.",
-    "answer": "adjective",
-    "clue": "It describes touch."
+    "word": "shoe",
+    "sentence": "His <span class='highlight'>shoe</span> is untied.",
+    "answer": "noun",
+    "clue": "You wear it."
   },
   {
-    "word": "fast",
-    "sentence": "He runs <span class='highlight'>fast</span> in races.",
+    "word": "think",
+    "sentence": "They <span class='highlight'>think</span> about it often.",
+    "answer": "verb",
+    "clue": "It happens in your head."
+  },
+  {
+    "word": "nicely",
+    "sentence": "He wrapped the gift <span class='highlight'>nicely</span>.",
     "answer": "adverb",
     "clue": "It tells how."
   },
   {
-    "word": "chair",
-    "sentence": "That <span class='highlight'>chair</span> is broken.",
+    "word": "book",
+    "sentence": "The <span class='highlight'>book</span> is on the table.",
     "answer": "noun",
-    "clue": "You sit on it."
+    "clue": "It is an object."
+  },
+  {
+    "word": "cold",
+    "sentence": "The water was <span class='highlight'>cold</span> and refreshing.",
+    "answer": "adjective",
+    "clue": "It describes temperature."
+  },
+  {
+    "word": "laugh",
+    "sentence": "They <span class='highlight'>laugh</span> at the joke.",
+    "answer": "verb",
+    "clue": "It's a reaction."
   },
   {
     "word": "clean",
@@ -1134,10 +912,172 @@
     "clue": "It's a chore."
   },
   {
+    "word": "clean",
+    "sentence": "We <span class='highlight'>clean</span> our house on Sundays.",
+    "answer": "verb",
+    "clue": "It's a chore."
+  },
+  {
+    "word": "think",
+    "sentence": "They <span class='highlight'>think</span> about it often.",
+    "answer": "verb",
+    "clue": "It happens in your head."
+  },
+  {
+    "word": "happy",
+    "sentence": "She was <span class='highlight'>happy</span> with the gift.",
+    "answer": "adjective",
+    "clue": "It describes how she felt."
+  },
+  {
+    "word": "loudly",
+    "sentence": "The baby cried <span class='highlight'>loudly</span> all night.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "bright",
+    "sentence": "It was a <span class='highlight'>bright</span> day.",
+    "answer": "adjective",
+    "clue": "It describes light."
+  },
+  {
+    "word": "clean",
+    "sentence": "We <span class='highlight'>clean</span> our house on Sundays.",
+    "answer": "verb",
+    "clue": "It's a chore."
+  },
+  {
+    "word": "cold",
+    "sentence": "The water was <span class='highlight'>cold</span> and refreshing.",
+    "answer": "adjective",
+    "clue": "It describes temperature."
+  },
+  {
+    "word": "tall",
+    "sentence": "The building is <span class='highlight'>tall</span> and gray.",
+    "answer": "adjective",
+    "clue": "It describes height."
+  },
+  {
+    "word": "book",
+    "sentence": "The <span class='highlight'>book</span> is on the table.",
+    "answer": "noun",
+    "clue": "It is an object."
+  },
+  {
+    "word": "neatly",
+    "sentence": "He <span class='highlight'>neatly</span> arranged the books.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "think",
+    "sentence": "They <span class='highlight'>think</span> about it often.",
+    "answer": "verb",
+    "clue": "It happens in your head."
+  },
+  {
+    "word": "cook",
+    "sentence": "She likes to <span class='highlight'>cook</span> new dishes.",
+    "answer": "verb",
+    "clue": "You do it in a kitchen."
+  },
+  {
+    "word": "clean",
+    "sentence": "We <span class='highlight'>clean</span> our house on Sundays.",
+    "answer": "verb",
+    "clue": "It's a chore."
+  },
+  {
+    "word": "soft",
+    "sentence": "The pillow is <span class='highlight'>soft</span> and fluffy.",
+    "answer": "adjective",
+    "clue": "It describes touch."
+  },
+  {
+    "word": "dog",
+    "sentence": "The <span class='highlight'>dog</span> barked loudly.",
+    "answer": "noun",
+    "clue": "It\u2019s an animal."
+  },
+  {
+    "word": "think",
+    "sentence": "They <span class='highlight'>think</span> about it often.",
+    "answer": "verb",
+    "clue": "It happens in your head."
+  },
+  {
+    "word": "shoe",
+    "sentence": "His <span class='highlight'>shoe</span> is untied.",
+    "answer": "noun",
+    "clue": "You wear it."
+  },
+  {
+    "word": "cook",
+    "sentence": "She likes to <span class='highlight'>cook</span> new dishes.",
+    "answer": "verb",
+    "clue": "You do it in a kitchen."
+  },
+  {
+    "word": "quick",
+    "sentence": "He gave a <span class='highlight'>quick</span> answer.",
+    "answer": "adjective",
+    "clue": "It describes speed."
+  },
+  {
     "word": "smart",
     "sentence": "The student is <span class='highlight'>smart</span> and curious.",
     "answer": "adjective",
     "clue": "It describes intelligence."
+  },
+  {
+    "word": "cold",
+    "sentence": "The water was <span class='highlight'>cold</span> and refreshing.",
+    "answer": "adjective",
+    "clue": "It describes temperature."
+  },
+  {
+    "word": "dog",
+    "sentence": "The <span class='highlight'>dog</span> barked loudly.",
+    "answer": "noun",
+    "clue": "It\u2019s an animal."
+  },
+  {
+    "word": "clean",
+    "sentence": "We <span class='highlight'>clean</span> our house on Sundays.",
+    "answer": "verb",
+    "clue": "It's a chore."
+  },
+  {
+    "word": "nicely",
+    "sentence": "He wrapped the gift <span class='highlight'>nicely</span>.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "tall",
+    "sentence": "The building is <span class='highlight'>tall</span> and gray.",
+    "answer": "adjective",
+    "clue": "It describes height."
+  },
+  {
+    "word": "think",
+    "sentence": "They <span class='highlight'>think</span> about it often.",
+    "answer": "verb",
+    "clue": "It happens in your head."
+  },
+  {
+    "word": "shoe",
+    "sentence": "His <span class='highlight'>shoe</span> is untied.",
+    "answer": "noun",
+    "clue": "You wear it."
+  },
+  {
+    "word": "happy",
+    "sentence": "She was <span class='highlight'>happy</span> with the gift.",
+    "answer": "adjective",
+    "clue": "It describes how she felt."
   },
   {
     "word": "quietly",
@@ -1146,10 +1086,112 @@
     "clue": "It tells how."
   },
   {
-    "word": "shoe",
-    "sentence": "His <span class='highlight'>shoe</span> is untied.",
+    "word": "neatly",
+    "sentence": "He <span class='highlight'>neatly</span> arranged the books.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "climb",
+    "sentence": "They <span class='highlight'>climb</span> trees in summer.",
+    "answer": "verb",
+    "clue": "It\u2019s an outdoor activity."
+  },
+  {
+    "word": "cook",
+    "sentence": "She likes to <span class='highlight'>cook</span> new dishes.",
+    "answer": "verb",
+    "clue": "You do it in a kitchen."
+  },
+  {
+    "word": "laugh",
+    "sentence": "They <span class='highlight'>laugh</span> at the joke.",
+    "answer": "verb",
+    "clue": "It's a reaction."
+  },
+  {
+    "word": "loudly",
+    "sentence": "The baby cried <span class='highlight'>loudly</span> all night.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "slowly",
+    "sentence": "She walked <span class='highlight'>slowly</span> to class.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "cup",
+    "sentence": "The <span class='highlight'>cup</span> is full of water.",
     "answer": "noun",
-    "clue": "You wear it."
+    "clue": "You drink from it."
+  },
+  {
+    "word": "happily",
+    "sentence": "The kids played <span class='highlight'>happily</span> outside.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "table",
+    "sentence": "The <span class='highlight'>table</span> is made of wood.",
+    "answer": "noun",
+    "clue": "You put things on it."
+  },
+  {
+    "word": "happily",
+    "sentence": "The kids played <span class='highlight'>happily</span> outside.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "bright",
+    "sentence": "It was a <span class='highlight'>bright</span> day.",
+    "answer": "adjective",
+    "clue": "It describes light."
+  },
+  {
+    "word": "loudly",
+    "sentence": "The baby cried <span class='highlight'>loudly</span> all night.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "dog",
+    "sentence": "The <span class='highlight'>dog</span> barked loudly.",
+    "answer": "noun",
+    "clue": "It\u2019s an animal."
+  },
+  {
+    "word": "quick",
+    "sentence": "He gave a <span class='highlight'>quick</span> answer.",
+    "answer": "adjective",
+    "clue": "It describes speed."
+  },
+  {
+    "word": "blue",
+    "sentence": "He wore a <span class='highlight'>blue</span> jacket.",
+    "answer": "adjective",
+    "clue": "It describes a color."
+  },
+  {
+    "word": "think",
+    "sentence": "They <span class='highlight'>think</span> about it often.",
+    "answer": "verb",
+    "clue": "It happens in your head."
+  },
+  {
+    "word": "happy",
+    "sentence": "She was <span class='highlight'>happy</span> with the gift.",
+    "answer": "adjective",
+    "clue": "It describes how she felt."
+  },
+  {
+    "word": "table",
+    "sentence": "The <span class='highlight'>table</span> is made of wood.",
+    "answer": "noun",
+    "clue": "You put things on it."
   },
   {
     "word": "laugh",
@@ -1164,10 +1206,10 @@
     "clue": "It describes height."
   },
   {
-    "word": "neatly",
-    "sentence": "He <span class='highlight'>neatly</span> arranged the books.",
-    "answer": "adverb",
-    "clue": "It tells how."
+    "word": "cold",
+    "sentence": "The water was <span class='highlight'>cold</span> and refreshing.",
+    "answer": "adjective",
+    "clue": "It describes temperature."
   },
   {
     "word": "dog",
@@ -1176,10 +1218,10 @@
     "clue": "It\u2019s an animal."
   },
   {
-    "word": "cook",
-    "sentence": "She likes to <span class='highlight'>cook</span> new dishes.",
-    "answer": "verb",
-    "clue": "You do it in a kitchen."
+    "word": "table",
+    "sentence": "The <span class='highlight'>table</span> is made of wood.",
+    "answer": "noun",
+    "clue": "You put things on it."
   },
   {
     "word": "bright",
@@ -1188,94 +1230,22 @@
     "clue": "It describes light."
   },
   {
-    "word": "happily",
-    "sentence": "The kids played <span class='highlight'>happily</span> outside.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "cup",
-    "sentence": "The <span class='highlight'>cup</span> is full of water.",
-    "answer": "noun",
-    "clue": "You drink from it."
-  },
-  {
-    "word": "climb",
-    "sentence": "They <span class='highlight'>climb</span> trees in summer.",
-    "answer": "verb",
-    "clue": "It\u2019s an outdoor activity."
-  },
-  {
-    "word": "cold",
-    "sentence": "The water was <span class='highlight'>cold</span> and refreshing.",
-    "answer": "adjective",
-    "clue": "It describes temperature."
-  },
-  {
-    "word": "nicely",
-    "sentence": "He wrapped the gift <span class='highlight'>nicely</span>.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every day.",
-    "answer": "verb",
-    "clue": "It's an action."
-  },
-  {
-    "word": "happy",
-    "sentence": "She was <span class='highlight'>happy</span> with the gift.",
-    "answer": "adjective",
-    "clue": "It describes how she felt."
-  },
-  {
-    "word": "blue",
-    "sentence": "He wore a <span class='highlight'>blue</span> jacket.",
-    "answer": "adjective",
-    "clue": "It describes a color."
-  },
-  {
-    "word": "loudly",
-    "sentence": "The baby cried <span class='highlight'>loudly</span> all night.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "eat",
-    "sentence": "I <span class='highlight'>eat</span> lunch at noon.",
-    "answer": "verb",
-    "clue": "It's something you do."
-  },
-  {
-    "word": "book",
-    "sentence": "The <span class='highlight'>book</span> is on the table.",
-    "answer": "noun",
-    "clue": "It is an object."
-  },
-  {
     "word": "quick",
     "sentence": "He gave a <span class='highlight'>quick</span> answer.",
     "answer": "adjective",
     "clue": "It describes speed."
   },
   {
-    "word": "slowly",
-    "sentence": "She walked <span class='highlight'>slowly</span> to class.",
+    "word": "soft",
+    "sentence": "The pillow is <span class='highlight'>soft</span> and fluffy.",
+    "answer": "adjective",
+    "clue": "It describes touch."
+  },
+  {
+    "word": "loudly",
+    "sentence": "The baby cried <span class='highlight'>loudly</span> all night.",
     "answer": "adverb",
     "clue": "It tells how."
-  },
-  {
-    "word": "think",
-    "sentence": "They <span class='highlight'>think</span> about it often.",
-    "answer": "verb",
-    "clue": "It happens in your head."
-  },
-  {
-    "word": "table",
-    "sentence": "The <span class='highlight'>table</span> is made of wood.",
-    "answer": "noun",
-    "clue": "You put things on it."
   },
   {
     "word": "write",
@@ -1284,118 +1254,28 @@
     "clue": "You use a pen or keyboard."
   },
   {
-    "word": "soft",
-    "sentence": "The pillow is <span class='highlight'>soft</span> and fluffy.",
-    "answer": "adjective",
-    "clue": "It describes touch."
-  },
-  {
-    "word": "fast",
-    "sentence": "He runs <span class='highlight'>fast</span> in races.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "chair",
-    "sentence": "That <span class='highlight'>chair</span> is broken.",
-    "answer": "noun",
-    "clue": "You sit on it."
-  },
-  {
-    "word": "clean",
-    "sentence": "We <span class='highlight'>clean</span> our house on Sundays.",
-    "answer": "verb",
-    "clue": "It's a chore."
-  },
-  {
-    "word": "smart",
-    "sentence": "The student is <span class='highlight'>smart</span> and curious.",
-    "answer": "adjective",
-    "clue": "It describes intelligence."
-  },
-  {
-    "word": "quietly",
-    "sentence": "She speaks <span class='highlight'>quietly</span> in class.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "shoe",
-    "sentence": "His <span class='highlight'>shoe</span> is untied.",
-    "answer": "noun",
-    "clue": "You wear it."
-  },
-  {
-    "word": "laugh",
-    "sentence": "They <span class='highlight'>laugh</span> at the joke.",
-    "answer": "verb",
-    "clue": "It's a reaction."
-  },
-  {
-    "word": "tall",
-    "sentence": "The building is <span class='highlight'>tall</span> and gray.",
-    "answer": "adjective",
-    "clue": "It describes height."
-  },
-  {
-    "word": "neatly",
-    "sentence": "He <span class='highlight'>neatly</span> arranged the books.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "dog",
-    "sentence": "The <span class='highlight'>dog</span> barked loudly.",
-    "answer": "noun",
-    "clue": "It\u2019s an animal."
-  },
-  {
-    "word": "cook",
-    "sentence": "She likes to <span class='highlight'>cook</span> new dishes.",
-    "answer": "verb",
-    "clue": "You do it in a kitchen."
-  },
-  {
-    "word": "bright",
-    "sentence": "It was a <span class='highlight'>bright</span> day.",
-    "answer": "adjective",
-    "clue": "It describes light."
-  },
-  {
-    "word": "happily",
-    "sentence": "The kids played <span class='highlight'>happily</span> outside.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "cup",
-    "sentence": "The <span class='highlight'>cup</span> is full of water.",
-    "answer": "noun",
-    "clue": "You drink from it."
-  },
-  {
     "word": "climb",
     "sentence": "They <span class='highlight'>climb</span> trees in summer.",
     "answer": "verb",
     "clue": "It\u2019s an outdoor activity."
   },
   {
-    "word": "cold",
-    "sentence": "The water was <span class='highlight'>cold</span> and refreshing.",
-    "answer": "adjective",
-    "clue": "It describes temperature."
-  },
-  {
-    "word": "nicely",
-    "sentence": "He wrapped the gift <span class='highlight'>nicely</span>.",
+    "word": "slowly",
+    "sentence": "She walked <span class='highlight'>slowly</span> to class.",
     "answer": "adverb",
     "clue": "It tells how."
   },
   {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every day.",
+    "word": "book",
+    "sentence": "The <span class='highlight'>book</span> is on the table.",
+    "answer": "noun",
+    "clue": "It is an object."
+  },
+  {
+    "word": "eat",
+    "sentence": "I <span class='highlight'>eat</span> lunch at noon.",
     "answer": "verb",
-    "clue": "It's an action."
+    "clue": "It's something you do."
   },
   {
     "word": "happy",
@@ -1404,10 +1284,70 @@
     "clue": "It describes how she felt."
   },
   {
-    "word": "blue",
-    "sentence": "He wore a <span class='highlight'>blue</span> jacket.",
+    "word": "cold",
+    "sentence": "The water was <span class='highlight'>cold</span> and refreshing.",
     "answer": "adjective",
-    "clue": "It describes a color."
+    "clue": "It describes temperature."
+  },
+  {
+    "word": "happily",
+    "sentence": "The kids played <span class='highlight'>happily</span> outside.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "clean",
+    "sentence": "We <span class='highlight'>clean</span> our house on Sundays.",
+    "answer": "verb",
+    "clue": "It's a chore."
+  },
+  {
+    "word": "table",
+    "sentence": "The <span class='highlight'>table</span> is made of wood.",
+    "answer": "noun",
+    "clue": "You put things on it."
+  },
+  {
+    "word": "climb",
+    "sentence": "They <span class='highlight'>climb</span> trees in summer.",
+    "answer": "verb",
+    "clue": "It\u2019s an outdoor activity."
+  },
+  {
+    "word": "slowly",
+    "sentence": "She walked <span class='highlight'>slowly</span> to class.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "book",
+    "sentence": "The <span class='highlight'>book</span> is on the table.",
+    "answer": "noun",
+    "clue": "It is an object."
+  },
+  {
+    "word": "happily",
+    "sentence": "The kids played <span class='highlight'>happily</span> outside.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "quick",
+    "sentence": "He gave a <span class='highlight'>quick</span> answer.",
+    "answer": "adjective",
+    "clue": "It describes speed."
+  },
+  {
+    "word": "table",
+    "sentence": "The <span class='highlight'>table</span> is made of wood.",
+    "answer": "noun",
+    "clue": "You put things on it."
+  },
+  {
+    "word": "shoe",
+    "sentence": "His <span class='highlight'>shoe</span> is untied.",
+    "answer": "noun",
+    "clue": "You wear it."
   },
   {
     "word": "loudly",
@@ -1422,16 +1362,64 @@
     "clue": "It's something you do."
   },
   {
+    "word": "bright",
+    "sentence": "It was a <span class='highlight'>bright</span> day.",
+    "answer": "adjective",
+    "clue": "It describes light."
+  },
+  {
+    "word": "blue",
+    "sentence": "He wore a <span class='highlight'>blue</span> jacket.",
+    "answer": "adjective",
+    "clue": "It describes a color."
+  },
+  {
     "word": "book",
     "sentence": "The <span class='highlight'>book</span> is on the table.",
     "answer": "noun",
     "clue": "It is an object."
   },
   {
-    "word": "quick",
-    "sentence": "He gave a <span class='highlight'>quick</span> answer.",
+    "word": "neatly",
+    "sentence": "He <span class='highlight'>neatly</span> arranged the books.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "dog",
+    "sentence": "The <span class='highlight'>dog</span> barked loudly.",
+    "answer": "noun",
+    "clue": "It\u2019s an animal."
+  },
+  {
+    "word": "book",
+    "sentence": "The <span class='highlight'>book</span> is on the table.",
+    "answer": "noun",
+    "clue": "It is an object."
+  },
+  {
+    "word": "cup",
+    "sentence": "The <span class='highlight'>cup</span> is full of water.",
+    "answer": "noun",
+    "clue": "You drink from it."
+  },
+  {
+    "word": "soft",
+    "sentence": "The pillow is <span class='highlight'>soft</span> and fluffy.",
     "answer": "adjective",
-    "clue": "It describes speed."
+    "clue": "It describes touch."
+  },
+  {
+    "word": "cook",
+    "sentence": "She likes to <span class='highlight'>cook</span> new dishes.",
+    "answer": "verb",
+    "clue": "You do it in a kitchen."
+  },
+  {
+    "word": "cold",
+    "sentence": "The water was <span class='highlight'>cold</span> and refreshing.",
+    "answer": "adjective",
+    "clue": "It describes temperature."
   },
   {
     "word": "slowly",
@@ -1440,16 +1428,124 @@
     "clue": "It tells how."
   },
   {
-    "word": "think",
-    "sentence": "They <span class='highlight'>think</span> about it often.",
+    "word": "quietly",
+    "sentence": "She speaks <span class='highlight'>quietly</span> in class.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "quick",
+    "sentence": "He gave a <span class='highlight'>quick</span> answer.",
+    "answer": "adjective",
+    "clue": "It describes speed."
+  },
+  {
+    "word": "laugh",
+    "sentence": "They <span class='highlight'>laugh</span> at the joke.",
     "answer": "verb",
-    "clue": "It happens in your head."
+    "clue": "It's a reaction."
+  },
+  {
+    "word": "smart",
+    "sentence": "The student is <span class='highlight'>smart</span> and curious.",
+    "answer": "adjective",
+    "clue": "It describes intelligence."
   },
   {
     "word": "table",
     "sentence": "The <span class='highlight'>table</span> is made of wood.",
     "answer": "noun",
     "clue": "You put things on it."
+  },
+  {
+    "word": "fast",
+    "sentence": "He runs <span class='highlight'>fast</span> in races.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "quietly",
+    "sentence": "She speaks <span class='highlight'>quietly</span> in class.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "neatly",
+    "sentence": "He <span class='highlight'>neatly</span> arranged the books.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "blue",
+    "sentence": "He wore a <span class='highlight'>blue</span> jacket.",
+    "answer": "adjective",
+    "clue": "It describes a color."
+  },
+  {
+    "word": "smart",
+    "sentence": "The student is <span class='highlight'>smart</span> and curious.",
+    "answer": "adjective",
+    "clue": "It describes intelligence."
+  },
+  {
+    "word": "climb",
+    "sentence": "They <span class='highlight'>climb</span> trees in summer.",
+    "answer": "verb",
+    "clue": "It\u2019s an outdoor activity."
+  },
+  {
+    "word": "laugh",
+    "sentence": "They <span class='highlight'>laugh</span> at the joke.",
+    "answer": "verb",
+    "clue": "It's a reaction."
+  },
+  {
+    "word": "smart",
+    "sentence": "The student is <span class='highlight'>smart</span> and curious.",
+    "answer": "adjective",
+    "clue": "It describes intelligence."
+  },
+  {
+    "word": "run",
+    "sentence": "They <span class='highlight'>run</span> every day.",
+    "answer": "verb",
+    "clue": "It's an action."
+  },
+  {
+    "word": "run",
+    "sentence": "They <span class='highlight'>run</span> every day.",
+    "answer": "verb",
+    "clue": "It's an action."
+  },
+  {
+    "word": "slowly",
+    "sentence": "She walked <span class='highlight'>slowly</span> to class.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "eat",
+    "sentence": "I <span class='highlight'>eat</span> lunch at noon.",
+    "answer": "verb",
+    "clue": "It's something you do."
+  },
+  {
+    "word": "table",
+    "sentence": "The <span class='highlight'>table</span> is made of wood.",
+    "answer": "noun",
+    "clue": "You put things on it."
+  },
+  {
+    "word": "bright",
+    "sentence": "It was a <span class='highlight'>bright</span> day.",
+    "answer": "adjective",
+    "clue": "It describes light."
+  },
+  {
+    "word": "neatly",
+    "sentence": "He <span class='highlight'>neatly</span> arranged the books.",
+    "answer": "adverb",
+    "clue": "It tells how."
   },
   {
     "word": "write",
@@ -1458,38 +1554,14 @@
     "clue": "You use a pen or keyboard."
   },
   {
-    "word": "soft",
-    "sentence": "The pillow is <span class='highlight'>soft</span> and fluffy.",
+    "word": "happy",
+    "sentence": "She was <span class='highlight'>happy</span> with the gift.",
     "answer": "adjective",
-    "clue": "It describes touch."
+    "clue": "It describes how she felt."
   },
   {
-    "word": "fast",
-    "sentence": "He runs <span class='highlight'>fast</span> in races.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "chair",
-    "sentence": "That <span class='highlight'>chair</span> is broken.",
-    "answer": "noun",
-    "clue": "You sit on it."
-  },
-  {
-    "word": "clean",
-    "sentence": "We <span class='highlight'>clean</span> our house on Sundays.",
-    "answer": "verb",
-    "clue": "It's a chore."
-  },
-  {
-    "word": "smart",
-    "sentence": "The student is <span class='highlight'>smart</span> and curious.",
-    "answer": "adjective",
-    "clue": "It describes intelligence."
-  },
-  {
-    "word": "quietly",
-    "sentence": "She speaks <span class='highlight'>quietly</span> in class.",
+    "word": "slowly",
+    "sentence": "She walked <span class='highlight'>slowly</span> to class.",
     "answer": "adverb",
     "clue": "It tells how."
   },
@@ -1500,70 +1572,16 @@
     "clue": "You wear it."
   },
   {
-    "word": "laugh",
-    "sentence": "They <span class='highlight'>laugh</span> at the joke.",
-    "answer": "verb",
-    "clue": "It's a reaction."
-  },
-  {
-    "word": "tall",
-    "sentence": "The building is <span class='highlight'>tall</span> and gray.",
+    "word": "quick",
+    "sentence": "He gave a <span class='highlight'>quick</span> answer.",
     "answer": "adjective",
-    "clue": "It describes height."
+    "clue": "It describes speed."
   },
   {
-    "word": "neatly",
-    "sentence": "He <span class='highlight'>neatly</span> arranged the books.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "dog",
-    "sentence": "The <span class='highlight'>dog</span> barked loudly.",
-    "answer": "noun",
-    "clue": "It\u2019s an animal."
-  },
-  {
-    "word": "cook",
-    "sentence": "She likes to <span class='highlight'>cook</span> new dishes.",
-    "answer": "verb",
-    "clue": "You do it in a kitchen."
-  },
-  {
-    "word": "bright",
-    "sentence": "It was a <span class='highlight'>bright</span> day.",
+    "word": "soft",
+    "sentence": "The pillow is <span class='highlight'>soft</span> and fluffy.",
     "answer": "adjective",
-    "clue": "It describes light."
-  },
-  {
-    "word": "happily",
-    "sentence": "The kids played <span class='highlight'>happily</span> outside.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "cup",
-    "sentence": "The <span class='highlight'>cup</span> is full of water.",
-    "answer": "noun",
-    "clue": "You drink from it."
-  },
-  {
-    "word": "climb",
-    "sentence": "They <span class='highlight'>climb</span> trees in summer.",
-    "answer": "verb",
-    "clue": "It\u2019s an outdoor activity."
-  },
-  {
-    "word": "cold",
-    "sentence": "The water was <span class='highlight'>cold</span> and refreshing.",
-    "answer": "adjective",
-    "clue": "It describes temperature."
-  },
-  {
-    "word": "nicely",
-    "sentence": "He wrapped the gift <span class='highlight'>nicely</span>.",
-    "answer": "adverb",
-    "clue": "It tells how."
+    "clue": "It describes touch."
   },
   {
     "word": "run",
@@ -1572,58 +1590,40 @@
     "clue": "It's an action."
   },
   {
-    "word": "happy",
-    "sentence": "She was <span class='highlight'>happy</span> with the gift.",
-    "answer": "adjective",
-    "clue": "It describes how she felt."
-  },
-  {
-    "word": "blue",
-    "sentence": "He wore a <span class='highlight'>blue</span> jacket.",
-    "answer": "adjective",
-    "clue": "It describes a color."
-  },
-  {
-    "word": "loudly",
-    "sentence": "The baby cried <span class='highlight'>loudly</span> all night.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "eat",
-    "sentence": "I <span class='highlight'>eat</span> lunch at noon.",
-    "answer": "verb",
-    "clue": "It's something you do."
-  },
-  {
     "word": "book",
     "sentence": "The <span class='highlight'>book</span> is on the table.",
     "answer": "noun",
     "clue": "It is an object."
   },
   {
-    "word": "quick",
-    "sentence": "He gave a <span class='highlight'>quick</span> answer.",
-    "answer": "adjective",
-    "clue": "It describes speed."
-  },
-  {
-    "word": "slowly",
-    "sentence": "She walked <span class='highlight'>slowly</span> to class.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "think",
-    "sentence": "They <span class='highlight'>think</span> about it often.",
-    "answer": "verb",
-    "clue": "It happens in your head."
-  },
-  {
     "word": "table",
     "sentence": "The <span class='highlight'>table</span> is made of wood.",
     "answer": "noun",
     "clue": "You put things on it."
+  },
+  {
+    "word": "nicely",
+    "sentence": "He wrapped the gift <span class='highlight'>nicely</span>.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "neatly",
+    "sentence": "He <span class='highlight'>neatly</span> arranged the books.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "tall",
+    "sentence": "The building is <span class='highlight'>tall</span> and gray.",
+    "answer": "adjective",
+    "clue": "It describes height."
+  },
+  {
+    "word": "happy",
+    "sentence": "She was <span class='highlight'>happy</span> with the gift.",
+    "answer": "adjective",
+    "clue": "It describes how she felt."
   },
   {
     "word": "write",
@@ -1632,112 +1632,16 @@
     "clue": "You use a pen or keyboard."
   },
   {
-    "word": "soft",
-    "sentence": "The pillow is <span class='highlight'>soft</span> and fluffy.",
-    "answer": "adjective",
-    "clue": "It describes touch."
-  },
-  {
-    "word": "fast",
-    "sentence": "He runs <span class='highlight'>fast</span> in races.",
+    "word": "slowly",
+    "sentence": "She walked <span class='highlight'>slowly</span> to class.",
     "answer": "adverb",
     "clue": "It tells how."
   },
   {
-    "word": "chair",
-    "sentence": "That <span class='highlight'>chair</span> is broken.",
-    "answer": "noun",
-    "clue": "You sit on it."
-  },
-  {
-    "word": "clean",
-    "sentence": "We <span class='highlight'>clean</span> our house on Sundays.",
+    "word": "think",
+    "sentence": "They <span class='highlight'>think</span> about it often.",
     "answer": "verb",
-    "clue": "It's a chore."
-  },
-  {
-    "word": "smart",
-    "sentence": "The student is <span class='highlight'>smart</span> and curious.",
-    "answer": "adjective",
-    "clue": "It describes intelligence."
-  },
-  {
-    "word": "quietly",
-    "sentence": "She speaks <span class='highlight'>quietly</span> in class.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "shoe",
-    "sentence": "His <span class='highlight'>shoe</span> is untied.",
-    "answer": "noun",
-    "clue": "You wear it."
-  },
-  {
-    "word": "laugh",
-    "sentence": "They <span class='highlight'>laugh</span> at the joke.",
-    "answer": "verb",
-    "clue": "It's a reaction."
-  },
-  {
-    "word": "tall",
-    "sentence": "The building is <span class='highlight'>tall</span> and gray.",
-    "answer": "adjective",
-    "clue": "It describes height."
-  },
-  {
-    "word": "neatly",
-    "sentence": "He <span class='highlight'>neatly</span> arranged the books.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "dog",
-    "sentence": "The <span class='highlight'>dog</span> barked loudly.",
-    "answer": "noun",
-    "clue": "It\u2019s an animal."
-  },
-  {
-    "word": "cook",
-    "sentence": "She likes to <span class='highlight'>cook</span> new dishes.",
-    "answer": "verb",
-    "clue": "You do it in a kitchen."
-  },
-  {
-    "word": "bright",
-    "sentence": "It was a <span class='highlight'>bright</span> day.",
-    "answer": "adjective",
-    "clue": "It describes light."
-  },
-  {
-    "word": "happily",
-    "sentence": "The kids played <span class='highlight'>happily</span> outside.",
-    "answer": "adverb",
-    "clue": "It tells how."
-  },
-  {
-    "word": "cup",
-    "sentence": "The <span class='highlight'>cup</span> is full of water.",
-    "answer": "noun",
-    "clue": "You drink from it."
-  },
-  {
-    "word": "climb",
-    "sentence": "They <span class='highlight'>climb</span> trees in summer.",
-    "answer": "verb",
-    "clue": "It\u2019s an outdoor activity."
-  },
-  {
-    "word": "cold",
-    "sentence": "The water was <span class='highlight'>cold</span> and refreshing.",
-    "answer": "adjective",
-    "clue": "It describes temperature."
-  },
-  {
-    "word": "nicely",
-    "sentence": "He wrapped the gift <span class='highlight'>nicely</span>.",
-    "answer": "adverb",
-    "clue": "It tells how."
+    "clue": "It happens in your head."
   },
   {
     "word": "run",
@@ -1746,10 +1650,40 @@
     "clue": "It's an action."
   },
   {
-    "word": "happy",
-    "sentence": "She was <span class='highlight'>happy</span> with the gift.",
+    "word": "dog",
+    "sentence": "The <span class='highlight'>dog</span> barked loudly.",
+    "answer": "noun",
+    "clue": "It\u2019s an animal."
+  },
+  {
+    "word": "blue",
+    "sentence": "He wore a <span class='highlight'>blue</span> jacket.",
     "answer": "adjective",
-    "clue": "It describes how she felt."
+    "clue": "It describes a color."
+  },
+  {
+    "word": "dog",
+    "sentence": "The <span class='highlight'>dog</span> barked loudly.",
+    "answer": "noun",
+    "clue": "It\u2019s an animal."
+  },
+  {
+    "word": "soft",
+    "sentence": "The pillow is <span class='highlight'>soft</span> and fluffy.",
+    "answer": "adjective",
+    "clue": "It describes touch."
+  },
+  {
+    "word": "quietly",
+    "sentence": "She speaks <span class='highlight'>quietly</span> in class.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "happily",
+    "sentence": "The kids played <span class='highlight'>happily</span> outside.",
+    "answer": "adverb",
+    "clue": "It tells how."
   },
   {
     "word": "blue",
@@ -1764,10 +1698,34 @@
     "clue": "It tells how."
   },
   {
+    "word": "nicely",
+    "sentence": "He wrapped the gift <span class='highlight'>nicely</span>.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
     "word": "eat",
     "sentence": "I <span class='highlight'>eat</span> lunch at noon.",
     "answer": "verb",
     "clue": "It's something you do."
+  },
+  {
+    "word": "write",
+    "sentence": "I <span class='highlight'>write</span> letters every week.",
+    "answer": "verb",
+    "clue": "You use a pen or keyboard."
+  },
+  {
+    "word": "eat",
+    "sentence": "I <span class='highlight'>eat</span> lunch at noon.",
+    "answer": "verb",
+    "clue": "It's something you do."
+  },
+  {
+    "word": "soft",
+    "sentence": "The pillow is <span class='highlight'>soft</span> and fluffy.",
+    "answer": "adjective",
+    "clue": "It describes touch."
   },
   {
     "word": "book",
@@ -1776,27 +1734,69 @@
     "clue": "It is an object."
   },
   {
-    "word": "quick",
-    "sentence": "He gave a <span class='highlight'>quick</span> answer.",
-    "answer": "adjective",
-    "clue": "It describes speed."
+    "word": "chair",
+    "sentence": "That <span class='highlight'>chair</span> is broken.",
+    "answer": "noun",
+    "clue": "You sit on it."
   },
   {
-    "word": "slowly",
-    "sentence": "She walked <span class='highlight'>slowly</span> to class.",
+    "word": "write",
+    "sentence": "I <span class='highlight'>write</span> letters every week.",
+    "answer": "verb",
+    "clue": "You use a pen or keyboard."
+  },
+  {
+    "word": "bright",
+    "sentence": "It was a <span class='highlight'>bright</span> day.",
+    "answer": "adjective",
+    "clue": "It describes light."
+  },
+  {
+    "word": "nicely",
+    "sentence": "He wrapped the gift <span class='highlight'>nicely</span>.",
     "answer": "adverb",
     "clue": "It tells how."
   },
   {
-    "word": "think",
-    "sentence": "They <span class='highlight'>think</span> about it often.",
+    "word": "climb",
+    "sentence": "They <span class='highlight'>climb</span> trees in summer.",
     "answer": "verb",
-    "clue": "It happens in your head."
+    "clue": "It\u2019s an outdoor activity."
   },
   {
-    "word": "table",
-    "sentence": "The <span class='highlight'>table</span> is made of wood.",
-    "answer": "noun",
-    "clue": "You put things on it."
+    "word": "climb",
+    "sentence": "They <span class='highlight'>climb</span> trees in summer.",
+    "answer": "verb",
+    "clue": "It\u2019s an outdoor activity."
+  },
+  {
+    "word": "cook",
+    "sentence": "She likes to <span class='highlight'>cook</span> new dishes.",
+    "answer": "verb",
+    "clue": "You do it in a kitchen."
+  },
+  {
+    "word": "happily",
+    "sentence": "The kids played <span class='highlight'>happily</span> outside.",
+    "answer": "adverb",
+    "clue": "It tells how."
+  },
+  {
+    "word": "soft",
+    "sentence": "The pillow is <span class='highlight'>soft</span> and fluffy.",
+    "answer": "adjective",
+    "clue": "It describes touch."
+  },
+  {
+    "word": "laugh",
+    "sentence": "They <span class='highlight'>laugh</span> at the joke.",
+    "answer": "verb",
+    "clue": "It's a reaction."
+  },
+  {
+    "word": "tall",
+    "sentence": "The building is <span class='highlight'>tall</span> and gray.",
+    "answer": "adjective",
+    "clue": "It describes height."
   }
 ]
