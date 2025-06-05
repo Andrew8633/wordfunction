@@ -85,6 +85,9 @@
     }
 
     #clue {
+      min-height: 2.2em;
+      display: block;
+      visibility: hidden;
       font-size: 1rem;
       color: #cc0000;
       margin-bottom: 1rem;
@@ -213,7 +216,7 @@
       const q = prompts[currentIndex];
       sentenceBox.innerHTML = q.sentence;
       questionText.textContent = `In this sentence, what kind of word is "${q.word}"?`;
-      clue.style.display = "none";
+      clue.style.visibility = "hidden";
       nextButton.classList.remove("show");
       message.style.display = "none";
       tries = 0;
@@ -232,7 +235,7 @@
       } else {
         sentenceBox.innerHTML = "🎉 Finished all prompts!";
         document.querySelector(".button-container").style.display = "none";
-        clue.style.display = "none";
+        clue.style.visibility = "hidden";
         questionText.style.display = "none";
         nextButton.classList.remove("show");
         message.style.display = "none";
@@ -259,7 +262,7 @@
           button.classList.add("correct");
           clue.textContent = `✅ Correct! You earned ${points} point${points === 1 ? '' : 's'}.`;
           clue.style.color = "#006600";
-          clue.style.display = "block";
+          clue.style.visibility = "visible";
           nextButton.classList.add("show");
 
           buttons.forEach(btn => btn.disabled = true);
@@ -267,7 +270,7 @@
           button.classList.add("incorrect");
           clue.textContent = "❌ Try again. Clue: " + prompts[currentIndex].clue;
           clue.style.color = "#cc0000";
-          clue.style.display = "block";
+          clue.style.visibility = "visible";
         }
       });
     });
