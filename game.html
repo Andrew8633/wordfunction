@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WordFunction Practice</title>
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <style>
+    * { box-sizing: border-box; }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      font-family: sans-serif;
+      background-color: #f2f7ff;
+    }
+
+    #page {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      padding: 1rem;
+    }
+
+    header {
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 1.6rem;
+      color: #0077cc;
+      margin-bottom: 0.5rem;
+    }
+
+    #scorePanel {
+      font-size: 1.3rem;
+      font-weight: bold;
+      background: #fff4d2;
+      color: #333;
+      padding: 0.6rem 1rem;
+      border-radius: 1.2rem;
+      margin: 0 auto 1rem auto;
+      max-width: fit-content;
+    }
+
+    #main {
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      text-align: center;
+    }
+
+    .sentence {
+      font-size: 1.4rem;
+      background: #ffffff;
+      padding: 1rem;
+      border-radius: 0.8rem;
+      border: 2px solid #0077cc;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+      margin-bottom: 1rem;
+    }
+
+    .highlight {
+      font-weight: bold;
+      color: #0077cc;
+    }
+
+    .question {
+      font-size: 1.2rem;
+      font-style: italic;
+      color: #333;
+      margin-bottom: 0.5rem;
+    }
+
+    #message {
+      font-size: 1rem;
+      color: #007700;
+      font-weight: bold;
+      margin-bottom: 0.3rem;
+    }
+
+    #clue {
+      font-size: 1rem;
+      color: #cc0000;
+      margin-bottom: 1rem;
+    }
+
+    .button-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      justify-content: center;
+      margin-top: auto;
+    }
+
+    .pos-button {
+      flex: 1 1 45%;
+      font-size: 1.1rem;
+      padding: 0.9rem;
+      border: 2px solid #0077cc;
+      border-radius: 0.7rem;
+      background-color: #ffffff;
+      color: #0077cc;
+      cursor: pointer;
+    }
+
+    .pos-button:active {
+      background-color: #e6f2ff;
+    }
+
+    .correct {
+      border: 3px solid gold !important;
+      background-color: #fffbea;
+    }
+
+    .incorrect {
+      border: 3px solid #cc0000 !important;
+      background-color: #ffe6e6;
+    }
+
+    #nextButton {
+      display: none;
+      margin-top: 1rem;
+      padding: 1rem;
+      font-size: 1.1rem;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 0.8rem;
+      width: 100%;
+    }
+
+    #nextButton:active {
+      background-color: #218838;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="page">
+    <header>
+      <h1>WordFunction</h1>
+      <div id="scorePanel">Points: 0</div>
+    </header>
+
+    <main id="main">
+      <div class="sentence" id="sentenceBox"></div>
+      <div class="question" id="questionText"></div>
+      <div id="message"></div>
+      <div id="clue"></div>
+    </main>
+
+    <div class="button-container">
+      <button class="pos-button" data-pos="noun">Noun</button>
+      <button class="pos-button" data-pos="verb">Verb</button>
+      <button class="pos-button" data-pos="adjective">Adjective</button>
+      <button class="pos-button" data-pos="adverb">Adverb</button>
+    </div>
+
+    <button id="nextButton">Next</button>
+  </div>
+
+  <script>
+    const questions = [
+      {
+        word: "quickly",
+        sentence: "She <span class='highlight'>quickly</span> ran to the store.",
+        answer: "adverb",
+        clue: "This word tells how the action is done."
+      },
+      {
+        word: "dog",
+        sentence: "The <span class='highlight'>dog</span> barked loudly.",
+        answer: "noun",
+        clue: "This is a thing — an animal."
+      },
+      {
+        word: "happy",
+        sentence: "He is a <span class='highlight'>happy</span> child.",
+        answer: "adjective",
+        clue: "This word describes a feeling or quality."
+      },
+      {
+        word: "run",
+        sentence: "They <span class='highlight'>run</span> every morning.",
+        answer: "verb",
+        clue: "This is an action word."
+      }
+    ];
+
+    let current = 0;
+    let tries = 0;
+    let totalPoints = parseInt(localStorage.getItem("totalPoints")) || 0;
+    const milestones = [20, 50, 100];
+    let messagesShown = JSON.parse(localStorage.getItem("messagesShown")) || [];
+
+    const sentenceBox = document.getElementById("sentenceBox");
+    const clue = document.getElementById("clue");
+    const nextButton = document.getElementById("nextButton");
+    const scorePanel = document.getElementById("scorePanel");
+    const questionText = document.getElementById("questionText");
+    const buttons = document.querySelectorAll(".pos-button");
+    const message = document.getElementById("message");
+
+    function loadQuestion() {
+      const q = questions[current];
+      sentenceBox.innerHTML = q.sentence;
+      questionText.textContent = `In this sentence, what kind of word is "${q.word}"?`;
+      clue.style.display = "none";
+      nextButton.style.display = "none";
+      message.style.display = "none";
+      tries = 0;
+
+      buttons.forEach(btn => {
+        btn.disabled = false;
+        btn.classList.remove("correct", "incorrect");
+      });
+    }
+
+    function updateScoreboard() {
+      scorePanel.textContent = `Points: ${totalPoints}`;
+    }
+
+    function showMessage(points) {
+      const map = {
+        20: "🎉 Great start!",
+        50: "🚀 You're doing amazing!",
+        100: "🏆 Wow! You’re mastering this!"
+      };
+      if (milestones.includes(points) && !messagesShown.includes(points)) {
+        message.textContent = map[points];
+        message.style.display = "block";
+        messagesShown.push(points);
+        localStorage.setItem("messagesShown", JSON.stringify(messagesShown));
+      }
+    }
+
+    buttons.forEach(button => {
+      button.addEventListener("click", () => {
+        const selected = button.getAttribute("data-pos");
+        const correct = questions[current].answer;
+        tries++;
+
+        if (selected === correct) {
+          let points = 0;
+          if (tries === 1) points = 10;
+          else if (tries === 2) points = 7;
+          else if (tries === 3) points = 4;
+
+          totalPoints += points;
+          localStorage.setItem("totalPoints", totalPoints);
+          updateScoreboard();
+          showMessage(totalPoints);
+
+          button.classList.add("correct");
+          clue.textContent = `✅ Correct! You earned ${points} point${points === 1 ? '' : 's'}.`;
+          clue.style.color = "#006600";
+          clue.style.display = "block";
+          nextButton.style.display = "block";
+
+          buttons.forEach(btn => btn.disabled = true);
+        } else {
+          button.classList.add("incorrect");
+          clue.textContent = "❌ Try again. Clue: " + questions[current].clue;
+          clue.style.color = "#cc0000";
+          clue.style.display = "block";
+        }
+      });
+    });
+
+    nextButton.addEventListener("click", () => {
+      current++;
+      if (current < questions.length) {
+        loadQuestion();
+      } else {
+        sentenceBox.innerHTML = "🎉 Finished! Great job.";
+        document.querySelector(".button-container").style.display = "none";
+        clue.style.display = "none";
+        questionText.style.display = "none";
+        nextButton.style.display = "none";
+        message.style.display = "none";
+      }
+    });
+
+    updateScoreboard();
+    loadQuestion();
+  </script>
+
+</body>
+</html>
