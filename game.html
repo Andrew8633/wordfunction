@@ -198,6 +198,13 @@
     const questionText = document.getElementById("questionText");
     const buttons = document.querySelectorAll(".pos-button");
     const message = document.getElementById("message");
+    
+	
+	window.addEventListener('load', () => {
+  setTimeout(() => {
+    window.scrollTo(0, 1);
+  }, 100);
+});
 
     function updateScoreboard() {
       scorePanel.textContent = `Points: ${totalPoints}`;
