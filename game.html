@@ -7,6 +7,14 @@
   <link rel="icon" type="image/png" href="favicon.png" />
   <style>
     * { box-sizing: border-box; }
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-top: auto;
+  padding-bottom: 3rem; /* was too close to bottom */
+}
 
     html, body {
       margin: 0;
@@ -146,7 +154,7 @@
     </header>
 
     <main id="main">
-      <div class="sentence" id="sentenceBox"></div>
+      <div class="sentence" id="sentenceBox">Loading...</div>
       <div class="question" id="questionText"></div>
       <div id="message"></div>
       <div id="clue"></div>
@@ -163,34 +171,8 @@
   </div>
 
   <script>
-    const questions = [
-      {
-        word: "quickly",
-        sentence: "She <span class='highlight'>quickly</span> ran to the store.",
-        answer: "adverb",
-        clue: "This word tells how the action is done."
-      },
-      {
-        word: "dog",
-        sentence: "The <span class='highlight'>dog</span> barked loudly.",
-        answer: "noun",
-        clue: "This is a thing — an animal."
-      },
-      {
-        word: "happy",
-        sentence: "He is a <span class='highlight'>happy</span> child.",
-        answer: "adjective",
-        clue: "This word describes a feeling or quality."
-      },
-      {
-        word: "run",
-        sentence: "They <span class='highlight'>run</span> every morning.",
-        answer: "verb",
-        clue: "This is an action word."
-      }
-    ];
-
-    let current = 0;
+    let prompts = [];
+    let currentIndex = 0;
     let tries = 0;
     let totalPoints = parseInt(localStorage.getItem("totalPoints")) || 0;
     const milestones = [20, 50, 100];
@@ -203,21 +185,6 @@
     const questionText = document.getElementById("questionText");
     const buttons = document.querySelectorAll(".pos-button");
     const message = document.getElementById("message");
-
-    function loadQuestion() {
-      const q = questions[current];
-      sentenceBox.innerHTML = q.sentence;
-      questionText.textContent = `In this sentence, what kind of word is "${q.word}"?`;
-      clue.style.display = "none";
-      nextButton.style.display = "none";
-      message.style.display = "none";
-      tries = 0;
-
-      buttons.forEach(btn => {
-        btn.disabled = false;
-        btn.classList.remove("correct", "incorrect");
-      });
-    }
 
     function updateScoreboard() {
       scorePanel.textContent = `Points: ${totalPoints}`;
@@ -237,10 +204,40 @@
       }
     }
 
+    function loadQuestion() {
+      const q = prompts[currentIndex];
+      sentenceBox.innerHTML = q.sentence;
+      questionText.textContent = `In this sentence, what kind of word is "${q.word}"?`;
+      clue.style.display = "none";
+      nextButton.style.display = "none";
+      message.style.display = "none";
+      tries = 0;
+
+      buttons.forEach(btn => {
+        btn.disabled = false;
+        btn.classList.remove("correct", "incorrect");
+      });
+    }
+
+    function nextQuestion() {
+      currentIndex++;
+      if (currentIndex < prompts.length) {
+        localStorage.setItem("lastIndex", currentIndex);
+        loadQuestion();
+      } else {
+        sentenceBox.innerHTML = "🎉 Finished all prompts!";
+        document.querySelector(".button-container").style.display = "none";
+        clue.style.display = "none";
+        questionText.style.display = "none";
+        nextButton.style.display = "none";
+        message.style.display = "none";
+      }
+    }
+
     buttons.forEach(button => {
       button.addEventListener("click", () => {
         const selected = button.getAttribute("data-pos");
-        const correct = questions[current].answer;
+        const correct = prompts[currentIndex].answer;
         tries++;
 
         if (selected === correct) {
@@ -263,30 +260,29 @@
           buttons.forEach(btn => btn.disabled = true);
         } else {
           button.classList.add("incorrect");
-          clue.textContent = "❌ Try again. Clue: " + questions[current].clue;
+          clue.textContent = "❌ Try again. Clue: " + prompts[currentIndex].clue;
           clue.style.color = "#cc0000";
           clue.style.display = "block";
         }
       });
     });
 
-    nextButton.addEventListener("click", () => {
-      current++;
-      if (current < questions.length) {
+    nextButton.addEventListener("click", nextQuestion);
+
+    // Fetch prompts and begin game
+    fetch('prompts.json')
+      .then(res => res.json())
+      .then(data => {
+        prompts = data;
+        currentIndex = parseInt(localStorage.getItem("lastIndex")) || 0;
+        if (currentIndex >= prompts.length) currentIndex = 0;
+        updateScoreboard();
         loadQuestion();
-      } else {
-        sentenceBox.innerHTML = "🎉 Finished! Great job.";
-        document.querySelector(".button-container").style.display = "none";
-        clue.style.display = "none";
-        questionText.style.display = "none";
-        nextButton.style.display = "none";
-        message.style.display = "none";
-      }
-    });
-
-    updateScoreboard();
-    loadQuestion();
+      })
+      .catch(err => {
+        sentenceBox.innerHTML = "Error loading prompts.";
+        console.error(err);
+      });
   </script>
-
 </body>
 </html>

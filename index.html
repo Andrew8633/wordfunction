@@ -2,90 +2,87 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>WordFunction</title>
   <link rel="icon" type="image/png" href="favicon.png" />
   <style>
     body {
       font-family: sans-serif;
-      padding: 20px;
-      background-color: #f2f7ff;
-      max-width: 600px;
-      margin: auto;
-      text-align: center;
-    }
-
-    img {
-      max-width: 100px;
-      margin-bottom: 10px;
+      margin: 0;
+      padding: 2rem;
+      background: #f0f8ff;
+      color: #333;
+      line-height: 1.6;
     }
 
     h1 {
-      font-size: 2em;
-      margin: 0;
+      text-align: center;
       color: #0077cc;
+      margin-bottom: 0.5rem;
     }
 
-    .logo {
-      font-weight: bold;
-      font-size: 1.4em;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      gap: 8px;
+    h2 {
+      color: #005a99;
+      margin-top: 2rem;
     }
 
-    .logo span {
-      background: #ff5f33;
+    p, li {
+      font-size: 1.1rem;
+    }
+
+    ul {
+      padding-left: 1.2rem;
+    }
+
+    .start-link {
+      display: block;
+      margin-top: 2rem;
+      text-align: center;
+    }
+
+    .start-link a {
+      display: inline-block;
+      background: #0077cc;
       color: white;
-      border-radius: 8px;
-      padding: 4px 10px;
-      font-size: 1em;
+      text-decoration: none;
+      padding: 1rem 2rem;
+      border-radius: 0.5rem;
+      font-size: 1.2rem;
     }
 
-    p {
-      text-align: left;
-      font-size: 1.1em;
-      line-height: 1.5;
-    }
-
-    button {
-      margin-top: 25px;
-      padding: 15px;
-      font-size: 1.2em;
-      border: none;
-      border-radius: 10px;
-      background-color: #28a745;
-      color: white;
-      cursor: pointer;
-      width: 100%;
-    }
-
-    button:active {
-      background-color: #218838;
+    .start-link a:hover {
+      background: #005fa3;
     }
   </style>
 </head>
 <body>
 
-  <div class="logo">
-    <span>F</span> WordFunction
-  </div>
-
   <h1>Welcome to WordFunction</h1>
 
-  <p>
-    <strong>WordFunction</strong> helps beginner English learners understand and practice using parts of speech.
-  </p>
-  <p>
-    Each sentence shows one highlighted word. Your job is to choose what kind of word it is:
-    <strong>noun, verb, adjective, or adverb</strong>.
-  </p>
-  <p>
-    If you get it right the first time, your score goes up! If not, don’t worry — you’ll get a helpful clue.
-  </p>
+  <p><strong>WordFunction</strong> helps beginner learners practice identifying <strong>parts of speech</strong> — nouns, verbs, adjectives, and adverbs — in simple example sentences.</p>
 
-  <button onclick="location.href='game.html'">Start Practice</button>
+  <h2>How It Works</h2>
+  <ul>
+    <li>You see a sentence with one word highlighted.</li>
+    <li>Click the button that matches the type of word it is (e.g. noun, verb).</li>
+    <li>If you're right, you earn points and move on!</li>
+    <li>If you're wrong, you'll get a helpful clue and can try again.</li>
+  </ul>
+
+  <h2>Point System</h2>
+  <ul>
+    <li><strong>10 points</strong> for a correct answer on the first try</li>
+    <li><strong>7 points</strong> on the second try</li>
+    <li><strong>4 points</strong> on the third try</li>
+    <li><strong>0 points</strong> after that — but you can still learn!</li>
+  </ul>
+
+  <h2>Encouragement Milestones</h2>
+  <p>Watch for fun messages when you reach key scores like 50, 100, 200, and beyond!</p>
+
+  <div class="start-link">
+    <a href="game.html">Start Practicing</a>
+  </div>
 
 </body>
 </html>

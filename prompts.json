@@ -1,0 +1,602 @@
+[
+  {
+    "word": "quickly",
+    "sentence": "He <span class='highlight'>quickly</span> opened the door.",
+    "answer": "adverb",
+    "clue": "This tells how something is done."
+  },
+  {
+    "word": "teacher",
+    "sentence": "The <span class='highlight'>teacher</span> explained the lesson.",
+    "answer": "noun",
+    "clue": "This is a person with a job."
+  },
+  {
+    "word": "cold",
+    "sentence": "The <span class='highlight'>cold</span> wind blew.",
+    "answer": "adjective",
+    "clue": "This word describes the temperature."
+  },
+  {
+    "word": "dog",
+    "sentence": "The <span class='highlight'>dog</span> barked at the stranger.",
+    "answer": "noun",
+    "clue": "This is a type of animal."
+  },
+  {
+    "word": "quickly",
+    "sentence": "He <span class='highlight'>quickly</span> opened the door.",
+    "answer": "adverb",
+    "clue": "This tells how something is done."
+  },
+  {
+    "word": "jump",
+    "sentence": "She <span class='highlight'>jumped</span> over the puddle.",
+    "answer": "verb",
+    "clue": "This word shows action."
+  },
+  {
+    "word": "blue",
+    "sentence": "She wore a <span class='highlight'>blue</span> dress.",
+    "answer": "adjective",
+    "clue": "This word tells what something looks like."
+  },
+  {
+    "word": "carefully",
+    "sentence": "He <span class='highlight'>carefully</span> painted the picture.",
+    "answer": "adverb",
+    "clue": "This tells how the task was done."
+  },
+  {
+    "word": "loudly",
+    "sentence": "She <span class='highlight'>loudly</span> sang a song.",
+    "answer": "adverb",
+    "clue": "This tells how the action was performed."
+  },
+  {
+    "word": "teacher",
+    "sentence": "The <span class='highlight'>teacher</span> explained the lesson.",
+    "answer": "noun",
+    "clue": "This is a person with a job."
+  },
+  {
+    "word": "apple",
+    "sentence": "He ate an <span class='highlight'>apple</span> for lunch.",
+    "answer": "noun",
+    "clue": "This is a kind of fruit."
+  },
+  {
+    "word": "run",
+    "sentence": "They <span class='highlight'>run</span> in the morning.",
+    "answer": "verb",
+    "clue": "This is something you can do."
+  },
+  {
+    "word": "carefully",
+    "sentence": "He <span class='highlight'>carefully</span> painted the picture.",
+    "answer": "adverb",
+    "clue": "This tells how the task was done."
+  },
+  {
+    "word": "cold",
+    "sentence": "The <span class='highlight'>cold</span> wind blew.",
+    "answer": "adjective",
+    "clue": "This word describes the temperature."
+  },
+  {
+    "word": "loudly",
+    "sentence": "She <span class='highlight'>loudly</span> sang a song.",
+    "answer": "adverb",
+    "clue": "This tells how the action was performed."
+  },
+  {
+    "word": "happy",
+    "sentence": "He is a <span class='highlight'>happy</span> child.",
+    "answer": "adjective",
+    "clue": "This word describes how someone feels."
+  },
+  {
+    "word": "dog",
+    "sentence": "The <span class='highlight'>dog</span> barked at the stranger.",
+    "answer": "noun",
+    "clue": "This is a type of animal."
+  },
+  {
+    "word": "quickly",
+    "sentence": "He <span class='highlight'>quickly</span> opened the door.",
+    "answer": "adverb",
+    "clue": "This tells how something is done."
+  },
+  {
+    "word": "blue",
+    "sentence": "She wore a <span class='highlight'>blue</span> dress.",
+    "answer": "adjective",
+    "clue": "This word tells what something looks like."
+  },
+  {
+    "word": "cold",
+    "sentence": "The <span class='highlight'>cold</span> wind blew.",
+    "answer": "adjective",
+    "clue": "This word describes the temperature."
+  },
+  {
+    "word": "teacher",
+    "sentence": "The <span class='highlight'>teacher</span> explained the lesson.",
+    "answer": "noun",
+    "clue": "This is a person with a job."
+  },
+  {
+    "word": "blue",
+    "sentence": "She wore a <span class='highlight'>blue</span> dress.",
+    "answer": "adjective",
+    "clue": "This word tells what something looks like."
+  },
+  {
+    "word": "loudly",
+    "sentence": "She <span class='highlight'>loudly</span> sang a song.",
+    "answer": "adverb",
+    "clue": "This tells how the action was performed."
+  },
+  {
+    "word": "dog",
+    "sentence": "The <span class='highlight'>dog</span> barked at the stranger.",
+    "answer": "noun",
+    "clue": "This is a type of animal."
+  },
+  {
+    "word": "quickly",
+    "sentence": "He <span class='highlight'>quickly</span> opened the door.",
+    "answer": "adverb",
+    "clue": "This tells how something is done."
+  },
+  {
+    "word": "happy",
+    "sentence": "He is a <span class='highlight'>happy</span> child.",
+    "answer": "adjective",
+    "clue": "This word describes how someone feels."
+  },
+  {
+    "word": "carefully",
+    "sentence": "He <span class='highlight'>carefully</span> painted the picture.",
+    "answer": "adverb",
+    "clue": "This tells how the task was done."
+  },
+  {
+    "word": "teacher",
+    "sentence": "The <span class='highlight'>teacher</span> explained the lesson.",
+    "answer": "noun",
+    "clue": "This is a person with a job."
+  },
+  {
+    "word": "jump",
+    "sentence": "She <span class='highlight'>jumped</span> over the puddle.",
+    "answer": "verb",
+    "clue": "This word shows action."
+  },
+  {
+    "word": "cold",
+    "sentence": "The <span class='highlight'>cold</span> wind blew.",
+    "answer": "adjective",
+    "clue": "This word describes the temperature."
+  },
+  {
+    "word": "dog",
+    "sentence": "The <span class='highlight'>dog</span> barked at the stranger.",
+    "answer": "noun",
+    "clue": "This is a type of animal."
+  },
+  {
+    "word": "eat",
+    "sentence": "We <span class='highlight'>eat</span> dinner at six.",
+    "answer": "verb",
+    "clue": "This word describes something you do."
+  },
+  {
+    "word": "happy",
+    "sentence": "He is a <span class='highlight'>happy</span> child.",
+    "answer": "adjective",
+    "clue": "This word describes how someone feels."
+  },
+  {
+    "word": "run",
+    "sentence": "They <span class='highlight'>run</span> in the morning.",
+    "answer": "verb",
+    "clue": "This is something you can do."
+  },
+  {
+    "word": "run",
+    "sentence": "They <span class='highlight'>run</span> in the morning.",
+    "answer": "verb",
+    "clue": "This is something you can do."
+  },
+  {
+    "word": "jump",
+    "sentence": "She <span class='highlight'>jumped</span> over the puddle.",
+    "answer": "verb",
+    "clue": "This word shows action."
+  },
+  {
+    "word": "eat",
+    "sentence": "We <span class='highlight'>eat</span> dinner at six.",
+    "answer": "verb",
+    "clue": "This word describes something you do."
+  },
+  {
+    "word": "cold",
+    "sentence": "The <span class='highlight'>cold</span> wind blew.",
+    "answer": "adjective",
+    "clue": "This word describes the temperature."
+  },
+  {
+    "word": "carefully",
+    "sentence": "He <span class='highlight'>carefully</span> painted the picture.",
+    "answer": "adverb",
+    "clue": "This tells how the task was done."
+  },
+  {
+    "word": "run",
+    "sentence": "They <span class='highlight'>run</span> in the morning.",
+    "answer": "verb",
+    "clue": "This is something you can do."
+  },
+  {
+    "word": "apple",
+    "sentence": "He ate an <span class='highlight'>apple</span> for lunch.",
+    "answer": "noun",
+    "clue": "This is a kind of fruit."
+  },
+  {
+    "word": "eat",
+    "sentence": "We <span class='highlight'>eat</span> dinner at six.",
+    "answer": "verb",
+    "clue": "This word describes something you do."
+  },
+  {
+    "word": "apple",
+    "sentence": "He ate an <span class='highlight'>apple</span> for lunch.",
+    "answer": "noun",
+    "clue": "This is a kind of fruit."
+  },
+  {
+    "word": "dog",
+    "sentence": "The <span class='highlight'>dog</span> barked at the stranger.",
+    "answer": "noun",
+    "clue": "This is a type of animal."
+  },
+  {
+    "word": "jump",
+    "sentence": "She <span class='highlight'>jumped</span> over the puddle.",
+    "answer": "verb",
+    "clue": "This word shows action."
+  },
+  {
+    "word": "blue",
+    "sentence": "She wore a <span class='highlight'>blue</span> dress.",
+    "answer": "adjective",
+    "clue": "This word tells what something looks like."
+  },
+  {
+    "word": "blue",
+    "sentence": "She wore a <span class='highlight'>blue</span> dress.",
+    "answer": "adjective",
+    "clue": "This word tells what something looks like."
+  },
+  {
+    "word": "eat",
+    "sentence": "We <span class='highlight'>eat</span> dinner at six.",
+    "answer": "verb",
+    "clue": "This word describes something you do."
+  },
+  {
+    "word": "apple",
+    "sentence": "He ate an <span class='highlight'>apple</span> for lunch.",
+    "answer": "noun",
+    "clue": "This is a kind of fruit."
+  },
+  {
+    "word": "cold",
+    "sentence": "The <span class='highlight'>cold</span> wind blew.",
+    "answer": "adjective",
+    "clue": "This word describes the temperature."
+  },
+  {
+    "word": "apple",
+    "sentence": "He ate an <span class='highlight'>apple</span> for lunch.",
+    "answer": "noun",
+    "clue": "This is a kind of fruit."
+  },
+  {
+    "word": "run",
+    "sentence": "They <span class='highlight'>run</span> in the morning.",
+    "answer": "verb",
+    "clue": "This is something you can do."
+  },
+  {
+    "word": "carefully",
+    "sentence": "He <span class='highlight'>carefully</span> painted the picture.",
+    "answer": "adverb",
+    "clue": "This tells how the task was done."
+  },
+  {
+    "word": "teacher",
+    "sentence": "The <span class='highlight'>teacher</span> explained the lesson.",
+    "answer": "noun",
+    "clue": "This is a person with a job."
+  },
+  {
+    "word": "happy",
+    "sentence": "He is a <span class='highlight'>happy</span> child.",
+    "answer": "adjective",
+    "clue": "This word describes how someone feels."
+  },
+  {
+    "word": "apple",
+    "sentence": "He ate an <span class='highlight'>apple</span> for lunch.",
+    "answer": "noun",
+    "clue": "This is a kind of fruit."
+  },
+  {
+    "word": "carefully",
+    "sentence": "He <span class='highlight'>carefully</span> painted the picture.",
+    "answer": "adverb",
+    "clue": "This tells how the task was done."
+  },
+  {
+    "word": "blue",
+    "sentence": "She wore a <span class='highlight'>blue</span> dress.",
+    "answer": "adjective",
+    "clue": "This word tells what something looks like."
+  },
+  {
+    "word": "teacher",
+    "sentence": "The <span class='highlight'>teacher</span> explained the lesson.",
+    "answer": "noun",
+    "clue": "This is a person with a job."
+  },
+  {
+    "word": "quickly",
+    "sentence": "He <span class='highlight'>quickly</span> opened the door.",
+    "answer": "adverb",
+    "clue": "This tells how something is done."
+  },
+  {
+    "word": "quickly",
+    "sentence": "He <span class='highlight'>quickly</span> opened the door.",
+    "answer": "adverb",
+    "clue": "This tells how something is done."
+  },
+  {
+    "word": "quickly",
+    "sentence": "He <span class='highlight'>quickly</span> opened the door.",
+    "answer": "adverb",
+    "clue": "This tells how something is done."
+  },
+  {
+    "word": "quickly",
+    "sentence": "He <span class='highlight'>quickly</span> opened the door.",
+    "answer": "adverb",
+    "clue": "This tells how something is done."
+  },
+  {
+    "word": "cold",
+    "sentence": "The <span class='highlight'>cold</span> wind blew.",
+    "answer": "adjective",
+    "clue": "This word describes the temperature."
+  },
+  {
+    "word": "happy",
+    "sentence": "He is a <span class='highlight'>happy</span> child.",
+    "answer": "adjective",
+    "clue": "This word describes how someone feels."
+  },
+  {
+    "word": "blue",
+    "sentence": "She wore a <span class='highlight'>blue</span> dress.",
+    "answer": "adjective",
+    "clue": "This word tells what something looks like."
+  },
+  {
+    "word": "happy",
+    "sentence": "He is a <span class='highlight'>happy</span> child.",
+    "answer": "adjective",
+    "clue": "This word describes how someone feels."
+  },
+  {
+    "word": "eat",
+    "sentence": "We <span class='highlight'>eat</span> dinner at six.",
+    "answer": "verb",
+    "clue": "This word describes something you do."
+  },
+  {
+    "word": "jump",
+    "sentence": "She <span class='highlight'>jumped</span> over the puddle.",
+    "answer": "verb",
+    "clue": "This word shows action."
+  },
+  {
+    "word": "run",
+    "sentence": "They <span class='highlight'>run</span> in the morning.",
+    "answer": "verb",
+    "clue": "This is something you can do."
+  },
+  {
+    "word": "cold",
+    "sentence": "The <span class='highlight'>cold</span> wind blew.",
+    "answer": "adjective",
+    "clue": "This word describes the temperature."
+  },
+  {
+    "word": "dog",
+    "sentence": "The <span class='highlight'>dog</span> barked at the stranger.",
+    "answer": "noun",
+    "clue": "This is a type of animal."
+  },
+  {
+    "word": "quickly",
+    "sentence": "He <span class='highlight'>quickly</span> opened the door.",
+    "answer": "adverb",
+    "clue": "This tells how something is done."
+  },
+  {
+    "word": "loudly",
+    "sentence": "She <span class='highlight'>loudly</span> sang a song.",
+    "answer": "adverb",
+    "clue": "This tells how the action was performed."
+  },
+  {
+    "word": "teacher",
+    "sentence": "The <span class='highlight'>teacher</span> explained the lesson.",
+    "answer": "noun",
+    "clue": "This is a person with a job."
+  },
+  {
+    "word": "quickly",
+    "sentence": "He <span class='highlight'>quickly</span> opened the door.",
+    "answer": "adverb",
+    "clue": "This tells how something is done."
+  },
+  {
+    "word": "cold",
+    "sentence": "The <span class='highlight'>cold</span> wind blew.",
+    "answer": "adjective",
+    "clue": "This word describes the temperature."
+  },
+  {
+    "word": "dog",
+    "sentence": "The <span class='highlight'>dog</span> barked at the stranger.",
+    "answer": "noun",
+    "clue": "This is a type of animal."
+  },
+  {
+    "word": "loudly",
+    "sentence": "She <span class='highlight'>loudly</span> sang a song.",
+    "answer": "adverb",
+    "clue": "This tells how the action was performed."
+  },
+  {
+    "word": "quickly",
+    "sentence": "He <span class='highlight'>quickly</span> opened the door.",
+    "answer": "adverb",
+    "clue": "This tells how something is done."
+  },
+  {
+    "word": "quickly",
+    "sentence": "He <span class='highlight'>quickly</span> opened the door.",
+    "answer": "adverb",
+    "clue": "This tells how something is done."
+  },
+  {
+    "word": "happy",
+    "sentence": "He is a <span class='highlight'>happy</span> child.",
+    "answer": "adjective",
+    "clue": "This word describes how someone feels."
+  },
+  {
+    "word": "dog",
+    "sentence": "The <span class='highlight'>dog</span> barked at the stranger.",
+    "answer": "noun",
+    "clue": "This is a type of animal."
+  },
+  {
+    "word": "cold",
+    "sentence": "The <span class='highlight'>cold</span> wind blew.",
+    "answer": "adjective",
+    "clue": "This word describes the temperature."
+  },
+  {
+    "word": "happy",
+    "sentence": "He is a <span class='highlight'>happy</span> child.",
+    "answer": "adjective",
+    "clue": "This word describes how someone feels."
+  },
+  {
+    "word": "quickly",
+    "sentence": "He <span class='highlight'>quickly</span> opened the door.",
+    "answer": "adverb",
+    "clue": "This tells how something is done."
+  },
+  {
+    "word": "cold",
+    "sentence": "The <span class='highlight'>cold</span> wind blew.",
+    "answer": "adjective",
+    "clue": "This word describes the temperature."
+  },
+  {
+    "word": "dog",
+    "sentence": "The <span class='highlight'>dog</span> barked at the stranger.",
+    "answer": "noun",
+    "clue": "This is a type of animal."
+  },
+  {
+    "word": "run",
+    "sentence": "They <span class='highlight'>run</span> in the morning.",
+    "answer": "verb",
+    "clue": "This is something you can do."
+  },
+  {
+    "word": "carefully",
+    "sentence": "He <span class='highlight'>carefully</span> painted the picture.",
+    "answer": "adverb",
+    "clue": "This tells how the task was done."
+  },
+  {
+    "word": "cold",
+    "sentence": "The <span class='highlight'>cold</span> wind blew.",
+    "answer": "adjective",
+    "clue": "This word describes the temperature."
+  },
+  {
+    "word": "loudly",
+    "sentence": "She <span class='highlight'>loudly</span> sang a song.",
+    "answer": "adverb",
+    "clue": "This tells how the action was performed."
+  },
+  {
+    "word": "teacher",
+    "sentence": "The <span class='highlight'>teacher</span> explained the lesson.",
+    "answer": "noun",
+    "clue": "This is a person with a job."
+  },
+  {
+    "word": "carefully",
+    "sentence": "He <span class='highlight'>carefully</span> painted the picture.",
+    "answer": "adverb",
+    "clue": "This tells how the task was done."
+  },
+  {
+    "word": "eat",
+    "sentence": "We <span class='highlight'>eat</span> dinner at six.",
+    "answer": "verb",
+    "clue": "This word describes something you do."
+  },
+  {
+    "word": "cold",
+    "sentence": "The <span class='highlight'>cold</span> wind blew.",
+    "answer": "adjective",
+    "clue": "This word describes the temperature."
+  },
+  {
+    "word": "dog",
+    "sentence": "The <span class='highlight'>dog</span> barked at the stranger.",
+    "answer": "noun",
+    "clue": "This is a type of animal."
+  },
+  {
+    "word": "dog",
+    "sentence": "The <span class='highlight'>dog</span> barked at the stranger.",
+    "answer": "noun",
+    "clue": "This is a type of animal."
+  },
+  {
+    "word": "apple",
+    "sentence": "He ate an <span class='highlight'>apple</span> for lunch.",
+    "answer": "noun",
+    "clue": "This is a kind of fruit."
+  },
+  {
+    "word": "run",
+    "sentence": "They <span class='highlight'>run</span> in the morning.",
+    "answer": "verb",
+    "clue": "This is something you can do."
+  }
+]
