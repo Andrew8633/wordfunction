@@ -188,7 +188,17 @@
     let currentIndex = 0;
     let tries = 0;
     let totalPoints = parseInt(localStorage.getItem("totalPoints")) || 0;
-    const milestones = {50: "🎯 You're on fire! Keep it up!", 100: "🌟 Incredible work! 100 points!", 200: "🏅 You're a language champion!", 400: "🚀 Outstanding! You're flying through!", 800: "🎓 Word master! Nearly there!", 1000: "👑 You did it! Word wizard level unlocked!"};
+    
+const milestones = [
+  { threshold: 50, message: "🎯 You're on fire! Keep it up!" },
+  { threshold: 100, message: "🌟 Incredible work! Over 100 points!" },
+  { threshold: 200, message: "🏅 You're a language champion!" },
+  { threshold: 400, message: "🚀 Outstanding! You're flying through!" },
+  { threshold: 600, message: "🧠 Big brain mode activated!" },
+  { threshold: 800, message: "🎓 Word master! Nearly there!" },
+  { threshold: 1000, message: "👑 You did it! A perfect 1000! You're a word wizard!" }
+];
+
     let messagesShown = JSON.parse(localStorage.getItem("messagesShown")) || [];
 
     const sentenceBox = document.getElementById("sentenceBox");
@@ -198,26 +208,26 @@
     const questionText = document.getElementById("questionText");
     const buttons = document.querySelectorAll(".pos-button");
     const message = document.getElementById("message");
-    
-	
-	window.addEventListener('load', () => {
-  setTimeout(() => {
-    window.scrollTo(0, 1);
-  }, 100);
-});
 
     function updateScoreboard() {
       scorePanel.textContent = `Points: ${totalPoints}`;
     }
 
-    function showMessage(points) {
-      if (milestones[points] && !messagesShown.includes(points)) {
-        message.textContent = milestones[points];
-        message.style.display = "block";
-        messagesShown.push(points);
-        localStorage.setItem("messagesShown", JSON.stringify(messagesShown));
-      }
+    
+function showMessage(points) {
+  milestones.forEach(({ threshold, message }) => {
+    const id = "milestone_" + threshold;
+    const notYetShown = !messagesShown.includes(id);
+    const isTrigger = (threshold === 1000 && points === 1000) || (points > threshold && threshold !== 1000);
+    if (isTrigger && notYetShown) {
+      document.getElementById("message").textContent = message;
+      document.getElementById("message").style.display = "block";
+      messagesShown.push(id);
+      localStorage.setItem("messagesShown", JSON.stringify(messagesShown));
     }
+  });
+}
+
 
     function loadQuestion() {
       const q = prompts[currentIndex];
