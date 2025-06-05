@@ -321,38 +321,41 @@ function nextQuestion() {
 
     
 fetch('prompts.json')
+  .then(res => res.json())
+  .then(data => {
+    prompts = data;
 
-      .then(res => res.json())
-      .then(data => {
-        
-prompts = data;
-const availableIndexes = prompts.map((_, i) => i).filter(i => !usedIndexes.includes(i));
+    const availableIndexes = prompts
+      .map((_, i) => i)
+      .filter(i => !usedIndexes.includes(i));
 
-if (availableIndexes.length === 0) {
-  const finalScore = localStorage.getItem("totalPoints") || 0;
-  sentenceBox.innerHTML = `🎉 You’ve completed all 300 prompts!<br><br>You earned <strong>${finalScore}</strong> points — amazing work!<br><br>Let’s start over and see if you can beat your score!`;
-  document.querySelector(".button-container").style.display = "none";
-  clue.style.display = "none";
-  questionText.style.display = "none";
-  nextButton.classList.remove("show");
-  setTimeout(() => {
-    localStorage.removeItem("usedIndexes");
-    localStorage.removeItem("totalPoints");
-    localStorage.removeItem("messagesShown");
-    location.reload();
-  }, 8000);
-  return;
-}
-currentIndex = availableIndexes[0];
+    if (availableIndexes.length === 0) {
+      const finalScore = localStorage.getItem("totalPoints") || 0;
+      sentenceBox.innerHTML = `🎉 You’ve completed all 300 prompts!<br><br>You earned <strong>${finalScore}</strong> points — amazing work!<br><br>Let’s start over and see if you can beat your score!`;
+      document.querySelector(".button-container").style.display = "none";
+      clue.style.display = "none";
+      questionText.style.display = "none";
+      nextButton.classList.remove("show");
+      setTimeout(() => {
+        localStorage.removeItem("usedIndexes");
+        localStorage.removeItem("totalPoints");
+        localStorage.removeItem("messagesShown");
+        location.reload();
+      }, 8000);
+      return;
+    }
 
-        
-        updateScoreboard();
-        loadQuestion();
-      })
-      .catch(err => {
-        sentenceBox.innerHTML = "Error loading prompts.";
-        console.error(err);
-      });
+    // 🎯 Pick a random index from available
+    const randomIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
+    currentIndex = randomIndex;
+    updateScoreboard();
+    loadQuestion();
+  })
+  .catch(err => {
+    sentenceBox.innerHTML = "Error loading prompts.";
+    console.error(err);
+  });
+
   </script>
 </body>
 </html>
