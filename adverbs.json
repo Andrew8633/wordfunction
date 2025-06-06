@@ -109,7 +109,7 @@
   },
   {
     "word": "safely",
-    "sentence": "I <span class='highlight'>safely</span> study at night.",
+    "sentence": "I <span class='highlight'>safely</span> crossed the street after looking both ways.",
     "answer": "adverb",
     "clue": "safely means without danger"
   },
@@ -151,7 +151,7 @@
   },
   {
     "word": "clearly",
-    "sentence": "She <span class='highlight'>clearly</span> checks her email.",
+    "sentence": "She speaks <span class='highlight'>clearly</span> and confidently.",
     "answer": "adverb",
     "clue": "clearly means in an easy-to-understand way"
   },
@@ -163,13 +163,13 @@
   },
   {
     "word": "lightly",
-    "sentence": "He <span class='highlight'>lightly</span> stated his opinion.",
+    "sentence": "He <span class='highlight'>lightly</span> put down the fragile gift.",
     "answer": "adverb",
     "clue": "lightly means in a gentle way"
   },
   {
     "word": "accidentally",
-    "sentence": "They <span class='highlight'>accidentally</span> packed their bags.",
+    "sentence": "They <span class='highlight'>accidentally</span> forgot their wallets.",
     "answer": "adverb",
     "clue": "accidentally means by mistake"
   },
@@ -193,19 +193,19 @@
   },
   {
     "word": "firmly",
-    "sentence": "He <span class='highlight'>firmly</span> broke the glass.",
+    "sentence": "He <span class='highlight'>firmly</span> stated his opinion.",
     "answer": "adverb",
     "clue": "firmly means in a strong way"
   },
   {
     "word": "warmly",
-    "sentence": "She <span class='highlight'>warmly</span> goes to the gym.",
+    "sentence": "She <span class='highlight'>warmly</span> greeted her friend.",
     "answer": "adverb",
     "clue": "warmly means in a warm and kind way"
   },
   {
     "word": "truly",
-    "sentence": "He <span class='highlight'>truly</span> greeted his classmates.",
+    "sentence": "He <span class='highlight'>truly</span> was scared in the movie.",
     "answer": "adverb",
     "clue": "truly means really or honestly"
   },
@@ -229,19 +229,19 @@
   },
   {
     "word": "nearly",
-    "sentence": "He <span class='highlight'>nearly</span> cares about his friends.",
+    "sentence": "He <span class='highlight'>nearly</span> fell off the ladder.",
     "answer": "adverb",
     "clue": "nearly means almost"
   },
   {
     "word": "softly",
-    "sentence": "I <span class='highlight'>softly</span> knew anyone at the party.",
+    "sentence": "I <span class='highlight'>softly</span> picked up the kitten.",
     "answer": "adverb",
     "clue": "softly means in a soft way"
   },
   {
     "word": "constantly",
-    "sentence": "She <span class='highlight'>constantly</span> wanted to win.",
+    "sentence": "She <span class='highlight'>constantly</span> wants to win.",
     "answer": "adverb",
     "clue": "constantly means all the time"
   },
@@ -259,13 +259,13 @@
   },
   {
     "word": "seriously",
-    "sentence": "He <span class='highlight'>seriously</span> found the answer.",
+    "sentence": "He <span class='highlight'>seriously</span> thought about quitting.",
     "answer": "adverb",
     "clue": "seriously means with seriousness"
   },
   {
     "word": "honestly",
-    "sentence": "She <span class='highlight'>honestly</span> stopped speaking.",
+    "sentence": "She <span class='highlight'>honestly</span> gave her opinion.",
     "answer": "adverb",
     "clue": "honestly means with honesty"
   },
@@ -289,7 +289,7 @@
   },
   {
     "word": "angrily",
-    "sentence": "She <span class='highlight'>angrily</span> sang a lullaby.",
+    "sentence": "She <span class='highlight'>angrily</span> slammed the door.",
     "answer": "adverb",
     "clue": "angrily means in an angry way"
   },
@@ -301,7 +301,7 @@
   },
   {
     "word": "totally",
-    "sentence": "She <span class='highlight'>totally</span> danced in the rain.",
+    "sentence": "She <span class='highlight'>totally</span> painted the room.",
     "answer": "adverb",
     "clue": "totally means completely"
   },
@@ -313,25 +313,25 @@
   },
   {
     "word": "truthfully",
-    "sentence": "They <span class='highlight'>truthfully</span> ask questions.",
+    "sentence": "They told their mother what happened <span class='highlight'>truthfully</span>.",
     "answer": "adverb",
     "clue": "truthfully means in a truthful way"
   },
   {
     "word": "calmly",
-    "sentence": "He <span class='highlight'>calmly</span> read the letter.",
+    "sentence": "He read the letter <span class='highlight'>calmly</span>.",
     "answer": "adverb",
     "clue": "calmly means in a calm way"
   },
   {
     "word": "nervously",
-    "sentence": "The car <span class='highlight'>nervously</span> stopped at the corner.",
+    "sentence": "The driver <span class='highlight'>nervously</span> stopped at the corner.",
     "answer": "adverb",
     "clue": "nervously means in a nervous way"
   },
   {
     "word": "really",
-    "sentence": "I <span class='highlight'>really</span> watch television.",
+    "sentence": "I <span class='highlight'>really</span> don't watch television.",
     "answer": "adverb",
     "clue": "really means very or truly"
   }
