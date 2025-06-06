@@ -1,16 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- Google tag (gtag.js) -->
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-K82VKWSSL7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-K82VKWSSL7');
-</script>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>WordFunction</title>
@@ -63,6 +53,19 @@
     .start-link a:hover {
       background: #005fa3;
     }
+
+    .memory-button {
+      display: none; /* hidden by default */
+      margin: 4rem auto 0 auto;
+      padding: 0.6rem 1.2rem;
+      font-size: 1rem;
+      background-color: #dc3545;
+      color: white;
+      border: none;
+      border-radius: 0.5rem;
+      cursor: pointer;
+      text-align: center;
+    }
   </style>
 </head>
 <body>
@@ -91,8 +94,32 @@
   <p>Watch for fun messages when you reach key scores like 50, 100, 200, and beyond!</p>
 
   <div class="start-link">
-    <a href="game.html">Start Practicing</a>
+    <a id="startLink" href="game.html">Start Practicing</a>
   </div>
 
+  <button id="clearMemoryButton" class="memory-button">Clear Memory</button>
+
+  <script>
+    const hasProgress =
+      localStorage.getItem("usedIndexes") ||
+      localStorage.getItem("totalPoints");
+
+    // Change button text if continuing
+    if (hasProgress) {
+      document.getElementById("startLink").textContent = "Continue Practicing";
+      document.getElementById("clearMemoryButton").style.display = "block";
+    }
+
+    // Clear memory logic
+    document.getElementById("clearMemoryButton").addEventListener("click", () => {
+      if (confirm("Are you sure you want to clear your saved game data?")) {
+        localStorage.removeItem("usedIndexes");
+        localStorage.removeItem("totalPoints");
+        localStorage.removeItem("messagesShown");
+        alert("Memory cleared!");
+        location.reload();
+      }
+    });
+  </script>
 </body>
 </html>
