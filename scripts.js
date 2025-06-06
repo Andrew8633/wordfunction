@@ -132,7 +132,8 @@
       fetch('adjectives.json').then(res => res.json()),
       fetch('adverbs.json').then(res => res.json())
     ]).then(([nouns, verbs, adjectives, adverbs]) => {
-      prompts = [...nouns, ...verbs, ...adjectives, ...adverbs].sort(() => Math.random() - 0.5);
+prompts = shuffleArray([...nouns, ...verbs, ...adjectives, ...adverbs]);
+
       const availableIndexes = prompts.map((_, i) => i).filter(i => !usedIndexes.includes(i));
 
       if (availableIndexes.length === 0) {
