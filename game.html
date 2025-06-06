@@ -76,7 +76,7 @@
       margin-bottom: 0.5rem;
     }
 
-  #message {
+    #message {
   position: fixed;
   top: 0;
   left: 0;
@@ -89,13 +89,14 @@
   font-size: 2rem;
   font-weight: bold;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
-  padding: 2rem;
+  padding-top: 33vh;
+  padding-left: 2rem;
+  padding-right: 2rem;
   text-align: center;
   cursor: pointer;
 }
-
 
     #clue {
       min-height: 2.2em;
@@ -174,7 +175,8 @@
   <div id="page">
     <header>
       <h1>WordFunction</h1>
-      <div id="scorePanel">Points: 0</div>
+      $1
+
     </header>
 
     <main id="main">
@@ -194,7 +196,15 @@
     <button id="nextButton">Next</button>
   </div>
 
-  <script>
+  $1document.getElementById("clearMemoryButton").addEventListener("click", () => {
+  if (confirm("Are you sure you want to clear all saved progress?")) {
+    localStorage.removeItem("usedIndexes");
+    localStorage.removeItem("totalPoints");
+    localStorage.removeItem("messagesShown");
+    location.reload();
+  }
+});
+
     let prompts = [];
     let currentIndex = 0;
     let usedIndexes = JSON.parse(localStorage.getItem("usedIndexes")) || [];
@@ -256,8 +266,9 @@
       localStorage.setItem("messagesShown", JSON.stringify(shown));
       break;
     }
-	}
-
+  }
+}`;
+    }
 
     function loadQuestion() {
       const q = prompts[currentIndex];
@@ -352,5 +363,23 @@
       console.error(err);
     });
   </script>
-</body>
+
+  <div style="text-align: center; margin-top: 4rem;">
+    <button id="clearMemoryButton" style="padding: 0.6rem 1.2rem; font-size: 1rem; background-color: #dc3545; color: white; border: none; border-radius: 0.5rem; cursor: pointer;">
+      Clear Memory
+    </button>
+  </div>
+
+<script>
+document.getElementById("clearMemoryButton").addEventListener("click", () => {
+  if (confirm("Are you sure you want to clear all saved progress?")) {
+    localStorage.removeItem("usedIndexes");
+    localStorage.removeItem("totalPoints");
+    localStorage.removeItem("messagesShown");
+    location.reload();
+  }
+});
+</script>
+
+$1
 </html>
