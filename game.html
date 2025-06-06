@@ -76,21 +76,26 @@
       margin-bottom: 0.5rem;
     }
 
-    #message {
-      font-size: 1.2rem;
-      position: fixed;
-      top: 40%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      background: #fff9c4;
-      border: 2px solid #f1c40f;
-      padding: 1rem 1.5rem;
-      border-radius: 1rem;
-      display: none;
-      z-index: 1000;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-      cursor: pointer;
-    }
+  #message {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(255, 249, 196, 0.95);
+  color: #333;
+  display: none;
+  z-index: 1000;
+  font-size: 2rem;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  text-align: center;
+  cursor: pointer;
+}
+
 
     #clue {
       min-height: 2.2em;
