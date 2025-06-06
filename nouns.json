@@ -1,0 +1,452 @@
+[
+  {
+    "word": "backpack",
+    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "answer": "noun",
+    "clue": "A backpack is used to carry stuff."
+  },
+  {
+    "word": "apple",
+    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
+    "answer": "noun",
+    "clue": "An apple is sweet."
+  },
+  {
+    "word": "museum",
+    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
+    "answer": "noun",
+    "clue": "A museum is where people see old and important things."
+  },
+  {
+    "word": "phone",
+    "sentence": "She bought a new <span class='highlight'>phone</span> after losing her old one.",
+    "answer": "noun",
+    "clue": "A phone is used to talk to people."
+  },
+  {
+    "word": "teacher",
+    "sentence": "A <span class='highlight'>teacher</span> helped me solve the math problem.",
+    "answer": "noun",
+    "clue": "A teacher helps students learn."
+  },
+  {
+    "word": "keys",
+    "sentence": "I left my <span class='highlight'>keys</span> on the kitchen counter.",
+    "answer": "noun",
+    "clue": "Keys can open doors."
+  },
+  {
+    "word": "car",
+    "sentence": "The <span class='highlight'>car</span> wouldn't start in the cold weather.",
+    "answer": "noun",
+    "clue": "People use cars to go places."
+  },
+  {
+    "word": "dog",
+    "sentence": "A <span class='highlight'>dog</span> barked loudly outside the window.",
+    "answer": "noun",
+    "clue": "A dog barks and runs around."
+  },
+  {
+    "word": "guitar",
+    "sentence": "He plays the <span class='highlight'>guitar</span> in a local band.",
+    "answer": "noun",
+    "clue": "A guitar is used to make music."
+  },
+  {
+    "word": "mirror",
+    "sentence": "She cleaned the dusty <span class='highlight'>mirror</span> in the hallway.",
+    "answer": "noun",
+    "clue": "You can see yourself in a mirror."
+  },
+  {
+    "word": "bus",
+    "sentence": "We waited for the <span class='highlight'>bus</span> in the rain.",
+    "answer": "noun",
+    "clue": "A bus can take many people somewhere."
+  },
+  {
+    "word": "wall",
+    "sentence": "They painted the <span class='highlight'>wall</span> bright yellow.",
+    "answer": "noun",
+    "clue": "A wall is the end of a room."
+  },
+  {
+    "word": "coin",
+    "sentence": "He found a <span class='highlight'>coin</span> on the sidewalk.",
+    "answer": "noun",
+    "clue": "A coin is used to buy things."
+  },
+  {
+    "word": "river",
+    "sentence": "A <span class='highlight'>river</span> runs through the valley.",
+    "answer": "noun",
+    "clue": "A river is a long flowing body of water."
+  },
+  {
+    "word": "store",
+    "sentence": "The <span class='highlight'>store</span> closes at 9 p.m. every night.",
+    "answer": "noun",
+    "clue": "A store is where people shop for things."
+  },
+  {
+    "word": "bell",
+    "sentence": "I heard a <span class='highlight'>bell</span> ring loudly across the schoolyard.",
+    "answer": "noun",
+    "clue": "A bell makes a ringing sound."
+  },
+  {
+    "word": "crowd",
+    "sentence": "A large <span class='highlight'>crowd</span> gathered to watch the parade.",
+    "answer": "noun",
+    "clue": "A crowd is many people in one place."
+  },
+  {
+    "word": "cake",
+    "sentence": "The <span class='highlight'>cake</span> looked delicious on the table.",
+    "answer": "noun",
+    "clue": "Cakes are a common birthday food."
+  },
+  {
+    "word": "library",
+    "sentence": "We visited the <span class='highlight'>library</span> to borrow some books.",
+    "answer": "noun",
+    "clue": "A library is where people borrow books."
+  },
+  {
+    "word": "wallet",
+    "sentence": "She dropped her <span class='highlight'>wallet</span> in the parking lot.",
+    "answer": "noun",
+    "clue": "A wallet is used to hold money."
+  },
+  {
+    "word": "bridge",
+    "sentence": "A <span class='highlight'>bridge</span> connects the two sides of the city.",
+    "answer": "noun",
+    "clue": "People can cross bridges."
+  },
+  {
+    "word": "hat",
+    "sentence": "I lost my <span class='highlight'>hat</span> in the wind.",
+    "answer": "noun",
+    "clue": "A hat is worn on someone's head."
+  },
+  {
+    "word": "suit",
+    "sentence": "He wore a <span class='highlight'>suit</span> to the wedding.",
+    "answer": "noun",
+    "clue": "A suit is special clothes."
+  },
+  {
+    "word": "lamp",
+    "sentence": "They bought a new <span class='highlight'>lamp</span> for the living room.",
+    "answer": "noun",
+    "clue": "A lamp is used to make a room bright."
+  },
+  {
+    "word": "child",
+    "sentence": "The <span class='highlight'>child</span> drew a picture of a unicorn.",
+    "answer": "noun",
+    "clue": "A child is a young person."
+  },
+  {
+    "word": "chair",
+    "sentence": "A <span class='highlight'>chair</span> was missing from the dining room.",
+    "answer": "noun",
+    "clue": "People sit on chairs."
+  },
+  {
+    "word": "ball",
+    "sentence": "The <span class='highlight'>ball</span> rolled under the couch.",
+    "answer": "noun",
+    "clue": "A ball is used to play games."
+  },
+  {
+    "word": "bottle",
+    "sentence": "She put a <span class='highlight'>bottle</span> of water in her bag.",
+    "answer": "noun",
+    "clue": "A bottle holds liquids."
+  },
+  {
+    "word": "hotel",
+    "sentence": "We stayed at a fancy <span class='highlight'>hotel</span> by the beach.",
+    "answer": "noun",
+    "clue": "A hotel is where people stay when traveling."
+  },
+  {
+    "word": "computer",
+    "sentence": "The <span class='highlight'>computer</span> crashed while I was working.",
+    "answer": "noun",
+    "clue": "You are using a computer right now."
+  },
+  {
+    "word": "gift",
+    "sentence": "He gave me a <span class='highlight'>gift</span> for my birthday.",
+    "answer": "noun",
+    "clue": "A gift is something that is given."
+  },
+  {
+    "word": "cloud",
+    "sentence": "The <span class='highlight'>cloud</span> looked like a dragon.",
+    "answer": "noun",
+    "clue": "There are usually clouds in the sky."
+  },
+  {
+    "word": "picture",
+    "sentence": "I hung a <span class='highlight'>picture</span> on the wall.",
+    "answer": "noun",
+    "clue": "A picture is something you can look at that shows what a person, place, or thing looks like."
+  },
+  {
+    "word": "plant",
+    "sentence": "The <span class='highlight'>plant</span> needs more sunlight.",
+    "answer": "noun",
+    "clue": "Plants are usually green."
+  },
+  {
+    "word": "alarm",
+    "sentence": "A loud <span class='highlight'>alarm</span> woke everyone up.",
+    "answer": "noun",
+    "clue": "A alarm is used to wake people up."
+  },
+  {
+    "word": "movie",
+    "sentence": "We watched a funny <span class='highlight'>movie</span> last night.",
+    "answer": "noun",
+    "clue": "You can watch movies in a theater."
+  },
+  {
+    "word": "kitchen",
+    "sentence": "The <span class='highlight'>kitchen</span> smells like cookies.",
+    "answer": "noun",
+    "clue": "A kitchen is where food is prepared."
+  },
+  {
+    "word": "pencil",
+    "sentence": "A <span class='highlight'>pencil</span> rolled off the desk.",
+    "answer": "noun",
+    "clue": "A pencil is used to write or draw."
+  },
+  {
+    "word": "ship",
+    "sentence": "I saw a huge <span class='highlight'>ship</span> in the harbor.",
+    "answer": "noun",
+    "clue": "A ship is used to travel on water."
+  },
+  {
+    "word": "sun",
+    "sentence": "The <span class='highlight'>sun</span> set behind the mountains.",
+    "answer": "noun",
+    "clue": "The sun is the bright ball in the sky."
+  },
+  {
+    "word": "shoes",
+    "sentence": "My <span class='highlight'>shoes</span> got soaked in the rain.",
+    "answer": "noun",
+    "clue": "Shoes are worn on people's feet."
+  },
+  {
+    "word": "dress",
+    "sentence": "She wore a <span class='highlight'>dress</span> to the party.",
+    "answer": "noun",
+    "clue": "A dress is fancy clothing."
+  },
+  {
+    "word": "train",
+    "sentence": "We took the <span class='highlight'>train</span> to the city.",
+    "answer": "noun",
+    "clue": "A train travels on rails."
+  },
+  {
+    "word": "clock",
+    "sentence": "The <span class='highlight'>clock</span> struck twelve.",
+    "answer": "noun",
+    "clue": "A clock tells the time."
+  },
+  {
+    "word": "ticket",
+    "sentence": "He held a <span class='highlight'>ticket</span> in his hand.",
+    "answer": "noun",
+    "clue": "A ticket is used to access something."
+  },
+  {
+    "word": "fire",
+    "sentence": "A <span class='highlight'>fire</span> burned in the fireplace.",
+    "answer": "noun",
+    "clue": "A fire keeps the room warm."
+  },
+  {
+    "word": "village",
+    "sentence": "They visited a small <span class='highlight'>village</span> in the countryside.",
+    "answer": "noun",
+    "clue": "A village is a small town."
+  },
+  {
+    "word": "sky",
+    "sentence": "The <span class='highlight'>sky</span> turned orange at sunset.",
+    "answer": "noun",
+    "clue": "The sky is above us."
+  },
+  {
+    "word": "path",
+    "sentence": "A <span class='highlight'>path</span> led through the forest.",
+    "answer": "noun",
+    "clue": "A path is like a road but for walking."
+  },
+  {
+    "word": "beach",
+    "sentence": "The <span class='highlight'>beach</span> was crowded on Saturday.",
+    "answer": "noun",
+    "clue": "A beach is where the ocean meets land."
+  },
+  {
+    "word": "window",
+    "sentence": "He sat beside the <span class='highlight'>window</span> and read a book.",
+    "answer": "noun",
+    "clue": "We can look outside through a window."
+  },
+  {
+    "word": "door",
+    "sentence": "The <span class='highlight'>door</span> creaked when it opened.",
+    "answer": "noun",
+    "clue": "A door is where we enter a room."
+  },
+  {
+    "word": "table",
+    "sentence": "I put the groceries on the <span class='highlight'>table</span>.",
+    "answer": "noun",
+    "clue": "A table is a piece of furniture with a flat top."
+  },
+  {
+    "word": "baby",
+    "sentence": "She held a <span class='highlight'>baby</span> in her arms.",
+    "answer": "noun",
+    "clue": "A baby sleeps and cries."
+  },
+  {
+    "word": "game",
+    "sentence": "They played a <span class='highlight'>game</span> after dinner.",
+    "answer": "noun",
+    "clue": "A game is used for fun."
+  },
+  {
+    "word": "carpet",
+    "sentence": "The <span class='highlight'>carpet</span> was soft underfoot.",
+    "answer": "noun",
+    "clue": "A carpet covers the floor."
+  },
+  {
+    "word": "line",
+    "sentence": "We waited in the <span class='highlight'>line</span> for tickets.",
+    "answer": "noun",
+    "clue": "People wait in lines."
+  },
+  {
+    "word": "bird",
+    "sentence": "A <span class='highlight'>bird</span> landed on the branch.",
+    "answer": "noun",
+    "clue": "A bird flies and lands on trees."
+  },
+  {
+    "word": "map",
+    "sentence": "I drew a <span class='highlight'>map</span> of the island.",
+    "answer": "noun",
+    "clue": "A map helps people find their way."
+  },
+  {
+    "word": "light",
+    "sentence": "The <span class='highlight'>light</span> flickered suddenly.",
+    "answer": "noun",
+    "clue": "A light is used to make a room bright."
+  },
+  {
+    "word": "note",
+    "sentence": "A <span class='highlight'>note</span> was left on the fridge.",
+    "answer": "noun",
+    "clue": "A note is a short message."
+  },
+  {
+    "word": "ceiling",
+    "sentence": "The <span class='highlight'>ceiling</span> had a small crack.",
+    "answer": "noun",
+    "clue": "A ceiling is the top of the room."
+  },
+  {
+    "word": "box",
+    "sentence": "He opened the <span class='highlight'>box</span> slowly.",
+    "answer": "noun",
+    "clue": "A box is a container."
+  },
+  {
+    "word": "bench",
+    "sentence": "A <span class='highlight'>bench</span> stood beneath the tree.",
+    "answer": "noun",
+    "clue": "A bench is a wide chair."
+  },
+  {
+    "word": "coat",
+    "sentence": "She bought a new <span class='highlight'>coat</span> for winter.",
+    "answer": "noun",
+    "clue": "A coat keeps people warm."
+  },
+  {
+    "word": "fence",
+    "sentence": "They painted the <span class='highlight'>fence</span> white.",
+    "answer": "noun",
+    "clue": "A fence is a barrier."
+  },
+  {
+    "word": "leaf",
+    "sentence": "A <span class='highlight'>leaf</span> floated to the ground.",
+    "answer": "noun",
+    "clue": "A leaf grows on a tree."
+  },
+  {
+    "word": "floor",
+    "sentence": "The <span class='highlight'>floor</span> was covered in toys.",
+    "answer": "noun",
+    "clue": "A floor is the bottom of a room."
+  },
+  {
+    "word": "glass",
+    "sentence": "I drank from a clean <span class='highlight'>glass</span>.",
+    "answer": "noun",
+    "clue": "A glass is a cup."
+  },
+  {
+    "word": "gas",
+    "sentence": "We stopped at a <span class='highlight'>gas</span> station.",
+    "answer": "noun",
+    "clue": "Gas is fuel for cars.."
+  },
+  {
+    "word": "noise",
+    "sentence": "The <span class='highlight'>noise</span> came from the attic.",
+    "answer": "noun",
+    "clue": "A noise is a sound."
+  },
+  {
+    "word": "knife",
+    "sentence": "He used a sharp <span class='highlight'>knife</span> to cut vegetables.",
+    "answer": "noun",
+    "clue": "A knife is used to cut things."
+  },
+  {
+    "word": "forest",
+    "sentence": "The <span class='highlight'>forest</span> was full of wildlife.",
+    "answer": "noun",
+    "clue": "A forest is an area with trees."
+  },
+  {
+    "word": "ring",
+    "sentence": "She found a <span class='highlight'>ring</span> in the drawer.",
+    "answer": "noun",
+    "clue": "A ring goes on a finger."
+  },
+  {
+    "word": "chimney",
+    "sentence": "I saw smoke from the <span class='highlight'>chimney</span>.",
+    "answer": "noun",
+    "clue": "A chimney lets the smoke outside."
+  }
+]

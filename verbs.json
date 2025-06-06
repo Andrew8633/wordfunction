@@ -1,0 +1,452 @@
+[
+  {
+    "word": "runs",
+    "sentence": "She <span class='highlight'>runs</span> around the track every morning.",
+    "answer": "verb",
+    "clue": "To run means to move fast on your feet."
+  },
+  {
+    "word": "read",
+    "sentence": "I <span class='highlight'>read</span> three books during the summer.",
+    "answer": "verb",
+    "clue": "To read means to look at words and understand them."
+  },
+  {
+    "word": "opened",
+    "sentence": "They <span class='highlight'>opened</span> the gift slowly and carefully.",
+    "answer": "verb",
+    "clue": "To open means to make something not closed."
+  },
+  {
+    "word": "drew",
+    "sentence": "He <span class='highlight'>drew</span> a picture of a dinosaur.",
+    "answer": "verb",
+    "clue": "To drew means to do something."
+  },
+  {
+    "word": "close",
+    "sentence": "Please <span class='highlight'>close</span> the window before you leave.",
+    "answer": "verb",
+    "clue": "To close means to shut something."
+  },
+  {
+    "word": "cried",
+    "sentence": "The baby <span class='highlight'>cried</span> when the toy broke.",
+    "answer": "verb",
+    "clue": "To cry means to make tears when sad."
+  },
+  {
+    "word": "waited",
+    "sentence": "We <span class='highlight'>waited</span> for the bus in the rain.",
+    "answer": "verb",
+    "clue": "To wait means to stay until something happens."
+  },
+  {
+    "word": "wrote",
+    "sentence": "I <span class='highlight'>wrote</span> a letter to my grandmother.",
+    "answer": "verb",
+    "clue": "To write means to put words on paper."
+  },
+  {
+    "word": "drives",
+    "sentence": "She <span class='highlight'>drives</span> to work every day.",
+    "answer": "verb",
+    "clue": "To drive means to control a car."
+  },
+  {
+    "word": "listened",
+    "sentence": "The students <span class='highlight'>listened</span> carefully to the teacher.",
+    "answer": "verb",
+    "clue": "To listen means to pay attention to sounds."
+  },
+  {
+    "word": "eats",
+    "sentence": "He <span class='highlight'>eats</span> lunch at noon.",
+    "answer": "verb",
+    "clue": "To eat means to put food in your mouth."
+  },
+  {
+    "word": "found",
+    "sentence": "I <span class='highlight'>found</span> a shell on the beach.",
+    "answer": "verb",
+    "clue": "To find means to see something you were looking for."
+  },
+  {
+    "word": "play",
+    "sentence": "We <span class='highlight'>play</span> soccer every weekend.",
+    "answer": "verb",
+    "clue": "To play means to have fun or join a game."
+  },
+  {
+    "word": "broke",
+    "sentence": "She <span class='highlight'>broke</span> her glasses yesterday.",
+    "answer": "verb",
+    "clue": "To break means to make something not work."
+  },
+  {
+    "word": "helps",
+    "sentence": "He <span class='highlight'>helps</span> his mom with the groceries.",
+    "answer": "verb",
+    "clue": "To help means to do something nice for someone."
+  },
+  {
+    "word": "learned",
+    "sentence": "I <span class='highlight'>learned</span> a new word today.",
+    "answer": "verb",
+    "clue": "To learn means to understand something new."
+  },
+  {
+    "word": "jumped",
+    "sentence": "They <span class='highlight'>jumped</span> over the puddle.",
+    "answer": "verb",
+    "clue": "To jump means to go up into the air."
+  },
+  {
+    "word": "sing",
+    "sentence": "I <span class='highlight'>sing</span> in the school choir.",
+    "answer": "verb",
+    "clue": "To sing means to use your voice with music."
+  },
+  {
+    "word": "watched",
+    "sentence": "We <span class='highlight'>watched</span> a movie last night.",
+    "answer": "verb",
+    "clue": "To watch means to look at something for a time."
+  },
+  {
+    "word": "sleeps",
+    "sentence": "He <span class='highlight'>sleeps</span> with a nightlight on.",
+    "answer": "verb",
+    "clue": "To sleep means to rest your body and mind."
+  },
+  {
+    "word": "drink",
+    "sentence": "I <span class='highlight'>drink</span> orange juice in the morning.",
+    "answer": "verb",
+    "clue": "To drink means to put liquid in your mouth."
+  },
+  {
+    "word": "painted",
+    "sentence": "She <span class='highlight'>painted</span> the wall blue.",
+    "answer": "verb",
+    "clue": "To paint means to put color on something."
+  },
+  {
+    "word": "travel",
+    "sentence": "They <span class='highlight'>travel</span> every summer.",
+    "answer": "verb",
+    "clue": "To travel means to go to a new place."
+  },
+  {
+    "word": "walk",
+    "sentence": "We <span class='highlight'>walk</span> to school together.",
+    "answer": "verb",
+    "clue": "To walk means to move with your feet."
+  },
+  {
+    "word": "throws",
+    "sentence": "He <span class='highlight'>throws</span> the ball very far.",
+    "answer": "verb",
+    "clue": "To throw means to push something through the air."
+  },
+  {
+    "word": "run",
+    "sentence": "I <span class='highlight'>run</span> faster when it\u2019s cold.",
+    "answer": "verb",
+    "clue": "To run means to move fast on your feet."
+  },
+  {
+    "word": "fixes",
+    "sentence": "She <span class='highlight'>fixes</span> old furniture for fun.",
+    "answer": "verb",
+    "clue": "To fix means to make something work again."
+  },
+  {
+    "word": "laugh",
+    "sentence": "We <span class='highlight'>laugh</span> at funny jokes.",
+    "answer": "verb",
+    "clue": "To laugh means to make a happy sound when something is funny."
+  },
+  {
+    "word": "teaches",
+    "sentence": "He <span class='highlight'>teaches</span> history at the college.",
+    "answer": "verb",
+    "clue": "To teach means to help someone learn."
+  },
+  {
+    "word": "climbed",
+    "sentence": "I <span class='highlight'>climbed</span> the stairs quickly.",
+    "answer": "verb",
+    "clue": "To climb means to go up something."
+  },
+  {
+    "word": "dances",
+    "sentence": "She <span class='highlight'>dances</span> every Saturday night.",
+    "answer": "verb",
+    "clue": "To dance means to move to music."
+  },
+  {
+    "word": "cook",
+    "sentence": "They <span class='highlight'>cook</span> together on weekends.",
+    "answer": "verb",
+    "clue": "To cook means to make food ready to eat."
+  },
+  {
+    "word": "lost",
+    "sentence": "I <span class='highlight'>lost</span> my favorite hat at the park.",
+    "answer": "verb",
+    "clue": "To lose means to not know where something is."
+  },
+  {
+    "word": "win",
+    "sentence": "We <span class='highlight'>win</span> when we work as a team.",
+    "answer": "verb",
+    "clue": "To win means to be the best at something."
+  },
+  {
+    "word": "builds",
+    "sentence": "He <span class='highlight'>builds</span> model airplanes.",
+    "answer": "verb",
+    "clue": "To build means to make something new."
+  },
+  {
+    "word": "draws",
+    "sentence": "She <span class='highlight'>draws</span> amazing portraits.",
+    "answer": "verb",
+    "clue": "To draw means to make pictures with a pen or pencil."
+  },
+  {
+    "word": "opened",
+    "sentence": "I <span class='highlight'>opened</span> the door slowly.",
+    "answer": "verb",
+    "clue": "To open means to make something not closed."
+  },
+  {
+    "word": "carry",
+    "sentence": "They <span class='highlight'>carry</span> the boxes upstairs.",
+    "answer": "verb",
+    "clue": "To carry means to hold something and take it somewhere."
+  },
+  {
+    "word": "swim",
+    "sentence": "We <span class='highlight'>swim</span> in the lake every summer.",
+    "answer": "verb",
+    "clue": "To swim means to move through water."
+  },
+  {
+    "word": "feeds",
+    "sentence": "He <span class='highlight'>feeds</span> the dog twice a day.",
+    "answer": "verb",
+    "clue": "To feed means to give food."
+  },
+  {
+    "word": "watched",
+    "sentence": "I <span class='highlight'>watched</span> the clouds move.",
+    "answer": "verb",
+    "clue": "To watch means to look at something for a time."
+  },
+  {
+    "word": "calls",
+    "sentence": "She <span class='highlight'>calls</span>her grandmother on Sundays.",
+    "answer": "verb",
+    "clue": "To call means to talk to someone on the phone."
+  },
+  {
+    "word": "follow",
+    "sentence": "We <span class='highlight'>follow</span> the map carefully.",
+    "answer": "verb",
+    "clue": "To follow means to go after someone or something."
+  },
+  {
+    "word": "closes",
+    "sentence": "He <span class='highlight'>closes</span> the gate behind him.",
+    "answer": "verb",
+    "clue": "To close means to make something shut."
+  },
+  {
+    "word": "share",
+    "sentence": "They <span class='highlight'>share</span> their toys.",
+    "answer": "verb",
+    "clue": "To share means to let someone use something with you."
+  },
+  {
+    "word": "start",
+    "sentence": "I <span class='highlight'>start</span>the day with a smile.",
+    "answer": "verb",
+    "clue": "To start means to begin something."
+  },
+  {
+    "word": "counts",
+    "sentence": "She <span class='highlight'>counts</span>the stars at night.",
+    "answer": "verb",
+    "clue": "To count means to say numbers in order."
+  },
+  {
+    "word": "leaves",
+    "sentence": "He <span class='highlight'>leaves</span>early on Fridays.",
+    "answer": "verb",
+    "clue": "To leave means to go away."
+  },
+  {
+    "word": "hide",
+    "sentence": "We <span class='highlight'>hide</span>during hide-and-seek.",
+    "answer": "verb",
+    "clue": "To hide means to go where no one can see you."
+  },
+  {
+    "word": "catch",
+    "sentence": "I <span class='highlight'>catch</span>the ball with one hand.",
+    "answer": "verb",
+    "clue": "To catch means to take something that is moving."
+  },
+  {
+    "word": "dig",
+    "sentence": "They <span class='highlight'>dig</span> holes in the sand.",
+    "answer": "verb",
+    "clue": "To dig means to make a hole in the ground."
+  },
+  {
+    "word": "rides",
+    "sentence": "She <span class='highlight'>rides</span>her bike to school.",
+    "answer": "verb",
+    "clue": "To ride means to sit on something that moves."
+  },
+  {
+    "word": "drop",
+    "sentence": "I <span class='highlight'>drop</span> my phone sometimes.",
+    "answer": "verb",
+    "clue": "To drop means to let something fall."
+  },
+  {
+    "word": "pushes",
+    "sentence": "He <span class='highlight'>pushes</span>the heavy door open.",
+    "answer": "verb",
+    "clue": "To push means to move something away from you."
+  },
+  {
+    "word": "shout",
+    "sentence": "We <span class='highlight'>shout</span>when we are excited.",
+    "answer": "verb",
+    "clue": "To shout means to speak very loudly."
+  },
+  {
+    "word": "closes",
+    "sentence": "She <span class='highlight'>closes</span>the book quietly.",
+    "answer": "verb",
+    "clue": "To close means to make something shut."
+  },
+  {
+    "word": "forgets",
+    "sentence": "He <span class='highlight'>forgets</span>his lunch often.",
+    "answer": "verb",
+    "clue": "To forget means to not remember."
+  },
+  {
+    "word": "remember",
+    "sentence": "I <span class='highlight'>remember</span>my first day of school.",
+    "answer": "verb",
+    "clue": "To remember means to keep something in your mind."
+  },
+  {
+    "word": "move",
+    "sentence": "They <span class='highlight'>move</span>the chairs for the show.",
+    "answer": "verb",
+    "clue": "To move means to change place or position."
+  },
+  {
+    "word": "draws",
+    "sentence": "She <span class='highlight'>draws</span>animals really well.",
+    "answer": "verb",
+    "clue": "To draw means to make pictures with a pen or pencil."
+  },
+  {
+    "word": "wears",
+    "sentence": "He <span class='highlight'>wears</span>a hat every day.",
+    "answer": "verb",
+    "clue": "To wear means to have clothes on your body."
+  },
+  {
+    "word": "bring",
+    "sentence": "I <span class='highlight'>bring</span>snacks to the party.",
+    "answer": "verb",
+    "clue": "To bring means to take something with you."
+  },
+  {
+    "word": "sit",
+    "sentence": "We <span class='highlight'>sit</span>in a circle at story time.",
+    "answer": "verb",
+    "clue": "To sit means to rest on a chair or the ground."
+  },
+  {
+    "word": "turns",
+    "sentence": "She <span class='highlight'>turns</span>off the lights.",
+    "answer": "verb",
+    "clue": "To turn means to move around a point."
+  },
+  {
+    "word": "finds",
+    "sentence": "He <span class='highlight'>finds</span>new music online.",
+    "answer": "verb",
+    "clue": "To find means to see something that was lost."
+  },
+  {
+    "word": "clean",
+    "sentence": "I <span class='highlight'>clean</span>my room every Friday.",
+    "answer": "verb",
+    "clue": "To clean means to make something not dirty."
+  },
+  {
+    "word": "miss",
+    "sentence": "They <span class='highlight'>miss</span>the bus sometimes.",
+    "answer": "verb",
+    "clue": "To miss means to not catch or be too late."
+  },
+  {
+    "word": "need",
+    "sentence": "We <span class='highlight'>need</span>more pencils.",
+    "answer": "verb",
+    "clue": "To need means you must have something."
+  },
+  {
+    "word": "gets",
+    "sentence": "She <span class='highlight'>gets</span>tired after school.",
+    "answer": "verb",
+    "clue": "To get means to receive or take something."
+  },
+  {
+    "word": "starts",
+    "sentence": "He <span class='highlight'>starts</span>work at 9 a.m.",
+    "answer": "verb",
+    "clue": "To start means to begin."
+  },
+  {
+    "word": "check",
+    "sentence": "I <span class='highlight'>check</span>my email often.",
+    "answer": "verb",
+    "clue": "To check means to look at something to be sure."
+  },
+  {
+    "word": "send",
+    "sentence": "They <span class='highlight'>send</span>postcards every trip.",
+    "answer": "verb",
+    "clue": "To send means to make something go to another place."
+  },
+  {
+    "word": "answers",
+    "sentence": "She <span class='highlight'>answers</span>all the questions.",
+    "answer": "verb",
+    "clue": "To answer means to say something after a question."
+  },
+  {
+    "word": "turns",
+    "sentence": "He <span class='highlight'>turns</span>the page slowly.",
+    "answer": "verb",
+    "clue": "To turn means to move around a point."
+  },
+  {
+    "word": "pull",
+    "sentence": "We <span class='highlight'>pull</span>the rope together.",
+    "answer": "verb",
+    "clue": "To pull means to move something toward you."
+  }
+]

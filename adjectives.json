@@ -1,0 +1,452 @@
+[
+  {
+    "word": "cold",
+    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
+    "answer": "adjective",
+    "clue": "cold means not warm."
+  },
+  {
+    "word": "nice",
+    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
+    "answer": "adjective",
+    "clue": "nice means pleasant or kind."
+  },
+  {
+    "word": "quiet",
+    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
+    "answer": "adjective",
+    "clue": "quiet means with little or no noise."
+  },
+  {
+    "word": "funny",
+    "sentence": "I read a <span class='highlight'>funny</span> story last night.",
+    "answer": "adjective",
+    "clue": "funny means it makes you laugh."
+  },
+  {
+    "word": "smart",
+    "sentence": "He is a <span class='highlight'>smart</span> student.",
+    "answer": "adjective",
+    "clue": "smart means intelligent."
+  },
+  {
+    "word": "great",
+    "sentence": "That was a <span class='highlight'>great</span> idea!",
+    "answer": "adjective",
+    "clue": "great means very good."
+  },
+  {
+    "word": "hot",
+    "sentence": "The soup was <span class='highlight'>hot</span> and delicious.",
+    "answer": "adjective",
+    "clue": "hot means having a high temperature."
+  },
+  {
+    "word": "tall",
+    "sentence": "We saw a <span class='highlight'>tall</span> building downtown.",
+    "answer": "adjective",
+    "clue": "tall means having a lot of height."
+  },
+  {
+    "word": "cute",
+    "sentence": "The baby is so <span class='highlight'>cute</span>.",
+    "answer": "adjective",
+    "clue": "cute means small and pretty."
+  },
+  {
+    "word": "high",
+    "sentence": "The mountain was <span class='highlight'>high</span> and steep.",
+    "answer": "adjective",
+    "clue": "high means far from the ground."
+  },
+  {
+    "word": "clean",
+    "sentence": "I found a <span class='highlight'>clean</span> shirt to wear.",
+    "answer": "adjective",
+    "clue": "clean means not dirty."
+  },
+  {
+    "word": "easy",
+    "sentence": "The test was <span class='highlight'>easy</span> today.",
+    "answer": "adjective",
+    "clue": "easy means not hard to do."
+  },
+  {
+    "word": "sunny",
+    "sentence": "It's a <span class='highlight'>sunny</span> afternoon.",
+    "answer": "adjective",
+    "clue": "sunny means full of sunlight."
+  },
+  {
+    "word": "long",
+    "sentence": "She has <span class='highlight'>long</span> hair.",
+    "answer": "adjective",
+    "clue": "long means having a lot of length."
+  },
+  {
+    "word": "boring",
+    "sentence": "The movie was <span class='highlight'>boring</span> and slow.",
+    "answer": "adjective",
+    "clue": "boring means not interesting."
+  },
+  {
+    "word": "fast",
+    "sentence": "He gave a <span class='highlight'>fast</span> answer.",
+    "answer": "adjective",
+    "clue": "fast means quick."
+  },
+  {
+    "word": "bright",
+    "sentence": "I love your <span class='highlight'>bright</span> idea.",
+    "answer": "adjective",
+    "clue": "bright means full of light or smart."
+  },
+  {
+    "word": "dark",
+    "sentence": "We walked through a <span class='highlight'>dark</span> tunnel.",
+    "answer": "adjective",
+    "clue": "dark means not much light."
+  },
+  {
+    "word": "colorful",
+    "sentence": "Her dress is very <span class='highlight'>colorful</span>.",
+    "answer": "adjective",
+    "clue": "colorful means full of colors."
+  },
+  {
+    "word": "sweet",
+    "sentence": "The cake was <span class='highlight'>sweet</span>.",
+    "answer": "adjective",
+    "clue": "sweet means having a sugar taste."
+  },
+  {
+    "word": "difficult",
+    "sentence": "The task was <span class='highlight'>difficult</span> but worth it.",
+    "answer": "adjective",
+    "clue": "difficult means hard to do."
+  },
+  {
+    "word": "heavy",
+    "sentence": "My backpack is <span class='highlight'>heavy</span> today.",
+    "answer": "adjective",
+    "clue": "heavy means having a lot of weight."
+  },
+  {
+    "word": "quick",
+    "sentence": "He made a <span class='highlight'>quick</span> decision.",
+    "answer": "adjective",
+    "clue": "quick means done fast."
+  },
+  {
+    "word": "cool",
+    "sentence": "The air feels <span class='highlight'>cool</span> this morning.",
+    "answer": "adjective",
+    "clue": "cool means slightly cold."
+  },
+  {
+    "word": "rude",
+    "sentence": "She gave a <span class='highlight'>rude</span> reply.",
+    "answer": "adjective",
+    "clue": "rude means not polite."
+  },
+  {
+    "word": "strong",
+    "sentence": "The tiger is a <span class='highlight'>strong</span> animal.",
+    "answer": "adjective",
+    "clue": "strong means having power."
+  },
+  {
+    "word": "hard",
+    "sentence": "This math problem is <span class='highlight'>hard</span>.",
+    "answer": "adjective",
+    "clue": "hard means not easy."
+  },
+  {
+    "word": "silly",
+    "sentence": "That joke was <span class='highlight'>silly</span>.",
+    "answer": "adjective",
+    "clue": "silly means funny or foolish."
+  },
+  {
+    "word": "warm",
+    "sentence": "I wore a <span class='highlight'>warm</span> sweater.",
+    "answer": "adjective",
+    "clue": "warm means slightly hot."
+  },
+  {
+    "word": "noisy",
+    "sentence": "The dog was <span class='highlight'>noisy</span> all night.",
+    "answer": "adjective",
+    "clue": "noisy means loud."
+  },
+  {
+    "word": "beautiful",
+    "sentence": "It was a <span class='highlight'>beautiful</span> sunset.",
+    "answer": "adjective",
+    "clue": "beautiful means very nice to see."
+  },
+  {
+    "word": "new",
+    "sentence": "My shoes are <span class='highlight'>new</span>.",
+    "answer": "adjective",
+    "clue": "new means not old."
+  },
+  {
+    "word": "soft",
+    "sentence": "This pillow is <span class='highlight'>soft</span>.",
+    "answer": "adjective",
+    "clue": "soft means not hard."
+  },
+  {
+    "word": "empty",
+    "sentence": "The room felt <span class='highlight'>empty</span>.",
+    "answer": "adjective",
+    "clue": "empty means nothing inside."
+  },
+  {
+    "word": "true",
+    "sentence": "He gave a <span class='highlight'>true</span> answer.",
+    "answer": "adjective",
+    "clue": "true means correct or right."
+  },
+  {
+    "word": "clear",
+    "sentence": "The water is <span class='highlight'>clear</span>.",
+    "answer": "adjective",
+    "clue": "clear means easy to see through."
+  },
+  {
+    "word": "dangerous",
+    "sentence": "That was a <span class='highlight'>dangerous</span> path.",
+    "answer": "adjective",
+    "clue": "dangerous means not safe."
+  },
+  {
+    "word": "neat",
+    "sentence": "Her writing is very <span class='highlight'>neat</span>.",
+    "answer": "adjective",
+    "clue": "neat means clean and organized."
+  },
+  {
+    "word": "tricky",
+    "sentence": "This puzzle is <span class='highlight'>tricky</span>.",
+    "answer": "adjective",
+    "clue": "tricky means hard to figure out."
+  },
+  {
+    "word": "thick",
+    "sentence": "The coat is <span class='highlight'>thick</span> and warm.",
+    "answer": "adjective",
+    "clue": "thick means not thin."
+  },
+  {
+    "word": "kind",
+    "sentence": "She is <span class='highlight'>kind</span> to animals.",
+    "answer": "adjective",
+    "clue": "kind means nice to others."
+  },
+  {
+    "word": "scary",
+    "sentence": "The movie was <span class='highlight'>scary</span> but good.",
+    "answer": "adjective",
+    "clue": "scary means causing fear."
+  },
+  {
+    "word": "narrow",
+    "sentence": "That road is <span class='highlight'>narrow</span>.",
+    "answer": "adjective",
+    "clue": "narrow means not wide."
+  },
+  {
+    "word": "small",
+    "sentence": "His bag is <span class='highlight'>small</span> and light.",
+    "answer": "adjective",
+    "clue": "small means not big."
+  },
+  {
+    "word": "gray",
+    "sentence": "The sky looks <span class='highlight'>gray</span> today.",
+    "answer": "adjective",
+    "clue": "gray means a color between black and white."
+  },
+  {
+    "word": "rare",
+    "sentence": "She found a <span class='highlight'>rare</span> coin.",
+    "answer": "adjective",
+    "clue": "rare means not common."
+  },
+  {
+    "word": "interesting",
+    "sentence": "This book is <span class='highlight'>interesting</span>.",
+    "answer": "adjective",
+    "clue": "interesting means it catches your attention."
+  },
+  {
+    "word": "wild",
+    "sentence": "We saw a <span class='highlight'>wild</span> bird.",
+    "answer": "adjective",
+    "clue": "wild means not tamed."
+  },
+  {
+    "word": "broken",
+    "sentence": "That chair is <span class='highlight'>broken</span>.",
+    "answer": "adjective",
+    "clue": "broken means not working."
+  },
+  {
+    "word": "soft",
+    "sentence": "The baby has a <span class='highlight'>soft</span> blanket.",
+    "answer": "adjective",
+    "clue": "soft means smooth or gentle."
+  },
+  {
+    "word": "correct",
+    "sentence": "His answer was <span class='highlight'>correct</span>.",
+    "answer": "adjective",
+    "clue": "correct means right."
+  },
+  {
+    "word": "happy",
+    "sentence": "She is a <span class='highlight'>happy</span> person.",
+    "answer": "adjective",
+    "clue": "happy means feeling good."
+  },
+  {
+    "word": "steep",
+    "sentence": "That hill is very <span class='highlight'>steep</span>.",
+    "answer": "adjective",
+    "clue": "steep means very high and sharp."
+  },
+  {
+    "word": "loud",
+    "sentence": "The noise was <span class='highlight'>loud</span> and sudden.",
+    "answer": "adjective",
+    "clue": "loud means with a lot of sound."
+  },
+  {
+    "word": "light",
+    "sentence": "Her backpack is <span class='highlight'>light</span> today.",
+    "answer": "adjective",
+    "clue": "light means not heavy."
+  },
+  {
+    "word": "greasy",
+    "sentence": "This pizza is <span class='highlight'>greasy</span> but tasty.",
+    "answer": "adjective",
+    "clue": "greasy means full of oil."
+  },
+  {
+    "word": "cold",
+    "sentence": "The water is <span class='highlight'>cold</span> and refreshing.",
+    "answer": "adjective",
+    "clue": "cold means not warm."
+  },
+  {
+    "word": "sharp",
+    "sentence": "That rock is <span class='highlight'>sharp</span>.",
+    "answer": "adjective",
+    "clue": "sharp means can cut easily."
+  },
+  {
+    "word": "friendly",
+    "sentence": "The dog was <span class='highlight'>friendly</span> to us.",
+    "answer": "adjective",
+    "clue": "friendly means kind and welcoming."
+  },
+  {
+    "word": "wide",
+    "sentence": "The field is <span class='highlight'>wide</span> and open.",
+    "answer": "adjective",
+    "clue": "wide means having a lot of space."
+  },
+  {
+    "word": "cheap",
+    "sentence": "I bought a <span class='highlight'>cheap</span> toy at the market.",
+    "answer": "adjective",
+    "clue": "cheap means not expensive."
+  },
+  {
+    "word": "gentle",
+    "sentence": "She has a <span class='highlight'>gentle</span> voice.",
+    "answer": "adjective",
+    "clue": "gentle means soft and kind."
+  },
+  {
+    "word": "short",
+    "sentence": "The letter was <span class='highlight'>short</span> and sweet.",
+    "answer": "adjective",
+    "clue": "short means not long."
+  },
+  {
+    "word": "brave",
+    "sentence": "He is a <span class='highlight'>brave</span> firefighter.",
+    "answer": "adjective",
+    "clue": "brave means not afraid."
+  },
+  {
+    "word": "warm",
+    "sentence": "The cookies are still <span class='highlight'>warm</span>.",
+    "answer": "adjective",
+    "clue": "warm means a little hot."
+  },
+  {
+    "word": "important",
+    "sentence": "This lesson is <span class='highlight'>important</span>.",
+    "answer": "adjective",
+    "clue": "important means it matters a lot."
+  },
+  {
+    "word": "creepy",
+    "sentence": "That spider looks <span class='highlight'>creepy</span>.",
+    "answer": "adjective",
+    "clue": "creepy means scary or strange."
+  },
+  {
+    "word": "helpful",
+    "sentence": "My teacher is very <span class='highlight'>helpful</span>.",
+    "answer": "adjective",
+    "clue": "helpful means giving help."
+  },
+  {
+    "word": "full",
+    "sentence": "The box was <span class='highlight'>full</span> of toys.",
+    "answer": "adjective",
+    "clue": "full means holding a lot."
+  },
+  {
+    "word": "clear",
+    "sentence": "He gave a <span class='highlight'>clear</span> explanation.",
+    "answer": "adjective",
+    "clue": "clear means easy to understand."
+  },
+  {
+    "word": "quiet",
+    "sentence": "The rabbit is <span class='highlight'>quiet</span>.",
+    "answer": "adjective",
+    "clue": "quiet means silent."
+  },
+  {
+    "word": "emotional",
+    "sentence": "That movie was <span class='highlight'>emotional</span>.",
+    "answer": "adjective",
+    "clue": "emotional means full of strong feelings."
+  },
+  {
+    "word": "rough",
+    "sentence": "The surface was <span class='highlight'>rough</span> to the touch.",
+    "answer": "adjective",
+    "clue": "rough means not smooth."
+  },
+  {
+    "word": "messy",
+    "sentence": "His handwriting is <span class='highlight'>messy</span>.",
+    "answer": "adjective",
+    "clue": "messy means not neat."
+  },
+  {
+    "word": "amazing",
+    "sentence": "The view from the hill was <span class='highlight'>amazing</span>.",
+    "answer": "adjective",
+    "clue": "amazing means very surprising or good."
+  }
+]
