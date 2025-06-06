@@ -271,31 +271,31 @@
   },
   {
     "word": "start",
-    "sentence": "I <span class='highlight'>start</span>the day with a smile.",
+    "sentence": "I <span class='highlight'>start</span> the day with a smile.",
     "answer": "verb",
     "clue": "To start means to begin something."
   },
   {
     "word": "counts",
-    "sentence": "She <span class='highlight'>counts</span>the stars at night.",
+    "sentence": "She <span class='highlight'>counts</span> the stars at night.",
     "answer": "verb",
     "clue": "To count means to say numbers in order."
   },
   {
     "word": "leaves",
-    "sentence": "He <span class='highlight'>leaves</span>early on Fridays.",
+    "sentence": "He <span class='highlight'>leaves</span> early on Fridays.",
     "answer": "verb",
     "clue": "To leave means to go away."
   },
   {
     "word": "hide",
-    "sentence": "We <span class='highlight'>hide</span>during hide-and-seek.",
+    "sentence": "We <span class='highlight'>hide</span> during hide-and-seek.",
     "answer": "verb",
     "clue": "To hide means to go where no one can see you."
   },
   {
     "word": "catch",
-    "sentence": "I <span class='highlight'>catch</span>the ball with one hand.",
+    "sentence": "I <span class='highlight'>catch</span> the ball with one hand.",
     "answer": "verb",
     "clue": "To catch means to take something that is moving."
   },
@@ -307,7 +307,7 @@
   },
   {
     "word": "rides",
-    "sentence": "She <span class='highlight'>rides</span>her bike to school.",
+    "sentence": "She <span class='highlight'>rides</span> her bike to school.",
     "answer": "verb",
     "clue": "To ride means to sit on something that moves."
   },
