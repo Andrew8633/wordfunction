@@ -228,6 +228,30 @@
       break;
     }
   }
+}
+  const messages = [
+    { threshold: 100, text: "👍 Great start! You're on your way!" },
+    { threshold: 300, text: "🔥 Building momentum — keep it up!" },
+    { threshold: 600, text: "💪 You're making solid progress!" },
+    { threshold: 900, text: "🧠 Smart moves! You're learning fast!" },
+    { threshold: 1200, text: "🚀 Halfway there! Keep charging forward!" },
+    { threshold: 1500, text: "🏆 Great job — you're mastering this!" },
+    { threshold: 1800, text: "🎯 So close to the final stretch!" },
+    { threshold: 2200, text: "👏 Amazing focus — just a bit more!" },
+    { threshold: 2600, text: "💥 Unstoppable! You're almost perfect!" },
+    { threshold: 3000, text: "👑 Perfect 3000! You're a Word Wizard Supreme!" }
+  ];
+  const shown = JSON.parse(localStorage.getItem("messagesShown")) || [];
+  for (const { threshold, text } of messages) {
+    const id = "m_" + threshold;
+    if (totalPoints >= threshold && !shown.includes(id)) {
+      message.textContent = text;
+      message.style.display = "block";
+      shown.push(id);
+      localStorage.setItem("messagesShown", JSON.stringify(shown));
+      break;
+    }
+  }
 }`;
     }
 
