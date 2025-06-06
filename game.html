@@ -357,22 +357,9 @@
     });
   </script>
 
-  <div style="text-align: center; margin-top: 4rem;">
-    <button id="clearMemoryButton" style="padding: 0.6rem 1.2rem; font-size: 1rem; background-color: #dc3545; color: white; border: none; border-radius: 0.5rem; cursor: pointer;">
-      Clear Memory
-    </button>
-  </div>
+  
 
-<script>
-document.getElementById("clearMemoryButton").addEventListener("click", () => {
-  if (confirm("Are you sure you want to clear all saved progress?")) {
-    localStorage.removeItem("usedIndexes");
-    localStorage.removeItem("totalPoints");
-    localStorage.removeItem("messagesShown");
-    location.reload();
-  }
-});
-</script>
 
-$1
+
+
 </html>
