@@ -175,7 +175,7 @@
   <div id="page">
     <header>
       <h1>WordFunction</h1>
-      $1
+      
 
     </header>
 
@@ -196,14 +196,7 @@
     <button id="nextButton">Next</button>
   </div>
 
-  $1document.getElementById("clearMemoryButton").addEventListener("click", () => {
-  if (confirm("Are you sure you want to clear all saved progress?")) {
-    localStorage.removeItem("usedIndexes");
-    localStorage.removeItem("totalPoints");
-    localStorage.removeItem("messagesShown");
-    location.reload();
-  }
-});
+  
 
     let prompts = [];
     let currentIndex = 0;
