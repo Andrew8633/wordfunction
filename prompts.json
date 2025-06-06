@@ -1,1802 +1,1688 @@
 [
-  {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
-    "answer": "noun",
-    "clue": "It's a person, place, or thing."
-  },
-  {
+ {
     "word": "quickly",
     "sentence": "He answered the question <span class='highlight'>quickly</span>.",
     "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
-    "answer": "noun",
-    "clue": "It's a person, place, or thing."
-  },
-  {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
-    "answer": "noun",
-    "clue": "It's a person, place, or thing."
-  },
-  {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
-    "answer": "noun",
-    "clue": "It's a person, place, or thing."
-  },
-  {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
-    "answer": "noun",
-    "clue": "It's a person, place, or thing."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
-    "answer": "noun",
-    "clue": "It's a person, place, or thing."
-  },
-  {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
+    "clue": "quickly means in a fast way"
   },
   {
     "word": "carefully",
     "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
     "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
-    "answer": "noun",
-    "clue": "It's a person, place, or thing."
-  },
-  {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
-    "answer": "noun",
-    "clue": "It's a person, place, or thing."
-  },
-  {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
-    "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "carefully means with care"
   },
   {
     "word": "always",
     "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
     "answer": "adverb",
-    "clue": "It describes how something is done."
+    "clue": "always means every time"
   },
   {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
+    "word": "quietly",
+    "sentence": "They <span class='highlight'>quietly</span> walked into the library.",
     "answer": "adverb",
-    "clue": "It describes how something is done."
+    "clue": "quietly means without making noise"
   },
   {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
-    "answer": "noun",
-    "clue": "It's a person, place, or thing."
-  },
-  {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
-    "answer": "noun",
-    "clue": "It's a person, place, or thing."
-  },
-  {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
+    "word": "suddenly",
+    "sentence": "The cat <span class='highlight'>suddenly</span> jumped onto the table.",
     "answer": "adverb",
-    "clue": "It describes how something is done."
+    "clue": "suddenly means very quickly and without warning"
   },
+  {
+    "word": "rarely",
+    "sentence": "He <span class='highlight'>rarely</span> forgets his homework.",
+    "answer": "adverb",
+    "clue": "rarely means not often"
+  },
+  {
+    "word": "neatly",
+    "sentence": "She <span class='highlight'>neatly</span> arranged the books.",
+    "answer": "adverb",
+    "clue": "neatly means in a tidy way"
+  },
+  {
+    "word": "usually",
+    "sentence": "We <span class='highlight'>usually</span> go hiking in the fall.",
+    "answer": "adverb",
+    "clue": "usually means most of the time"
+  },
+  {
+    "word": "gently",
+    "sentence": "He <span class='highlight'>gently</span> placed the cup on the table.",
+    "answer": "adverb",
+    "clue": "gently means in a soft way"
+  },
+  {
+    "word": "slowly",
+    "sentence": "I <span class='highlight'>slowly</span> opened the old door.",
+    "answer": "adverb",
+    "clue": "slowly means not fast"
+  },
+  {
+    "word": "often",
+    "sentence": "They <span class='highlight'>often</span> visit their cousins on weekends.",
+    "answer": "adverb",
+    "clue": "often means many times"
+  },
+  {
+    "word": "eagerly",
+    "sentence": "She <span class='highlight'>eagerly</span> waited for the results.",
+    "answer": "adverb",
+    "clue": "eagerly means with excitement"
+  },
+  {
+    "word": "barely",
+    "sentence": "He <span class='highlight'>barely</span> passed the test.",
+    "answer": "adverb",
+    "clue": "barely means almost not at all"
+  },
+  {
+    "word": "loudly",
+    "sentence": "The dog barked <span class='highlight'>loudly</span> at the mailman.",
+    "answer": "adverb",
+    "clue": "loudly means with a lot of noise"
+  },
+  {
+    "word": "almost",
+    "sentence": "I <span class='highlight'>almost</span> missed the bus this morning.",
+    "answer": "adverb",
+    "clue": "almost means very close to"
+  },
+  {
+    "word": "politely",
+    "sentence": "They <span class='highlight'>politely</span> asked for help.",
+    "answer": "adverb",
+    "clue": "politely means with good manners"
+  },
+  {
+    "word": "completely",
+    "sentence": "She <span class='highlight'>completely</span> forgot her umbrella.",
+    "answer": "adverb",
+    "clue": "completely means fully or totally"
+  },
+  {
+    "word": "happily",
+    "sentence": "He <span class='highlight'>happily</span> shut the door behind him.",
+    "answer": "adverb",
+    "clue": "happily means in a happy way"
+  },
+  {
+    "word": "safely",
+    "sentence": "I <span class='highlight'>safely</span> study at night.",
+    "answer": "adverb",
+    "clue": "safely means without danger"
+  },
+  {
+    "word": "hardly",
+    "sentence": "She <span class='highlight'>hardly</span> accepted the gift.",
+    "answer": "adverb",
+    "clue": "hardly means barely or not much"
+  },
+  {
+    "word": "gracefully",
+    "sentence": "They <span class='highlight'>gracefully</span> crossed the street.",
+    "answer": "adverb",
+    "clue": "gracefully means in a smooth and elegant way"
+  },
+  {
+    "word": "never",
+    "sentence": "He <span class='highlight'>never</span> noticed the change.",
+    "answer": "adverb",
+    "clue": "never means not ever"
+  },
+  {
+    "word": "frequently",
+    "sentence": "She <span class='highlight'>frequently</span> danced across the stage.",
+    "answer": "adverb",
+    "clue": "frequently means often"
+  },
+  {
+    "word": "boldly",
+    "sentence": "I <span class='highlight'>boldly</span> dream about traveling.",
+    "answer": "adverb",
+    "clue": "boldly means with courage"
+  },
+  {
+    "word": "hurriedly",
+    "sentence": "He <span class='highlight'>hurriedly</span> eats candy before dinner.",
+    "answer": "adverb",
+    "clue": "hurriedly means in a rush"
+  },
+  {
+    "word": "clearly",
+    "sentence": "She <span class='highlight'>clearly</span> checks her email.",
+    "answer": "adverb",
+    "clue": "clearly means in an easy-to-understand way"
+  },
+  {
+    "word": "lazily",
+    "sentence": "The baby <span class='highlight'>lazily</span> fell asleep.",
+    "answer": "adverb",
+    "clue": "lazily means in a slow and lazy way"
+  },
+  {
+    "word": "lightly",
+    "sentence": "He <span class='highlight'>lightly</span> stated his opinion.",
+    "answer": "adverb",
+    "clue": "lightly means in a gentle way"
+  },
+  {
+    "word": "accidentally",
+    "sentence": "They <span class='highlight'>accidentally</span> packed their bags.",
+    "answer": "adverb",
+    "clue": "accidentally means by mistake"
+  },
+  {
+    "word": "regularly",
+    "sentence": "The teacher <span class='highlight'>regularly</span> explained the rules.",
+    "answer": "adverb",
+    "clue": "regularly means often and on schedule"
+  },
+  {
+    "word": "cheerfully",
+    "sentence": "I <span class='highlight'>cheerfully</span> got out of bed this morning.",
+    "answer": "adverb",
+    "clue": "cheerfully means in a cheerful way"
+  },
+  {
+    "word": "roughly",
+    "sentence": "The rain <span class='highlight'>roughly</span> tapped the window.",
+    "answer": "adverb",
+    "clue": "roughly means in a rough way"
+  },
+  {
+    "word": "firmly",
+    "sentence": "He <span class='highlight'>firmly</span> broke the glass.",
+    "answer": "adverb",
+    "clue": "firmly means in a strong way"
+  },
+  {
+    "word": "warmly",
+    "sentence": "She <span class='highlight'>warmly</span> goes to the gym.",
+    "answer": "adverb",
+    "clue": "warmly means in a warm and kind way"
+  },
+  {
+    "word": "truly",
+    "sentence": "He <span class='highlight'>truly</span> greeted his classmates.",
+    "answer": "adverb",
+    "clue": "truly means really or honestly"
+  },
+  {
+    "word": "badly",
+    "sentence": "I <span class='highlight'>badly</span> estimated the total cost.",
+    "answer": "adverb",
+    "clue": "badly means in a bad way"
+  },
+  {
+    "word": "sweetly",
+    "sentence": "She <span class='highlight'>sweetly</span> closed the book.",
+    "answer": "adverb",
+    "clue": "sweetly means in a sweet way"
+  },
+  {
+    "word": "eventually",
+    "sentence": "They <span class='highlight'>eventually</span> welcomed us in.",
+    "answer": "adverb",
+    "clue": "eventually means after some time"
+  },
+  {
+    "word": "nearly",
+    "sentence": "He <span class='highlight'>nearly</span> cares about his friends.",
+    "answer": "adverb",
+    "clue": "nearly means almost"
+  },
+  {
+    "word": "softly",
+    "sentence": "I <span class='highlight'>softly</span> knew anyone at the party.",
+    "answer": "adverb",
+    "clue": "softly means in a soft way"
+  },
+  {
+    "word": "constantly",
+    "sentence": "She <span class='highlight'>constantly</span> wanted to win.",
+    "answer": "adverb",
+    "clue": "constantly means all the time"
+  },
+  {
+    "word": "secretly",
+    "sentence": "The baby <span class='highlight'>secretly</span> smiled at her mother.",
+    "answer": "adverb",
+    "clue": "secretly means without others knowing"
+  },
+  {
+    "word": "abruptly",
+    "sentence": "I <span class='highlight'>abruptly</span> asked the question.",
+    "answer": "adverb",
+    "clue": "abruptly means very suddenly"
+  },
+  {
+    "word": "seriously",
+    "sentence": "He <span class='highlight'>seriously</span> found the answer.",
+    "answer": "adverb",
+    "clue": "seriously means with seriousness"
+  },
+  {
+    "word": "honestly",
+    "sentence": "She <span class='highlight'>honestly</span> stopped speaking.",
+    "answer": "adverb",
+    "clue": "honestly means with honesty"
+  },
+  {
+    "word": "innocently",
+    "sentence": "They <span class='highlight'>innocently</span> changed the plan.",
+    "answer": "adverb",
+    "clue": "innocently means without guilt"
+  },
+  {
+    "word": "easily",
+    "sentence": "I <span class='highlight'>easily</span> slipped on the ice.",
+    "answer": "adverb",
+    "clue": "easily means without difficulty"
+  },
+  {
+    "word": "immediately",
+    "sentence": "He <span class='highlight'>immediately</span> called for help.",
+    "answer": "adverb",
+    "clue": "immediately means right away"
+  },
+  {
+    "word": "angrily",
+    "sentence": "She <span class='highlight'>angrily</span> sang a lullaby.",
+    "answer": "adverb",
+    "clue": "angrily means in an angry way"
+  },
+  {
+    "word": "excitedly",
+    "sentence": "We <span class='highlight'>excitedly</span> eat lunch at noon.",
+    "answer": "adverb",
+    "clue": "excitedly means in an excited way"
+  },
+  {
+    "word": "totally",
+    "sentence": "She <span class='highlight'>totally</span> danced in the rain.",
+    "answer": "adverb",
+    "clue": "totally means completely"
+  },
+  {
+    "word": "hastily",
+    "sentence": "I <span class='highlight'>hastily</span> closed the baby's door.",
+    "answer": "adverb",
+    "clue": "hastily means in a quick and careless way"
+  },
+  {
+    "word": "truthfully",
+    "sentence": "They <span class='highlight'>truthfully</span> ask questions.",
+    "answer": "adverb",
+    "clue": "truthfully means in a truthful way"
+  },
+  {
+    "word": "calmly",
+    "sentence": "He <span class='highlight'>calmly</span> read the letter.",
+    "answer": "adverb",
+    "clue": "calmly means in a calm way"
+  },
+  {
+    "word": "nervously",
+    "sentence": "The car <span class='highlight'>nervously</span> stopped at the corner.",
+    "answer": "adverb",
+    "clue": "nervously means in a nervous way"
+  },
+  {
+    "word": "really",
+    "sentence": "I <span class='highlight'>really</span> watch television.",
+    "answer": "adverb",
+    "clue": "really means very or truly"
+  }
   {
     "word": "cold",
     "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
     "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
+    "clue": "cold means not warm."
   },
   {
     "word": "nice",
     "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
     "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
-    "answer": "noun",
-    "clue": "It's a person, place, or thing."
-  },
-  {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
-    "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "nice means pleasant or kind."
   },
   {
     "word": "quiet",
     "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
     "answer": "adjective",
-    "clue": "It describes a noun."
+    "clue": "quiet means with little or no noise."
+  },
+  {
+    "word": "funny",
+    "sentence": "I read a <span class='highlight'>funny</span> story last night.",
+    "answer": "adjective",
+    "clue": "funny means it makes you laugh."
+  },
+  {
+    "word": "smart",
+    "sentence": "He is a <span class='highlight'>smart</span> student.",
+    "answer": "adjective",
+    "clue": "smart means intelligent."
+  },
+  {
+    "word": "great",
+    "sentence": "That was a <span class='highlight'>great</span> idea!",
+    "answer": "adjective",
+    "clue": "great means very good."
+  },
+  {
+    "word": "hot",
+    "sentence": "The soup was <span class='highlight'>hot</span> and delicious.",
+    "answer": "adjective",
+    "clue": "hot means having a high temperature."
+  },
+  {
+    "word": "tall",
+    "sentence": "We saw a <span class='highlight'>tall</span> building downtown.",
+    "answer": "adjective",
+    "clue": "tall means having a lot of height."
+  },
+  {
+    "word": "cute",
+    "sentence": "The baby is so <span class='highlight'>cute</span>.",
+    "answer": "adjective",
+    "clue": "cute means small and pretty."
+  },
+  {
+    "word": "high",
+    "sentence": "The mountain was <span class='highlight'>high</span> and steep.",
+    "answer": "adjective",
+    "clue": "high means far from the ground."
+  },
+  {
+    "word": "clean",
+    "sentence": "I found a <span class='highlight'>clean</span> shirt to wear.",
+    "answer": "adjective",
+    "clue": "clean means not dirty."
+  },
+  {
+    "word": "easy",
+    "sentence": "The test was <span class='highlight'>easy</span> today.",
+    "answer": "adjective",
+    "clue": "easy means not hard to do."
+  },
+  {
+    "word": "sunny",
+    "sentence": "It's a <span class='highlight'>sunny</span> afternoon.",
+    "answer": "adjective",
+    "clue": "sunny means full of sunlight."
+  },
+  {
+    "word": "long",
+    "sentence": "She has <span class='highlight'>long</span> hair.",
+    "answer": "adjective",
+    "clue": "long means having a lot of length."
+  },
+  {
+    "word": "boring",
+    "sentence": "The movie was <span class='highlight'>boring</span> and slow.",
+    "answer": "adjective",
+    "clue": "boring means not interesting."
+  },
+  {
+    "word": "fast",
+    "sentence": "He gave a <span class='highlight'>fast</span> answer.",
+    "answer": "adjective",
+    "clue": "fast means quick."
+  },
+  {
+    "word": "bright",
+    "sentence": "I love your <span class='highlight'>bright</span> idea.",
+    "answer": "adjective",
+    "clue": "bright means full of light or smart."
+  },
+  {
+    "word": "dark",
+    "sentence": "We walked through a <span class='highlight'>dark</span> tunnel.",
+    "answer": "adjective",
+    "clue": "dark means not much light."
+  },
+  {
+    "word": "colorful",
+    "sentence": "Her dress is very <span class='highlight'>colorful</span>.",
+    "answer": "adjective",
+    "clue": "colorful means full of colors."
+  },
+  {
+    "word": "sweet",
+    "sentence": "The cake was <span class='highlight'>sweet</span>.",
+    "answer": "adjective",
+    "clue": "sweet means having a sugar taste."
+  },
+  {
+    "word": "difficult",
+    "sentence": "The task was <span class='highlight'>difficult</span> but worth it.",
+    "answer": "adjective",
+    "clue": "difficult means hard to do."
+  },
+  {
+    "word": "heavy",
+    "sentence": "My backpack is <span class='highlight'>heavy</span> today.",
+    "answer": "adjective",
+    "clue": "heavy means having a lot of weight."
+  },
+  {
+    "word": "quick",
+    "sentence": "He made a <span class='highlight'>quick</span> decision.",
+    "answer": "adjective",
+    "clue": "quick means done fast."
+  },
+  {
+    "word": "cool",
+    "sentence": "The air feels <span class='highlight'>cool</span> this morning.",
+    "answer": "adjective",
+    "clue": "cool means slightly cold."
+  },
+  {
+    "word": "rude",
+    "sentence": "She gave a <span class='highlight'>rude</span> reply.",
+    "answer": "adjective",
+    "clue": "rude means not polite."
+  },
+  {
+    "word": "strong",
+    "sentence": "The tiger is a <span class='highlight'>strong</span> animal.",
+    "answer": "adjective",
+    "clue": "strong means having power."
+  },
+  {
+    "word": "hard",
+    "sentence": "This math problem is <span class='highlight'>hard</span>.",
+    "answer": "adjective",
+    "clue": "hard means not easy."
+  },
+  {
+    "word": "silly",
+    "sentence": "That joke was <span class='highlight'>silly</span>.",
+    "answer": "adjective",
+    "clue": "silly means funny or foolish."
+  },
+  {
+    "word": "warm",
+    "sentence": "I wore a <span class='highlight'>warm</span> sweater.",
+    "answer": "adjective",
+    "clue": "warm means slightly hot."
+  },
+  {
+    "word": "noisy",
+    "sentence": "The dog was <span class='highlight'>noisy</span> all night.",
+    "answer": "adjective",
+    "clue": "noisy means loud."
+  },
+  {
+    "word": "beautiful",
+    "sentence": "It was a <span class='highlight'>beautiful</span> sunset.",
+    "answer": "adjective",
+    "clue": "beautiful means very nice to see."
+  },
+  {
+    "word": "new",
+    "sentence": "My shoes are <span class='highlight'>new</span>.",
+    "answer": "adjective",
+    "clue": "new means not old."
+  },
+  {
+    "word": "soft",
+    "sentence": "This pillow is <span class='highlight'>soft</span>.",
+    "answer": "adjective",
+    "clue": "soft means not hard."
+  },
+  {
+    "word": "empty",
+    "sentence": "The room felt <span class='highlight'>empty</span>.",
+    "answer": "adjective",
+    "clue": "empty means nothing inside."
+  },
+  {
+    "word": "true",
+    "sentence": "He gave a <span class='highlight'>true</span> answer.",
+    "answer": "adjective",
+    "clue": "true means correct or right."
+  },
+  {
+    "word": "clear",
+    "sentence": "The water is <span class='highlight'>clear</span>.",
+    "answer": "adjective",
+    "clue": "clear means easy to see through."
+  },
+  {
+    "word": "dangerous",
+    "sentence": "That was a <span class='highlight'>dangerous</span> path.",
+    "answer": "adjective",
+    "clue": "dangerous means not safe."
+  },
+  {
+    "word": "neat",
+    "sentence": "Her writing is very <span class='highlight'>neat</span>.",
+    "answer": "adjective",
+    "clue": "neat means clean and organized."
+  },
+  {
+    "word": "tricky",
+    "sentence": "This puzzle is <span class='highlight'>tricky</span>.",
+    "answer": "adjective",
+    "clue": "tricky means hard to figure out."
+  },
+  {
+    "word": "thick",
+    "sentence": "The coat is <span class='highlight'>thick</span> and warm.",
+    "answer": "adjective",
+    "clue": "thick means not thin."
+  },
+  {
+    "word": "kind",
+    "sentence": "She is <span class='highlight'>kind</span> to animals.",
+    "answer": "adjective",
+    "clue": "kind means nice to others."
+  },
+  {
+    "word": "scary",
+    "sentence": "The movie was <span class='highlight'>scary</span> but good.",
+    "answer": "adjective",
+    "clue": "scary means causing fear."
+  },
+  {
+    "word": "narrow",
+    "sentence": "That road is <span class='highlight'>narrow</span>.",
+    "answer": "adjective",
+    "clue": "narrow means not wide."
+  },
+  {
+    "word": "small",
+    "sentence": "His bag is <span class='highlight'>small</span> and light.",
+    "answer": "adjective",
+    "clue": "small means not big."
+  },
+  {
+    "word": "gray",
+    "sentence": "The sky looks <span class='highlight'>gray</span> today.",
+    "answer": "adjective",
+    "clue": "gray means a color between black and white."
+  },
+  {
+    "word": "rare",
+    "sentence": "She found a <span class='highlight'>rare</span> coin.",
+    "answer": "adjective",
+    "clue": "rare means not common."
+  },
+  {
+    "word": "interesting",
+    "sentence": "This book is <span class='highlight'>interesting</span>.",
+    "answer": "adjective",
+    "clue": "interesting means it catches your attention."
+  },
+  {
+    "word": "wild",
+    "sentence": "We saw a <span class='highlight'>wild</span> bird.",
+    "answer": "adjective",
+    "clue": "wild means not tamed."
+  },
+  {
+    "word": "broken",
+    "sentence": "That chair is <span class='highlight'>broken</span>.",
+    "answer": "adjective",
+    "clue": "broken means not working."
+  },
+  {
+    "word": "soft",
+    "sentence": "The baby has a <span class='highlight'>soft</span> blanket.",
+    "answer": "adjective",
+    "clue": "soft means smooth or gentle."
+  },
+  {
+    "word": "correct",
+    "sentence": "His answer was <span class='highlight'>correct</span>.",
+    "answer": "adjective",
+    "clue": "correct means right."
+  },
+  {
+    "word": "happy",
+    "sentence": "She is a <span class='highlight'>happy</span> person.",
+    "answer": "adjective",
+    "clue": "happy means feeling good."
+  },
+  {
+    "word": "steep",
+    "sentence": "That hill is very <span class='highlight'>steep</span>.",
+    "answer": "adjective",
+    "clue": "steep means very high and sharp."
+  },
+  {
+    "word": "loud",
+    "sentence": "The noise was <span class='highlight'>loud</span> and sudden.",
+    "answer": "adjective",
+    "clue": "loud means with a lot of sound."
+  },
+  {
+    "word": "light",
+    "sentence": "Her backpack is <span class='highlight'>light</span> today.",
+    "answer": "adjective",
+    "clue": "light means not heavy."
+  },
+  {
+    "word": "greasy",
+    "sentence": "This pizza is <span class='highlight'>greasy</span> but tasty.",
+    "answer": "adjective",
+    "clue": "greasy means full of oil."
+  },
+  {
+    "word": "cold",
+    "sentence": "The water is <span class='highlight'>cold</span> and refreshing.",
+    "answer": "adjective",
+    "clue": "cold means not warm."
+  },
+  {
+    "word": "sharp",
+    "sentence": "That rock is <span class='highlight'>sharp</span>.",
+    "answer": "adjective",
+    "clue": "sharp means can cut easily."
+  },
+  {
+    "word": "friendly",
+    "sentence": "The dog was <span class='highlight'>friendly</span> to us.",
+    "answer": "adjective",
+    "clue": "friendly means kind and welcoming."
+  },
+  {
+    "word": "wide",
+    "sentence": "The field is <span class='highlight'>wide</span> and open.",
+    "answer": "adjective",
+    "clue": "wide means having a lot of space."
+  },
+  {
+    "word": "cheap",
+    "sentence": "I bought a <span class='highlight'>cheap</span> toy at the market.",
+    "answer": "adjective",
+    "clue": "cheap means not expensive."
+  },
+  {
+    "word": "gentle",
+    "sentence": "She has a <span class='highlight'>gentle</span> voice.",
+    "answer": "adjective",
+    "clue": "gentle means soft and kind."
+  },
+  {
+    "word": "short",
+    "sentence": "The letter was <span class='highlight'>short</span> and sweet.",
+    "answer": "adjective",
+    "clue": "short means not long."
+  },
+  {
+    "word": "brave",
+    "sentence": "He is a <span class='highlight'>brave</span> firefighter.",
+    "answer": "adjective",
+    "clue": "brave means not afraid."
+  },
+  {
+    "word": "warm",
+    "sentence": "The cookies are still <span class='highlight'>warm</span>.",
+    "answer": "adjective",
+    "clue": "warm means a little hot."
+  },
+  {
+    "word": "important",
+    "sentence": "This lesson is <span class='highlight'>important</span>.",
+    "answer": "adjective",
+    "clue": "important means it matters a lot."
+  },
+  {
+    "word": "creepy",
+    "sentence": "That spider looks <span class='highlight'>creepy</span>.",
+    "answer": "adjective",
+    "clue": "creepy means scary or strange."
+  },
+  {
+    "word": "helpful",
+    "sentence": "My teacher is very <span class='highlight'>helpful</span>.",
+    "answer": "adjective",
+    "clue": "helpful means giving help."
+  },
+  {
+    "word": "full",
+    "sentence": "The box was <span class='highlight'>full</span> of toys.",
+    "answer": "adjective",
+    "clue": "full means holding a lot."
+  },
+  {
+    "word": "clear",
+    "sentence": "He gave a <span class='highlight'>clear</span> explanation.",
+    "answer": "adjective",
+    "clue": "clear means easy to understand."
+  },
+  {
+    "word": "quiet",
+    "sentence": "The rabbit is <span class='highlight'>quiet</span>.",
+    "answer": "adjective",
+    "clue": "quiet means silent."
+  },
+  {
+    "word": "emotional",
+    "sentence": "That movie was <span class='highlight'>emotional</span>.",
+    "answer": "adjective",
+    "clue": "emotional means full of strong feelings."
+  },
+  {
+    "word": "rough",
+    "sentence": "The surface was <span class='highlight'>rough</span> to the touch.",
+    "answer": "adjective",
+    "clue": "rough means not smooth."
+  },
+  {
+    "word": "messy",
+    "sentence": "His handwriting is <span class='highlight'>messy</span>.",
+    "answer": "adjective",
+    "clue": "messy means not neat."
+  },
+  {
+    "word": "amazing",
+    "sentence": "The view from the hill was <span class='highlight'>amazing</span>.",
+    "answer": "adjective",
+    "clue": "amazing means very surprising or good."
+  }
+    {
+    "word": "runs",
+    "sentence": "She <span class='highlight'>runs</span> around the track every morning.",
+    "answer": "verb",
+    "clue": "To run means to move fast on your feet."
+  },
+  {
+    "word": "read",
+    "sentence": "I <span class='highlight'>read</span> three books during the summer.",
+    "answer": "verb",
+    "clue": "To read means to look at words and understand them."
+  },
+  {
+    "word": "opened",
+    "sentence": "They <span class='highlight'>opened</span> the gift slowly and carefully.",
+    "answer": "verb",
+    "clue": "To open means to make something not closed."
+  },
+  {
+    "word": "drew",
+    "sentence": "He <span class='highlight'>drew</span> a picture of a dinosaur.",
+    "answer": "verb",
+    "clue": "To drew means to do something."
+  },
+  {
+    "word": "close",
+    "sentence": "Please <span class='highlight'>close</span> the window before you leave.",
+    "answer": "verb",
+    "clue": "To close means to shut something."
+  },
+  {
+    "word": "cried",
+    "sentence": "The baby <span class='highlight'>cried</span> when the toy broke.",
+    "answer": "verb",
+    "clue": "To cry means to make tears when sad."
+  },
+  {
+    "word": "waited",
+    "sentence": "We <span class='highlight'>waited</span> for the bus in the rain.",
+    "answer": "verb",
+    "clue": "To wait means to stay until something happens."
+  },
+  {
+    "word": "wrote",
+    "sentence": "I <span class='highlight'>wrote</span> a letter to my grandmother.",
+    "answer": "verb",
+    "clue": "To write means to put words on paper."
+  },
+  {
+    "word": "drives",
+    "sentence": "She <span class='highlight'>drives</span> to work every day.",
+    "answer": "verb",
+    "clue": "To drive means to control a car."
+  },
+  {
+    "word": "listened",
+    "sentence": "The students <span class='highlight'>listened</span> carefully to the teacher.",
+    "answer": "verb",
+    "clue": "To listen means to pay attention to sounds."
+  },
+  {
+    "word": "eats",
+    "sentence": "He <span class='highlight'>eats</span> lunch at noon.",
+    "answer": "verb",
+    "clue": "To eat means to put food in your mouth."
+  },
+  {
+    "word": "found",
+    "sentence": "I <span class='highlight'>found</span> a shell on the beach.",
+    "answer": "verb",
+    "clue": "To find means to see something you were looking for."
+  },
+  {
+    "word": "play",
+    "sentence": "We <span class='highlight'>play</span> soccer every weekend.",
+    "answer": "verb",
+    "clue": "To play means to have fun or join a game."
+  },
+  {
+    "word": "broke",
+    "sentence": "She <span class='highlight'>broke</span> her glasses yesterday.",
+    "answer": "verb",
+    "clue": "To break means to make something not work."
+  },
+  {
+    "word": "helps",
+    "sentence": "He <span class='highlight'>helps</span> his mom with the groceries.",
+    "answer": "verb",
+    "clue": "To help means to do something nice for someone."
+  },
+  {
+    "word": "learned",
+    "sentence": "I <span class='highlight'>learned</span> a new word today.",
+    "answer": "verb",
+    "clue": "To learn means to understand something new."
+  },
+  {
+    "word": "jumped",
+    "sentence": "They <span class='highlight'>jumped</span> over the puddle.",
+    "answer": "verb",
+    "clue": "To jump means to go up into the air."
+  },
+  {
+    "word": "sing",
+    "sentence": "I <span class='highlight'>sing</span> in the school choir.",
+    "answer": "verb",
+    "clue": "To sing means to use your voice with music."
+  },
+  {
+    "word": "watched",
+    "sentence": "We <span class='highlight'>watched</span> a movie last night.",
+    "answer": "verb",
+    "clue": "To watch means to look at something for a time."
+  },
+  {
+    "word": "sleeps",
+    "sentence": "He <span class='highlight'>sleeps</span> with a nightlight on.",
+    "answer": "verb",
+    "clue": "To sleep means to rest your body and mind."
+  },
+  {
+    "word": "drink",
+    "sentence": "I <span class='highlight'>drink</span> orange juice in the morning.",
+    "answer": "verb",
+    "clue": "To drink means to put liquid in your mouth."
+  },
+  {
+    "word": "painted",
+    "sentence": "She <span class='highlight'>painted</span> the wall blue.",
+    "answer": "verb",
+    "clue": "To paint means to put color on something."
+  },
+  {
+    "word": "travel",
+    "sentence": "They <span class='highlight'>travel</span> every summer.",
+    "answer": "verb",
+    "clue": "To travel means to go to a new place."
+  },
+  {
+    "word": "walk",
+    "sentence": "We <span class='highlight'>walk</span> to school together.",
+    "answer": "verb",
+    "clue": "To walk means to move with your feet."
+  },
+  {
+    "word": "throws",
+    "sentence": "He <span class='highlight'>throws</span> the ball very far.",
+    "answer": "verb",
+    "clue": "To throw means to push something through the air."
+  },
+  {
+    "word": "run",
+    "sentence": "I <span class='highlight'>run</span> faster when it\u2019s cold.",
+    "answer": "verb",
+    "clue": "To run means to move fast on your feet."
+  },
+  {
+    "word": "fixes",
+    "sentence": "She <span class='highlight'>fixes</span> old furniture for fun.",
+    "answer": "verb",
+    "clue": "To fix means to make something work again."
+  },
+  {
+    "word": "laugh",
+    "sentence": "We <span class='highlight'>laugh</span> at funny jokes.",
+    "answer": "verb",
+    "clue": "To laugh means to make a happy sound when something is funny."
+  },
+  {
+    "word": "teaches",
+    "sentence": "He <span class='highlight'>teaches</span> history at the college.",
+    "answer": "verb",
+    "clue": "To teach means to help someone learn."
+  },
+  {
+    "word": "climbed",
+    "sentence": "I <span class='highlight'>climbed</span> the stairs quickly.",
+    "answer": "verb",
+    "clue": "To climb means to go up something."
+  },
+  {
+    "word": "dances",
+    "sentence": "She <span class='highlight'>dances</span> every Saturday night.",
+    "answer": "verb",
+    "clue": "To dance means to move to music."
+  },
+  {
+    "word": "cook",
+    "sentence": "They <span class='highlight'>cook</span> together on weekends.",
+    "answer": "verb",
+    "clue": "To cook means to make food ready to eat."
+  },
+  {
+    "word": "lost",
+    "sentence": "I <span class='highlight'>lost</span> my favorite hat at the park.",
+    "answer": "verb",
+    "clue": "To lose means to not know where something is."
+  },
+  {
+    "word": "win",
+    "sentence": "We <span class='highlight'>win</span> when we work as a team.",
+    "answer": "verb",
+    "clue": "To win means to be the best at something."
+  },
+  {
+    "word": "builds",
+    "sentence": "He <span class='highlight'>builds</span> model airplanes.",
+    "answer": "verb",
+    "clue": "To build means to make something new."
+  },
+  {
+    "word": "draws",
+    "sentence": "She <span class='highlight'>draws</span> amazing portraits.",
+    "answer": "verb",
+    "clue": "To draw means to make pictures with a pen or pencil."
+  },
+  {
+    "word": "opened",
+    "sentence": "I <span class='highlight'>opened</span> the door slowly.",
+    "answer": "verb",
+    "clue": "To open means to make something not closed."
+  },
+  {
+    "word": "carry",
+    "sentence": "They <span class='highlight'>carry</span> the boxes upstairs.",
+    "answer": "verb",
+    "clue": "To carry means to hold something and take it somewhere."
+  },
+  {
+    "word": "swim",
+    "sentence": "We <span class='highlight'>swim</span> in the lake every summer.",
+    "answer": "verb",
+    "clue": "To swim means to move through water."
+  },
+  {
+    "word": "feeds",
+    "sentence": "He <span class='highlight'>feeds</span> the dog twice a day.",
+    "answer": "verb",
+    "clue": "To feed means to give food."
+  },
+  {
+    "word": "watched",
+    "sentence": "I <span class='highlight'>watched</span> the clouds move.",
+    "answer": "verb",
+    "clue": "To watch means to look at something for a time."
+  },
+  {
+    "word": "calls",
+    "sentence": "She <span class='highlight'>calls</span>her grandmother on Sundays.",
+    "answer": "verb",
+    "clue": "To call means to talk to someone on the phone."
+  },
+  {
+    "word": "follow",
+    "sentence": "We <span class='highlight'>follow</span> the map carefully.",
+    "answer": "verb",
+    "clue": "To follow means to go after someone or something."
+  },
+  {
+    "word": "closes",
+    "sentence": "He <span class='highlight'>closes</span> the gate behind him.",
+    "answer": "verb",
+    "clue": "To close means to make something shut."
+  },
+  {
+    "word": "share",
+    "sentence": "They <span class='highlight'>share</span> their toys.",
+    "answer": "verb",
+    "clue": "To share means to let someone use something with you."
+  },
+  {
+    "word": "start",
+    "sentence": "I <span class='highlight'>start</span>the day with a smile.",
+    "answer": "verb",
+    "clue": "To start means to begin something."
+  },
+  {
+    "word": "counts",
+    "sentence": "She <span class='highlight'>counts</span>the stars at night.",
+    "answer": "verb",
+    "clue": "To count means to say numbers in order."
+  },
+  {
+    "word": "leaves",
+    "sentence": "He <span class='highlight'>leaves</span>early on Fridays.",
+    "answer": "verb",
+    "clue": "To leave means to go away."
+  },
+  {
+    "word": "hide",
+    "sentence": "We <span class='highlight'>hide</span>during hide-and-seek.",
+    "answer": "verb",
+    "clue": "To hide means to go where no one can see you."
+  },
+  {
+    "word": "catch",
+    "sentence": "I <span class='highlight'>catch</span>the ball with one hand.",
+    "answer": "verb",
+    "clue": "To catch means to take something that is moving."
+  },
+  {
+    "word": "dig",
+    "sentence": "They <span class='highlight'>dig</span> holes in the sand.",
+    "answer": "verb",
+    "clue": "To dig means to make a hole in the ground."
+  },
+  {
+    "word": "rides",
+    "sentence": "She <span class='highlight'>rides</span>her bike to school.",
+    "answer": "verb",
+    "clue": "To ride means to sit on something that moves."
+  },
+  {
+    "word": "drop",
+    "sentence": "I <span class='highlight'>drop</span> my phone sometimes.",
+    "answer": "verb",
+    "clue": "To drop means to let something fall."
+  },
+  {
+    "word": "pushes",
+    "sentence": "He <span class='highlight'>pushes</span>the heavy door open.",
+    "answer": "verb",
+    "clue": "To push means to move something away from you."
+  },
+  {
+    "word": "shout",
+    "sentence": "We <span class='highlight'>shout</span>when we are excited.",
+    "answer": "verb",
+    "clue": "To shout means to speak very loudly."
+  },
+  {
+    "word": "closes",
+    "sentence": "She <span class='highlight'>closes</span>the book quietly.",
+    "answer": "verb",
+    "clue": "To close means to make something shut."
+  },
+  {
+    "word": "forgets",
+    "sentence": "He <span class='highlight'>forgets</span>his lunch often.",
+    "answer": "verb",
+    "clue": "To forget means to not remember."
+  },
+  {
+    "word": "remember",
+    "sentence": "I <span class='highlight'>remember</span>my first day of school.",
+    "answer": "verb",
+    "clue": "To remember means to keep something in your mind."
+  },
+  {
+    "word": "move",
+    "sentence": "They <span class='highlight'>move</span>the chairs for the show.",
+    "answer": "verb",
+    "clue": "To move means to change place or position."
+  },
+  {
+    "word": "draws",
+    "sentence": "She <span class='highlight'>draws</span>animals really well.",
+    "answer": "verb",
+    "clue": "To draw means to make pictures with a pen or pencil."
+  },
+  {
+    "word": "wears",
+    "sentence": "He <span class='highlight'>wears</span>a hat every day.",
+    "answer": "verb",
+    "clue": "To wear means to have clothes on your body."
+  },
+  {
+    "word": "bring",
+    "sentence": "I <span class='highlight'>bring</span>snacks to the party.",
+    "answer": "verb",
+    "clue": "To bring means to take something with you."
+  },
+  {
+    "word": "sit",
+    "sentence": "We <span class='highlight'>sit</span>in a circle at story time.",
+    "answer": "verb",
+    "clue": "To sit means to rest on a chair or the ground."
+  },
+  {
+    "word": "turns",
+    "sentence": "She <span class='highlight'>turns</span>off the lights.",
+    "answer": "verb",
+    "clue": "To turn means to move around a point."
+  },
+  {
+    "word": "finds",
+    "sentence": "He <span class='highlight'>finds</span>new music online.",
+    "answer": "verb",
+    "clue": "To find means to see something that was lost."
+  },
+  {
+    "word": "clean",
+    "sentence": "I <span class='highlight'>clean</span>my room every Friday.",
+    "answer": "verb",
+    "clue": "To clean means to make something not dirty."
+  },
+  {
+    "word": "miss",
+    "sentence": "They <span class='highlight'>miss</span>the bus sometimes.",
+    "answer": "verb",
+    "clue": "To miss means to not catch or be too late."
+  },
+  {
+    "word": "need",
+    "sentence": "We <span class='highlight'>need</span>more pencils.",
+    "answer": "verb",
+    "clue": "To need means you must have something."
+  },
+  {
+    "word": "gets",
+    "sentence": "She <span class='highlight'>gets</span>tired after school.",
+    "answer": "verb",
+    "clue": "To get means to receive or take something."
+  },
+  {
+    "word": "starts",
+    "sentence": "He <span class='highlight'>starts</span>work at 9 a.m.",
+    "answer": "verb",
+    "clue": "To start means to begin."
+  },
+  {
+    "word": "check",
+    "sentence": "I <span class='highlight'>check</span>my email often.",
+    "answer": "verb",
+    "clue": "To check means to look at something to be sure."
+  },
+  {
+    "word": "send",
+    "sentence": "They <span class='highlight'>send</span>postcards every trip.",
+    "answer": "verb",
+    "clue": "To send means to make something go to another place."
+  },
+  {
+    "word": "answers",
+    "sentence": "She <span class='highlight'>answers</span>all the questions.",
+    "answer": "verb",
+    "clue": "To answer means to say something after a question."
+  },
+  {
+    "word": "turns",
+    "sentence": "He <span class='highlight'>turns</span>the page slowly.",
+    "answer": "verb",
+    "clue": "To turn means to move around a point."
+  },
+  {
+    "word": "pull",
+    "sentence": "We <span class='highlight'>pull</span>the rope together.",
+    "answer": "verb",
+    "clue": "To pull means to move something toward you."
+  }
+   {
+    "word": "backpack",
+    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "answer": "noun",
+    "clue": "A backpack is used to carry stuff."
   },
   {
     "word": "apple",
     "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
+    "clue": "An apple is sweet."
   },
   {
     "word": "museum",
     "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A museum is where people see old and important things."
   },
   {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
+    "word": "phone",
+    "sentence": "She bought a new <span class='highlight'>phone</span> after losing her old one.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A phone is used to talk to people."
   },
   {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
+    "word": "teacher",
+    "sentence": "A <span class='highlight'>teacher</span> helped me solve the math problem.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A teacher helps students learn."
   },
   {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
+    "word": "keys",
+    "sentence": "I left my <span class='highlight'>keys</span> on the kitchen counter.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "Keys can open doors."
   },
   {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
+    "word": "car",
+    "sentence": "The <span class='highlight'>car</span> wouldn't start in the cold weather.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "People use cars to go places."
   },
   {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
+    "word": "dog",
+    "sentence": "A <span class='highlight'>dog</span> barked loudly outside the window.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A dog barks and runs around."
   },
   {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
+    "word": "guitar",
+    "sentence": "He plays the <span class='highlight'>guitar</span> in a local band.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A guitar is used to make music."
   },
   {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
+    "word": "mirror",
+    "sentence": "She cleaned the dusty <span class='highlight'>mirror</span> in the hallway.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "You can see yourself in a mirror."
   },
   {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
+    "word": "bus",
+    "sentence": "We waited for the <span class='highlight'>bus</span> in the rain.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A bus can take many people somewhere."
   },
   {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "word": "wall",
+    "sentence": "They painted the <span class='highlight'>wall</span> bright yellow.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A wall is the end of a room."
   },
   {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "word": "coin",
+    "sentence": "He found a <span class='highlight'>coin</span> on the sidewalk.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A coin is used to buy things."
   },
   {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
+    "word": "river",
+    "sentence": "A <span class='highlight'>river</span> runs through the valley.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A river is a long flowing body of water."
   },
   {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "word": "store",
+    "sentence": "The <span class='highlight'>store</span> closes at 9 p.m. every night.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A store is where people shop for things."
   },
   {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
+    "word": "bell",
+    "sentence": "I heard a <span class='highlight'>bell</span> ring loudly across the schoolyard.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A bell makes a ringing sound."
   },
   {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
+    "word": "crowd",
+    "sentence": "A large <span class='highlight'>crowd</span> gathered to watch the parade.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A crowd is many people in one place."
   },
   {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
+    "word": "cake",
+    "sentence": "The <span class='highlight'>cake</span> looked delicious on the table.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "Cakes are a common birthday food."
   },
   {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
+    "word": "library",
+    "sentence": "We visited the <span class='highlight'>library</span> to borrow some books.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A library is where people borrow books."
   },
   {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
+    "word": "wallet",
+    "sentence": "She dropped her <span class='highlight'>wallet</span> in the parking lot.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A wallet is used to hold money."
   },
   {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
+    "word": "bridge",
+    "sentence": "A <span class='highlight'>bridge</span> connects the two sides of the city.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "People can cross bridges."
   },
   {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "word": "hat",
+    "sentence": "I lost my <span class='highlight'>hat</span> in the wind.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A hat is worn on someone's head."
   },
   {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "word": "suit",
+    "sentence": "He wore a <span class='highlight'>suit</span> to the wedding.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A suit is special clothes."
   },
   {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "word": "lamp",
+    "sentence": "They bought a new <span class='highlight'>lamp</span> for the living room.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A lamp is used to make a room bright."
   },
   {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
+    "word": "child",
+    "sentence": "The <span class='highlight'>child</span> drew a picture of a unicorn.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A child is a young person."
   },
   {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
+    "word": "chair",
+    "sentence": "A <span class='highlight'>chair</span> was missing from the dining room.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "People sit on chairs."
   },
   {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
+    "word": "ball",
+    "sentence": "The <span class='highlight'>ball</span> rolled under the couch.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A ball is used to play games."
   },
   {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "word": "bottle",
+    "sentence": "She put a <span class='highlight'>bottle</span> of water in her bag.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A bottle holds liquids."
   },
   {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "word": "hotel",
+    "sentence": "We stayed at a fancy <span class='highlight'>hotel</span> by the beach.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A hotel is where people stay when traveling."
   },
   {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
+    "word": "computer",
+    "sentence": "The <span class='highlight'>computer</span> crashed while I was working.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "You are using a computer right now."
   },
   {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
+    "word": "gift",
+    "sentence": "He gave me a <span class='highlight'>gift</span> for my birthday.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A gift is something that is given."
   },
   {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
+    "word": "cloud",
+    "sentence": "The <span class='highlight'>cloud</span> looked like a dragon.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "There are usually clouds in the sky."
   },
   {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
+    "word": "picture",
+    "sentence": "I hung a <span class='highlight'>picture</span> on the wall.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A picture is something you can look at that shows what a person, place, or thing looks like."
   },
   {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
+    "word": "plant",
+    "sentence": "The <span class='highlight'>plant</span> needs more sunlight.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "Plants are usually green."
   },
   {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "word": "alarm",
+    "sentence": "A loud <span class='highlight'>alarm</span> woke everyone up.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A alarm is used to wake people up."
   },
   {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "word": "movie",
+    "sentence": "We watched a funny <span class='highlight'>movie</span> last night.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "You can watch movies in a theater."
   },
   {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "word": "kitchen",
+    "sentence": "The <span class='highlight'>kitchen</span> smells like cookies.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A kitchen is where food is prepared."
   },
   {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
+    "word": "pencil",
+    "sentence": "A <span class='highlight'>pencil</span> rolled off the desk.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A pencil is used to write or draw."
   },
   {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
+    "word": "ship",
+    "sentence": "I saw a huge <span class='highlight'>ship</span> in the harbor.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A ship is used to travel on water."
   },
   {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "word": "sun",
+    "sentence": "The <span class='highlight'>sun</span> set behind the mountains.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "The sun is the bright ball in the sky."
   },
   {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
+    "word": "shoes",
+    "sentence": "My <span class='highlight'>shoes</span> got soaked in the rain.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "Shoes are worn on people's feet."
   },
   {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "word": "dress",
+    "sentence": "She wore a <span class='highlight'>dress</span> to the party.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A dress is fancy clothing."
   },
   {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
+    "word": "train",
+    "sentence": "We took the <span class='highlight'>train</span> to the city.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A train travels on rails."
   },
   {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
+    "word": "clock",
+    "sentence": "The <span class='highlight'>clock</span> struck twelve.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A clock tells the time."
   },
   {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
+    "word": "ticket",
+    "sentence": "He held a <span class='highlight'>ticket</span> in his hand.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A ticket is used to access something."
   },
   {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "word": "fire",
+    "sentence": "A <span class='highlight'>fire</span> burned in the fireplace.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A fire keeps the room warm."
   },
   {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "word": "village",
+    "sentence": "They visited a small <span class='highlight'>village</span> in the countryside.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A village is a small town."
   },
   {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "word": "sky",
+    "sentence": "The <span class='highlight'>sky</span> turned orange at sunset.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "The sky is above us."
   },
   {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "word": "path",
+    "sentence": "A <span class='highlight'>path</span> led through the forest.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A path is like a road but for walking."
   },
   {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "word": "beach",
+    "sentence": "The <span class='highlight'>beach</span> was crowded on Saturday.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A beach is where the ocean meets land."
   },
   {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "word": "window",
+    "sentence": "He sat beside the <span class='highlight'>window</span> and read a book.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "We can look outside through a window."
   },
   {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
+    "word": "door",
+    "sentence": "The <span class='highlight'>door</span> creaked when it opened.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A door is where we enter a room."
   },
   {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
+    "word": "table",
+    "sentence": "I put the groceries on the <span class='highlight'>table</span>.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A table is a piece of furniture with a flat top."
   },
   {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
+    "word": "baby",
+    "sentence": "She held a <span class='highlight'>baby</span> in her arms.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A baby sleeps and cries."
   },
   {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
+    "word": "game",
+    "sentence": "They played a <span class='highlight'>game</span> after dinner.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A game is used for fun."
   },
   {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
+    "word": "carpet",
+    "sentence": "The <span class='highlight'>carpet</span> was soft underfoot.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A carpet covers the floor."
   },
   {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
+    "word": "line",
+    "sentence": "We waited in the <span class='highlight'>line</span> for tickets.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "People wait in lines."
   },
   {
-    "word": "jump",
-    "sentence": "She can <span class='highlight'>jump</span> over the fence easily.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
+    "word": "bird",
+    "sentence": "A <span class='highlight'>bird</span> landed on the branch.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A bird flies and lands on trees."
   },
   {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "apple",
-    "sentence": "The <span class='highlight'>apple</span> fell from the tree and hit the ground.",
+    "word": "map",
+    "sentence": "I drew a <span class='highlight'>map</span> of the island.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A map helps people find their way."
   },
   {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "write",
-    "sentence": "He likes to <span class='highlight'>write</span> poems in his notebook.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "quickly",
-    "sentence": "He answered the question <span class='highlight'>quickly</span>.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
+    "word": "light",
+    "sentence": "The <span class='highlight'>light</span> flickered suddenly.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A light is used to make a room bright."
   },
   {
-    "word": "cold",
-    "sentence": "It was a <span class='highlight'>cold</span> day, so we wore jackets.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "always",
-    "sentence": "I <span class='highlight'>always</span> eat breakfast before school.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
-  },
-  {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "run",
-    "sentence": "They <span class='highlight'>run</span> every morning before breakfast.",
-    "answer": "verb",
-    "clue": "It's an action or something you do."
-  },
-  {
-    "word": "nice",
-    "sentence": "She gave me a <span class='highlight'>nice</span> smile.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "quiet",
-    "sentence": "The room felt <span class='highlight'>quiet</span> after the bell rang.",
-    "answer": "adjective",
-    "clue": "It describes a noun."
-  },
-  {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "word": "note",
+    "sentence": "A <span class='highlight'>note</span> was left on the fridge.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A note is a short message."
   },
   {
-    "word": "backpack",
-    "sentence": "I packed a <span class='highlight'>backpack</span> full of books for school.",
+    "word": "ceiling",
+    "sentence": "The <span class='highlight'>ceiling</span> had a small crack.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A ceiling is the top of the room."
   },
   {
-    "word": "museum",
-    "sentence": "We saw a <span class='highlight'>museum</span> during our vacation in Chicago.",
+    "word": "box",
+    "sentence": "He opened the <span class='highlight'>box</span> slowly.",
     "answer": "noun",
-    "clue": "It's a person, place, or thing."
+    "clue": "A box is a container."
   },
   {
-    "word": "carefully",
-    "sentence": "She <span class='highlight'>carefully</span> painted the small details.",
-    "answer": "adverb",
-    "clue": "It describes how something is done."
+    "word": "bench",
+    "sentence": "A <span class='highlight'>bench</span> stood beneath the tree.",
+    "answer": "noun",
+    "clue": "A bench is a wide chair."
+  },
+  {
+    "word": "coat",
+    "sentence": "She bought a new <span class='highlight'>coat</span> for winter.",
+    "answer": "noun",
+    "clue": "A coat keeps people warm."
+  },
+  {
+    "word": "fence",
+    "sentence": "They painted the <span class='highlight'>fence</span> white.",
+    "answer": "noun",
+    "clue": "A fence is a barrier."
+  },
+  {
+    "word": "leaf",
+    "sentence": "A <span class='highlight'>leaf</span> floated to the ground.",
+    "answer": "noun",
+    "clue": "A leaf grows on a tree."
+  },
+  {
+    "word": "floor",
+    "sentence": "The <span class='highlight'>floor</span> was covered in toys.",
+    "answer": "noun",
+    "clue": "A floor is the bottom of a room."
+  },
+  {
+    "word": "glass",
+    "sentence": "I drank from a clean <span class='highlight'>glass</span>.",
+    "answer": "noun",
+    "clue": "A glass is a cup."
+  },
+  {
+    "word": "gas",
+    "sentence": "We stopped at a <span class='highlight'>gas</span> station.",
+    "answer": "noun",
+    "clue": "Gas is fuel for cars.."
+  },
+  {
+    "word": "noise",
+    "sentence": "The <span class='highlight'>noise</span> came from the attic.",
+    "answer": "noun",
+    "clue": "A noise is a sound."
+  },
+  {
+    "word": "knife",
+    "sentence": "He used a sharp <span class='highlight'>knife</span> to cut vegetables.",
+    "answer": "noun",
+    "clue": "A knife is used to cut things."
+  },
+  {
+    "word": "forest",
+    "sentence": "The <span class='highlight'>forest</span> was full of wildlife.",
+    "answer": "noun",
+    "clue": "A forest is an area with trees."
+  },
+  {
+    "word": "ring",
+    "sentence": "She found a <span class='highlight'>ring</span> in the drawer.",
+    "answer": "noun",
+    "clue": "A ring goes on a finger."
+  },
+  {
+    "word": "chimney",
+    "sentence": "I saw smoke from the <span class='highlight'>chimney</span>.",
+    "answer": "noun",
+    "clue": "A chimney lets the smoke outside."
   }
 ]
