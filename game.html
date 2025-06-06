@@ -1,298 +1,304 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-K82VKWSSL7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-K82VKWSSL7');
-</script>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>WordFunction Practice</title>
-<link rel="icon" type="image/png" href="favicon.png" />
-<style>
-  * { box-sizing: border-box; }
-  html, body {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-    font-family: sans-serif;
-    background-color: #f2f7ff;
-  }
-  #page {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-    padding: 1rem;
-    max-width: 600px;
-    margin: 0 auto;
-  }
-  header { text-align: center; }
-  h1 {
-    font-size: 1.6rem;
-    color: #0077cc;
-    margin-bottom: 0.5rem;
-  }
-  #scorePanel {
-    font-size: 1.3rem;
-    font-weight: bold;
-    background: #fff4d2;
-    color: #333;
-    padding: 0.6rem 1rem;
-    border-radius: 1.2rem;
-    margin: 0 auto 1rem auto;
-    max-width: fit-content;
-  }
-  #main {
-    flex-grow: 1;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    text-align: center;
-  }
-  .sentence {
-    font-size: 1.4rem;
-    background: #ffffff;
-    padding: 1rem;
-    border-radius: 0.8rem;
-    border: 2px solid #0077cc;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-    margin-bottom: 1rem;
-  }
-  .highlight {
-    font-weight: bold;
-    color: #0077cc;
-  }
-  .question {
-    font-size: 1.2rem;
-    font-style: italic;
-    color: #333;
-    margin-bottom: 0.5rem;
-  }
-  #message {
-    font-size: 1rem;
-    color: #007700;
-    font-weight: bold;
-    margin-bottom: 0.3rem;
-  }
-  #clue {
-    min-height: 2.2em;
-    display: block;
-    visibility: hidden;
-    font-size: 1rem;
-    color: #cc0000;
-    margin-bottom: 1rem;
-  }
-  .button-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    justify-content: center;
-    margin-top: auto;
-    padding-bottom: 3rem;
-  }
-  .pos-button {
-    flex: 1 1 45%;
-    font-size: 1.1rem;
-    padding: 0.9rem;
-    border: 2px solid #0077cc;
-    border-radius: 0.7rem;
-    background-color: #ffffff;
-    color: #0077cc;
-    cursor: pointer;
-  }
-  .pos-button:active {
-    background-color: #e6f2ff;
-  }
-  .correct {
-    border: 3px solid gold !important;
-    background-color: #fffbea;
-  }
-  .incorrect {
-    border: 3px solid #cc0000 !important;
-    background-color: #ffe6e6;
-  }
-  #nextButton {
-    visibility: hidden;
-    opacity: 0;
-    transition: opacity 0.3s ease;
-    margin-top: 1rem;
-    padding: 1rem;
-    font-size: 1.1rem;
-    background-color: #28a745;
-    color: white;
-    border: none;
-    border-radius: 0.8rem;
-    width: 100%;
-  }
-  #nextButton.show {
-    visibility: visible;
-    opacity: 1;
-  }
-  #nextButton:active {
-    background-color: #218838;
-  }
-  @media (max-width: 600px) {
-    #main { padding-top: 0.5in; }
-  }
-</style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WordFunction Practice</title>
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <style>
+    * { box-sizing: border-box; }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      font-family: sans-serif;
+      background-color: #f2f7ff;
+    }
+
+    #page {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      padding: 1rem;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    header {
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 1.6rem;
+      color: #0077cc;
+      margin-bottom: 0.5rem;
+    }
+
+    #scorePanel {
+      font-size: 1.3rem;
+      font-weight: bold;
+      background: #fff4d2;
+      color: #333;
+      padding: 0.6rem 1rem;
+      border-radius: 1.2rem;
+      margin: 0 auto 1rem auto;
+      max-width: fit-content;
+    }
+
+    #main {
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      text-align: center;
+    }
+
+    .sentence {
+      font-size: 1.4rem;
+      background: #ffffff;
+      padding: 1rem;
+      border-radius: 0.8rem;
+      border: 2px solid #0077cc;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+      margin-bottom: 1rem;
+    }
+
+    .highlight {
+      font-weight: bold;
+      color: #0077cc;
+    }
+
+    .question {
+      font-size: 1.2rem;
+      font-style: italic;
+      color: #333;
+      margin-bottom: 0.5rem;
+    }
+
+    #message {
+      font-size: 1.2rem;
+      position: fixed;
+      top: 40%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: #fff9c4;
+      border: 2px solid #f1c40f;
+      padding: 1rem 1.5rem;
+      border-radius: 1rem;
+      display: none;
+      z-index: 1000;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      cursor: pointer;
+    }
+
+    #clue {
+      min-height: 2.2em;
+      display: block;
+      visibility: hidden;
+      font-size: 1rem;
+      color: #cc0000;
+      margin-bottom: 1rem;
+    }
+
+    .button-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      justify-content: center;
+      margin-top: auto;
+      padding-bottom: 3rem;
+    }
+
+    .pos-button {
+      flex: 1 1 45%;
+      font-size: 1.1rem;
+      padding: 0.9rem;
+      border: 2px solid #0077cc;
+      border-radius: 0.7rem;
+      background-color: #ffffff;
+      color: #0077cc;
+      cursor: pointer;
+    }
+
+    .pos-button:active {
+      background-color: #e6f2ff;
+    }
+
+    .correct {
+      border: 3px solid gold !important;
+      background-color: #fffbea;
+    }
+
+    .incorrect {
+      border: 3px solid #cc0000 !important;
+      background-color: #ffe6e6;
+    }
+
+    #nextButton {
+      visibility: hidden;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+      margin-top: 1rem;
+      padding: 1rem;
+      font-size: 1.1rem;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 0.8rem;
+      width: 100%;
+    }
+
+    #nextButton.show {
+      visibility: visible;
+      opacity: 1;
+    }
+
+    #nextButton:active {
+      background-color: #218838;
+    }
+
+    @media (max-width: 600px) {
+      #main {
+        padding-top: 0.5in;
+      }
+    }
+  </style>
 </head>
 <body>
-<div id="page">
-  <header>
-    <h1>WordFunction</h1>
-    <div id="scorePanel">Points: 0</div>
-  </header>
-  <main id="main">
-    <div class="sentence" id="sentenceBox">Loading...</div>
-    <div class="question" id="questionText"></div>
-    <div id="message" onclick="this.style.display='none'" style="position: absolute; top: 0; left: 0; width: 100%; background: #fff9c4; border: 2px solid #f1c40f; padding: 1rem; border-radius: 0.5rem; font-size: 1.2rem; display: none; z-index: 10; box-shadow: 0 4px 10px rgba(0,0,0,0.1); cursor: pointer; text-align: center;"></div>
-    <div id="clue"></div>
-  </main>
-  <div class="button-container">
-    <button class="pos-button" data-pos="noun">Noun</button>
-    <button class="pos-button" data-pos="verb">Verb</button>
-    <button class="pos-button" data-pos="adjective">Adjective</button>
-    <button class="pos-button" data-pos="adverb">Adverb</button>
+  <div id="page">
+    <header>
+      <h1>WordFunction</h1>
+      <div id="scorePanel">Points: 0</div>
+    </header>
+
+    <main id="main">
+      <div class="sentence" id="sentenceBox">Loading...</div>
+      <div class="question" id="questionText"></div>
+      <div id="message" onclick="this.style.display='none'"></div>
+      <div id="clue"></div>
+    </main>
+
+    <div class="button-container">
+      <button class="pos-button" data-pos="noun">Noun</button>
+      <button class="pos-button" data-pos="verb">Verb</button>
+      <button class="pos-button" data-pos="adjective">Adjective</button>
+      <button class="pos-button" data-pos="adverb">Adverb</button>
+    </div>
+
+    <button id="nextButton">Next</button>
   </div>
-  <button id="nextButton">Next</button>
-</div>
-<script>
-let prompts = [];
-let currentIndex = 0;
-let usedIndexes = JSON.parse(localStorage.getItem("usedIndexes")) || [];
-let tries = 0;
-let totalPoints = parseInt(localStorage.getItem("totalPoints")) || 0;
-const milestones = [
-  { threshold: 100, message: "👍 Great start! You're on your way!" },
-  { threshold: 300, message: "🔥 Building momentum — keep it up!" },
-  { threshold: 600, message: "💪 You're making solid progress!" },
-  { threshold: 900, message: "🧠 Smart moves! You're learning fast!" },
-  { threshold: 1200, message: "🚀 Halfway there! Keep charging forward!" },
-  { threshold: 1500, message: "🏆 Great job — you're mastering this!" },
-  { threshold: 1800, message: "🎯 So close to the final stretch!" },
-  { threshold: 2200, message: "👏 Amazing focus — just a bit more!" },
-  { threshold: 2600, message: "💥 Unstoppable! You're almost perfect!" },
-  { threshold: 3000, message: "👑 Perfect 3000! You're a Word Wizard Supreme!" }
-];
-let messagesShown = JSON.parse(localStorage.getItem("messagesShown")) || [];
-const sentenceBox = document.getElementById("sentenceBox");
-const clue = document.getElementById("clue");
-const nextButton = document.getElementById("nextButton");
-const scorePanel = document.getElementById("scorePanel");
-const questionText = document.getElementById("questionText");
-const buttons = document.querySelectorAll(".pos-button");
-const message = document.getElementById("message");
-function updateScoreboard() {
-  scorePanel.textContent = `Points: ${totalPoints}`;
-}
-function showMessage(points) {
-  milestones.forEach(({ threshold, message }) => {
-    const id = "milestone_" + threshold;
-    const notYetShown = !messagesShown.includes(id);
-    const isTrigger = (threshold === 1000 && points === 1000) || (points > threshold && threshold !== 1000);
-    if (isTrigger && notYetShown) {
-      document.getElementById("message").textContent = message;
-      document.getElementById("message").style.display = "block";
-      messagesShown.push(id);
-      localStorage.setItem("messagesShown", JSON.stringify(messagesShown));
+
+  <script>
+    let prompts = [];
+    let currentIndex = 0;
+    let usedIndexes = JSON.parse(localStorage.getItem("usedIndexes")) || [];
+    let tries = 0;
+    let totalPoints = parseInt(localStorage.getItem("totalPoints")) || 0;
+    const sentenceBox = document.getElementById("sentenceBox");
+    const clue = document.getElementById("clue");
+    const nextButton = document.getElementById("nextButton");
+    const scorePanel = document.getElementById("scorePanel");
+    const questionText = document.getElementById("questionText");
+    const buttons = document.querySelectorAll(".pos-button");
+    const message = document.getElementById("message");
+
+    function updateScoreboard() {
+      scorePanel.textContent = `Points: ${totalPoints}`;
     }
-  });
-}
-function loadQuestion() {
-  const q = prompts[currentIndex];
-  sentenceBox.innerHTML = q.sentence;
-  questionText.textContent = `In this sentence, what kind of word is "${q.word}"?`;
-  clue.style.visibility = "hidden";
-  nextButton.classList.remove("show");
-  message.style.display = "none";
-  tries = 0;
-  buttons.forEach(btn => {
-    btn.disabled = false;
-    btn.classList.remove("correct", "incorrect");
-  });
-}
-function nextQuestion() {
-  usedIndexes.push(currentIndex);
-  localStorage.setItem("usedIndexes", JSON.stringify(usedIndexes));
-  currentIndex++;
-  if (currentIndex < prompts.length) {
-    localStorage.setItem("lastIndex", currentIndex);
-    loadQuestion();
-  } else {
-    sentenceBox.innerHTML = "🎉 Finished all prompts!";
-    document.querySelector(".button-container").style.display = "none";
-    clue.style.visibility = "hidden";
-    questionText.style.display = "none";
-    nextButton.classList.remove("show");
-    message.style.display = "none";
-  }
-}
-buttons.forEach(button => {
-  button.addEventListener("click", () => {
-    const selected = button.getAttribute("data-pos");
-    const correct = prompts[currentIndex].answer;
-    tries++;
-    if (selected === correct) {
-      let points = 0;
-      if (tries === 1) points = 10;
-      else if (tries === 2) points = 7;
-      else if (tries === 3) points = 4;
-      totalPoints += points;
-      localStorage.setItem("totalPoints", totalPoints);
+
+    function loadQuestion() {
+      const q = prompts[currentIndex];
+      sentenceBox.innerHTML = q.sentence;
+      questionText.textContent = `In this sentence, what kind of word is "${q.word}"?`;
+      clue.style.visibility = "hidden";
+      nextButton.classList.remove("show");
+      message.style.display = "none";
+      tries = 0;
+
+      buttons.forEach(btn => {
+        btn.disabled = false;
+        btn.classList.remove("correct", "incorrect");
+      });
+    }
+
+    function nextQuestion() {
+      usedIndexes.push(currentIndex);
+      localStorage.setItem("usedIndexes", JSON.stringify(usedIndexes));
+
+      const availableIndexes = prompts.map((_, i) => i).filter(i => !usedIndexes.includes(i));
+      if (availableIndexes.length === 0) {
+        sentenceBox.innerHTML = "🎉 You’ve completed all prompts!";
+        document.querySelector(".button-container").style.display = "none";
+        clue.style.visibility = "hidden";
+        questionText.style.display = "none";
+        nextButton.classList.remove("show");
+        message.style.display = "none";
+        return;
+      }
+
+      currentIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
+      loadQuestion();
+    }
+
+    buttons.forEach(button => {
+      button.addEventListener("click", () => {
+        const selected = button.getAttribute("data-pos");
+        const correct = prompts[currentIndex].answer;
+        tries++;
+
+        if (selected === correct) {
+          let points = tries === 1 ? 10 : tries === 2 ? 7 : 4;
+          totalPoints += points;
+          localStorage.setItem("totalPoints", totalPoints);
+          updateScoreboard();
+          button.classList.add("correct");
+          clue.textContent = `✅ Correct! You earned ${points} point${points === 1 ? '' : 's'}.`;
+          clue.style.color = "#006600";
+          clue.style.visibility = "visible";
+          nextButton.classList.add("show");
+          buttons.forEach(btn => btn.disabled = true);
+        } else {
+          button.classList.add("incorrect");
+          clue.textContent = "❌ Try again. Clue: " + prompts[currentIndex].clue;
+          clue.style.color = "#cc0000";
+          clue.style.visibility = "visible";
+        }
+      });
+    });
+
+    nextButton.addEventListener("click", nextQuestion);
+
+    Promise.all([
+      fetch('nouns.json').then(res => res.json()),
+      fetch('verbs.json').then(res => res.json()),
+      fetch('adjectives.json').then(res => res.json()),
+      fetch('adverbs.json').then(res => res.json())
+    ]).then(([nouns, verbs, adjectives, adverbs]) => {
+      prompts = [...nouns, ...verbs, ...adjectives, ...adverbs];
+      const availableIndexes = prompts.map((_, i) => i).filter(i => !usedIndexes.includes(i));
+
+      if (availableIndexes.length === 0) {
+        sentenceBox.innerHTML = `🎉 You’ve completed all prompts!`;
+        document.querySelector(".button-container").style.display = "none";
+        clue.style.display = "none";
+        questionText.style.display = "none";
+        nextButton.classList.remove("show");
+        setTimeout(() => {
+          localStorage.removeItem("usedIndexes");
+          localStorage.removeItem("totalPoints");
+          location.reload();
+        }, 8000);
+        return;
+      }
+
+      currentIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
       updateScoreboard();
-      showMessage(totalPoints);
-      button.classList.add("correct");
-      clue.textContent = `✅ Correct! You earned ${points} point${points === 1 ? '' : 's'}.`;
-      clue.style.color = "#006600";
-      clue.style.visibility = "visible";
-      nextButton.classList.add("show");
-      buttons.forEach(btn => btn.disabled = true);
-    } else {
-      button.classList.add("incorrect");
-      clue.textContent = "❌ Try again. Clue: " + prompts[currentIndex].clue;
-      clue.style.color = "#cc0000";
-      clue.style.visibility = "visible";
-    }
-  });
-});
-nextButton.addEventListener("click", nextQuestion);
-Promise.all([
-  fetch('nouns.json').then(res => res.json()),
-  fetch('verbs.json').then(res => res.json()),
-  fetch('adjectives.json').then(res => res.json()),
-  fetch('adverbs.json').then(res => res.json())
-]).then(([nouns, verbs, adjectives, adverbs]) => {
-  prompts = [...nouns, ...verbs, ...adjectives, ...adverbs];
-  const availableIndexes = prompts
-    .map((_, i) => i)
-    .filter(i => !usedIndexes.includes(i));
-  if (availableIndexes.length === 0) {
-    const finalScore = localStorage.getItem("totalPoints") || 0;
-    sentenceBox.innerHTML = `🎉 You’ve completed all prompts!<br><br>You earned <strong>${finalScore}</strong> points — amazing work!<br><br>Let’s start over and see if you can beat your score!`;
-    document.querySelector(".button-container").style.display = "none";
-    clue.style.display = "none";
-    questionText.style.display = "none";
-    nextButton.classList.remove("show");
-    setTimeout(() => {
-      localStorage.removeItem("usedIndexes");
-      localStorage.removeItem("totalPoints");
-      localStorage.removeItem("messagesShown");
-      location.reload();
-    }, 8000);
-    return;
-  }
-  const randomIndex = availableIndexes[Math.floor(Math.random() * availableIndexes.length)];
-  currentIndex = randomIndex;
-  updateScoreboard();
-  loadQuestion();
-}).catch(err => {
-  sentenceBox.innerHTML = "Error loading prompts.";
-  console.error(err);
-});
-</script>
+      loadQuestion();
+    }).catch(err => {
+      sentenceBox.innerHTML = "Error loading prompts.";
+      console.error(err);
+    });
+  </script>
 </body>
 </html>
