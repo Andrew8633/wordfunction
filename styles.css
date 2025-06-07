@@ -36,7 +36,10 @@
       border-radius: 1.2rem;
       margin: 0 auto 1rem auto;
       max-width: fit-content;
+	  margin-top: 20px;
     }
+	
+  
 
     #main {
       flex-grow: 1;
@@ -160,4 +163,8 @@
       #main {
         padding-top: 0.5in;
       }
+	    #scorePanel {
+    font-size: 2rem;
+	margin-top: 0.5in;
+  }
     }
