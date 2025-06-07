@@ -140,7 +140,7 @@
       visibility: hidden;
       opacity: 0;
       transition: opacity 0.3s ease;
-      margin-top: 1rem;
+      margin-top: 0.5rem;
       padding: 1rem;
       font-size: 1.1rem;
       background-color: #28a745;
@@ -166,5 +166,8 @@
 	    #scorePanel {
     font-size: 2rem;
 	margin-top: 0.5in;
+  }
+  #nextButton{
+	  margin-top: -15px
   }
     }
